@@ -19,18 +19,6 @@ Write about hiring in IT, HR Tech, development, I participate in various profess
 
 <hr>
 
-### My profile notices:
-
-Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
-
-For quite a long time I was engaged in hiring specialists in IT and took about 150 families outside the Russian Federation. With the beginning of the war in Ukraine, I left Russia.
-
-In parallel with the development and hiring in IT, I was involved in the development of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
-
-This is a rather non-standard path in a career, but the circumstances have developed )
-
-<hr>
-
 ### My social links:
 
 GitHub: https://github.com/bormaxi8080
@@ -65,11 +53,15 @@ Facebook: https://www.facebook.com/bormaxi
 
 - UX, Figma, CSS, Styles - I can make it nice if needed
 
-<hr>
+### My profile notices:
 
-### My projects timeline:
+Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
 
+For quite a long time I was engaged in hiring specialists in IT and took about 150 families outside the Russian Federation. With the beginning of the war in Ukraine, I left Russia.
 
+In parallel with the development and hiring in IT, I was involved in the development of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
+
+This is a rather non-standard path in a career, but the circumstances have developed.
 
 <hr>
 
@@ -102,6 +94,108 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 [My Resume in Markdown](./resume/bormaxi_resume_tech_EN.md)
 
 [My resume on LinkedIn (PDF)](https://www.linkedin.com/in/maxim-marshak/details/featured/1635500516525/single-media-viewer/)
+
+<hr>
+
+### My projects timeline:
+
+Continued...
+
+Aug 2022 - [Huginn](https://github.com/bormaxi8080/huginn) works (private)
+
+Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), version 2.0
+
+Aug 2022 - Create a new [account on Twitter](https://twitter.com/HiddenDjoker)
+
+Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates (Bellingcat fork)
+
+Jun 2022 - Start some OSINT collections and tools
+
+Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/maxim-marshak/)
+
+Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
+
+May 2022 - Leave Russia (evacuation)
+
+Mar - May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
+
+Mar 2020 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
+
+Feb 2020 - Create and use [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) Utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
+
+Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, emergency-shutdown experiments
+
+Dec 2021 - Pull my [ITHRMemes](https://github.com/bormaxi8080/ITHRMemes) humor collection on GitHub (since 2015)
+
+Dec 2021 - Start a some projects and collections, create forks on GitHub
+
+Dec 2021 - Start a [bormaxi-about-hiring](https://github.com/bormaxi8080/bormaxi-about-hiring) book project
+
+Dec 2021 - Close my hiring agency and checkout into NDA place as software developer
+
+June 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
+
+Jun 2020 - Start a [Yebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project
+
+Sep 2020 - Hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021
+
+Mar 2020 - Compelled Coming Out by private reasons
+
+2018-2019 - Moderate ZloyHR community, the largest hr comminity in russian facebook segment, I think it's a bad experience
+
+2018 - Start a [Nelin.in](https://www.instagram.com/nelen.in/) community project
+
+2015-2021 - Start A GoodJob Hiring Agency.
+
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.
+
+2015 - Start a [No Morale]() humorist private community
+
+2013 - A Pencil Tests habr's publication with 1M views
+
+<hr>
+
+### Projects and people I like and support:
+
+Projects:
+
+[Bellingcat Projects](https://github.com/bellingcat)
+
+[Nurnberg Trials 2.0](https://t.me/peremennn_re)
+
+[Cyber Detective](https://github.com/cipher387)
+
+[OSINT Framework](https://github.com/lockfale/OSINT-Framework)
+
+[CyberYozh Security Group](https://cyberyozh.com/)
+
+[Sharovatov's Teamlead](https://github.com/sharovatov/teamlead)
+
+[Cybersecurity Frameworks and Maturity Models](https://www.linkedin.com/groups/6624427/)
+
+[Huginn](https://github.com/huginn/huginn)
+
+People:
+
+[Vika Pridatko](https://www.facebook.com/vika.prydatko)
+
+[Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/)
+
+[Mikhail Torchinsky](https://www.linkedin.com/in/mikhail-torchinskiy/)
+
+[Alexander Litreev](https://twitter.com/alexlitreev)
+
+[Olga Silverman](https://www.linkedin.com/in/olgasilverman/)
+
+[Alisa Tebaeva](https://www.linkedin.com/in/alisa-tebaeva-3a56032/)
+
+[Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/)
+
+[Petr Sokolov](https://www.facebook.com/petrpsokolov)
+
+[Alina Runova](https://www.linkedin.com/in/alina-runova-319ab844/)
+
+[Alex Sukhorukkov](https://www.linkedin.com/in/asuhorukov/)
 
 <hr>
 
