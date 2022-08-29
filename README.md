@@ -155,7 +155,7 @@ A lot of different communications and activities aka [figma-hiring-tickets](http
 
 2015 - Start a [No Morale](https://www.facebook.com/groups/netmorali/) humorist private Facebook community
 
-2013 - [A Pencil Tests](habrahabr.ru/post/193902/) habr's publication with 1M views
+2013 - [A Pencil Tests](https://www.habrahabr.ru/post/193902/) habr's publication with 1M views
 
 <hr>
 
