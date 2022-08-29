@@ -245,6 +245,4 @@ ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
 
 PayPal: tanya.marshak@yahoo.com
 
-Tinkoff: 5536 9138 6607 4988
-
 <hr>
