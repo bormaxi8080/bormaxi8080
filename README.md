@@ -119,11 +119,11 @@ Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/faceboo
 
 May-Jun 2022 - Leave Russia (evacuation)
 
-Mar - May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
+Mar-May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
 
 Mar 2020 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
 
-Feb 2020 - Create and use [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) Utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
+Feb 2020 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with Forbes and other scandal publications. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
 
 Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, emergency-shutdown experiments
 
@@ -147,7 +147,7 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2018 - Start a [Nelin.in](https://www.instagram.com/nelen.in/) community project
 
-2015-2021 - Start A GoodJob Hiring Agency
+2015 - Start a GoodJob Hiring Agency
 
 A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.
 
