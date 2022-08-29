@@ -81,7 +81,7 @@ Our family channel based on [Marshak's poetry](https://ru.wikipedia.org/wiki/%D0
 
 Private humorous community, founded in 2015
 
-**- Yebenya Rodiny** (aka Fucking Motherland): https://www.instagram.com/ebenya_rodiny/
+**- Ebenya Rodiny** (aka Fucking Motherland): https://www.instagram.com/ebenya_rodiny/
 
 One of the largest collections of street art in the world
 
@@ -137,7 +137,7 @@ Dec 2021 - Close my hiring agency and checkout into NDA place as software develo
 
 June 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
 
-Jun 2020 - Start a [Yebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project
+Jun 2020 - Start a [Ebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project
 
 Mar 2020 - Compelled Coming Out by private reasons
 
