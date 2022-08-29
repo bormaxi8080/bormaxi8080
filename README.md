@@ -12,6 +12,8 @@ Write about hiring in IT, HR Tech, development, I participate in various profess
 
 - [OSINT Framework v.2](https://github.com/bormaxi8080/OSINT-Framework): Revised and modified version of https://osintframework.com OSINT mindmap service
 
+- [Huginn](https://github.com/huginn/huginn) (private), a system for building agents that perform automated tasks for you online
+
 <hr>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=bormaxi8080&count_private=true&show_icons=true&theme=dark)
