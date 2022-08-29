@@ -1,0 +1,87 @@
+# Maxim Marshak
+____
+01.01.1980, **outside the Russian Federation**
+
+[marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
+Telegram: @bormaxi
+
+https://github.com/bormaxi8080/
+[https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
+https://twitter.com/HiddenDjoker
+https://www.facebook.com/bormaxi/
+
+Languages: Russian (native), English (pre-intermediate), Italian (beginner), Kazakh (beginner), Pushtu (specific translation), Georgian (specific translation)
+
+## Specialization and professional skills
+
+Develop in Python, Node.js, GoLang, Perl. OSINT, DevOps.
+Hire targeted for positions in the IT level from middle +, with relocation outside the Russian Federation.
+Write about hiring in IT, HR Tech, development, I participate in various professional communities.
+
+## Work experience
+
+### Dec 2021 - now. NDA, outside the Russian Federation
+
+I develop backends and various automations in Python, GoLang, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside the Russian Federation), market analytics, and help in the development of professional communities. **I do not consider offers from russian corporations, state structures, and office work within the Russian Federation. Now I leave Russia.**
+
+### Nov 2015 - Nov 2021 **GoodJob Hiring Agency, Novosibirsk, Russia** - _Owner_
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.  
+
+### Jun 2019 - Mar 2021 **Improve Group, Novosibirsk, Russia** - _IT Head Hunter_
+The best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021.
+
+### Jun 2018 - Jun 2019 Zloy HR Community, Novosibirsk, Russia - Moderator
+Moderator of the largest public for HR specialists in Russia.
+
+### Jun 2017 - Jun 2019 **FriendWork ATS****, Saint-Petersburg, Russia - Consultant
+Recruiting automation system. Acted as an expert when testing new system functions.
+
+### Aug 2017 - Sep 2018 **FIS Group, Novosibirsk, Russia** _- General HR Manager_
+Banking software company. Recruitment, work with internal HR processes, motivation, retention, HR strategy. After leaving the operating activities of the company, he hired students for internships.
+
+### Nov 2016 - Apr 2017 **ClearScale, Novosibirsk, Russia** - Backend Node.js Developer, contract job
+
+### May 2016 - Nov 2016 **TION, Novosibirsk, Russia** - _Team Lead, contract job_
+
+### Dec 2015 - May 2016 AppGenomics, Novosibirsk, Russia - Backend Node.js Developer, conrtact job
+
+### Dec 2014 - Apr 2015 **EleFun** Games, Novosibirsk, Russia - Backend Node.js Developer, contract job
+
+### May 2014 - Nov 2015 Plamee, Novosibirsk, Russia - Backend Node.js Developer
+
+### Jun 2011 - Apr 2014 Web study, Novosibirsk, Russia - Backend Developer
+
+### Aug 2010 - Jun 2013 Katren, Novosibirsk, Russia - ERP/CRM Developer
+
+### Apr 2002 - Jun 2010 **TOP-KNIGA, Novosibirsk, Russia** - _Software_ Developer, DevOps Lead
+
+## Technology stack
+- Python, Node.js, JavaScript, TypeScript, GoLang, Perl  
+- PostgreSQL, MongoDB, MySql, Redis, Celery, RabbitMQ  
+- AWS (EC2, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana  
+- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, mutli threading, multi processssing, sharding, etc.  
+- Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping and data enrichment  
+- Linux (Ubuntu, Debian, Kali Linux, Amazon Linux, Mikrotik OS), AWS, MacOS, Windows, Docker - at the level of normal DevOps  
+- Java, C++, .NET - at the level of “I can, but without fanaticism”  
+- PHP - at the level of “collect or fix something quickly”  
+- Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)  
+- UX, Figma, CSS, Styles - I can make it nice if needed
+
+## Education
+
+**Novosibirsk State University**
+
+1997 - 2002, Faculty of Mechanics and Mathematics, specialty programming
+
+1998 - 2003, Faculty of Humanities, specialty History  
+**Novosibirsk State Pedagogical University**
+
+2005 - 2007, Faculty of Psychology, specialty Clinical Psychology
+
+## Other
+
+Interests: swimming, OSINT, investigative journalism. Instructor in water tourism (more than 200 alloys of all categories on mountain rivers).
+
+A millionaire publication on Habr, which has long become a classic for QA and is used to teach juniors: http://habrahabr.ru/post/193902/
+
+Driving license category “B”.
