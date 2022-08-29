@@ -139,9 +139,9 @@ June 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publi
 
 Jun 2020 - Start a [Yebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project
 
-Sep 2020 - Hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021
-
 Mar 2020 - Compelled Coming Out by private reasons
+
+Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021
 
 2018-2019 - Moderate ZloyHR community, the largest hr comminity in russian facebook segment, I think it's a bad experience
 
