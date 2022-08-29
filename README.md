@@ -121,9 +121,9 @@ May-Jun 2022 - Leave Russia (evacuation)
 
 Mar-May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
 
-Mar 2020 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
+Mar 2022 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
 
-Feb 2020 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with Forbes and other scandal publications. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
+Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with Forbes and other scandal publications. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
 
 Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
 
