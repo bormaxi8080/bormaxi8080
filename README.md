@@ -117,7 +117,7 @@ Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/maxim-
 
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
-May 2022 - Leave Russia (evacuation)
+May-Jun 2022 - Leave Russia (evacuation)
 
 Mar - May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
 
@@ -191,15 +191,19 @@ People:
 
 [Olga Silverman](https://www.linkedin.com/in/olgasilverman/)
 
+[Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292)
+
 [Alisa Tebaeva](https://www.linkedin.com/in/alisa-tebaeva-3a56032/)
 
 [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/)
 
 [Petr Sokolov](https://www.facebook.com/petrpsokolov)
 
+[Olga Pelshe](https://www.facebook.com/olga.pelshe)
+
 [Alina Runova](https://www.linkedin.com/in/alina-runova-319ab844/)
 
-[Alex Sukhorukov](https://www.linkedin.com/in/asuhorukov/)
+[Alex Suhorukov](https://www.linkedin.com/in/asuhorukov/)
 
 <hr>
 
