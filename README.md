@@ -199,7 +199,7 @@ People:
 
 [Alina Runova](https://www.linkedin.com/in/alina-runova-319ab844/)
 
-[Alex Sukhorukkov](https://www.linkedin.com/in/asuhorukov/)
+[Alex Sukhorukov](https://www.linkedin.com/in/asuhorukov/)
 
 <hr>
 
