@@ -127,7 +127,7 @@ Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi
 
 Dec 2021 - Pull my [ITHRMemes](https://github.com/bormaxi8080/ITHRMemes) humor collection on GitHub (since 2015)
 
-Dec 2021 - Start a some projects and collections, create forks on GitHub
+Dec 2021 - Start a some projects and collections, create forks on GitHub. Experiments with tools and bash scripts, aka [emergency-shutdown](https://github.com/bormaxi8080/emergency-shutdown) bash script for MacOS
 
 Dec 2021 - Start a [bormaxi-about-hiring](https://github.com/bormaxi8080/bormaxi-about-hiring) book project
 
@@ -145,13 +145,15 @@ Mar 2020 - Compelled Coming Out by private reasons
 
 2018 - Start a [Nelin.in](https://www.instagram.com/nelen.in/) community project
 
-2015-2021 - Start A GoodJob Hiring Agency.
+2015-2021 - Start A GoodJob Hiring Agency
 
 A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.
 
-2015 - Start a [No Morale]() humorist private community
+A lot of different communications and activities aka [figma-hiring-tickets](https://github.com/bormaxi8080/figma-hiring-tickets) and more.
 
-2013 - A Pencil Tests habr's publication with 1M views
+2015 - Start a [No Morale](https://www.facebook.com/groups/netmorali/) humorist private Facebook community
+
+2013 - [A Pencil Tests](habrahabr.ru/post/193902/) habr's publication with 1M views
 
 <hr>
 
