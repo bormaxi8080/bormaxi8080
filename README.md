@@ -157,7 +157,7 @@ A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote
 
 A lot of different communications and activities aka [figma-hiring-tickets](https://github.com/bormaxi8080/figma-hiring-tickets) and more.
 
-2015 - Start a [No Morale](https://www.facebook.com/groups/netmorali/) humorist private Facebook community
+2015 - Start a [No Morals](https://www.facebook.com/groups/netmorali/) humorist private Facebook community
 
 2013 - [A Pencil Tests](https://www.habrahabr.ru/post/193902/) habr's publication with 1M views
 
