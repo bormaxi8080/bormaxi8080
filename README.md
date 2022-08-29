@@ -107,13 +107,13 @@ Aug 2022 - [Huginn](https://github.com/bormaxi8080/huginn) works (private)
 
 Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), version 2.0
 
-Aug 2022 - Create a new [account on Twitter](https://twitter.com/HiddenDjoker)
+Aug 2022 - Create my official [account on Twitter](https://twitter.com/HiddenDjoker)
 
 Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates (Bellingcat fork)
 
 Jun 2022 - Start some OSINT collections and tools
 
-Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/maxim-marshak/)
+Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/maxim-marshak/) (previous account was deleted by denunciation)
 
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
