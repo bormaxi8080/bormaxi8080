@@ -8,7 +8,7 @@ Write about hiring in IT, HR Tech, development, I participate in various profess
 
 - [Bormaxi About Hiring](https://github.com/bormaxi8080/bormaxi-about-hiring): Hiring Notes in IT and international recruitment (on examples with cats, obscene language and naked truth), not finished
 
-- [Telepathy](https://github.com/bormaxi8080/Telepathy), modified Bellingcat's Telegram OSINT tool
+- [Telepathy](https://github.com/bormaxi8080/Telepathy), modified Bellingcat Telegram OSINT tool
 
 - [OSINT Framework v.2](https://github.com/bormaxi8080/OSINT-Framework): Revised and modified version of https://osintframework.com OSINT mindmap service
 
