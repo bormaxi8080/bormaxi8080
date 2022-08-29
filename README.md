@@ -187,7 +187,13 @@ People:
 
 [Mikhail Torchinsky](https://www.linkedin.com/in/mikhail-torchinskiy/)
 
+[Polina Kapitonova](https://www.facebook.com/polyzaza)
+
 [Alexander Litreev](https://twitter.com/alexlitreev)
+
+[Alina Mikhel](https://www.facebook.com/alinamikhel)
+
+[Egor Yatsenko](https://www.facebook.com/egor.yatsenko)
 
 [Olga Silverman](https://www.linkedin.com/in/olgasilverman/)
 
