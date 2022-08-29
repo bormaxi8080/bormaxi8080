@@ -185,6 +185,8 @@ People:
 
 [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/)
 
+[Christo Grozev](https://twitter.com/christogrozev)
+
 [Mikhail Torchinsky](https://www.linkedin.com/in/mikhail-torchinskiy/)
 
 [Polina Kapitonova](https://www.facebook.com/polyzaza)
