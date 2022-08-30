@@ -19,7 +19,7 @@ Write about hiring in IT, HR Tech, development, I participate in various profess
 <hr>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=bormaxi8080&count_private=true&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bormaxi8080&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bormaxi8080&theme=dark)](https://git.io/streak-stats)
 
 <hr>
 
@@ -56,6 +56,8 @@ Facebook: https://www.facebook.com/bormaxi
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
 
 - UX, Figma, CSS, Styles - I can make it nice if needed
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
