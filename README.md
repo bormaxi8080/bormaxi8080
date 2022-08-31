@@ -47,7 +47,7 @@ Facebook: https://www.facebook.com/bormaxi
 
 - Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping and data enrichment
 
-- Linux (Ubuntu, Debian, Kali Linux, Amazon Linux, Mikrotik OS), AWS, MacOS, Windows, Docker - at the level of normal DevOps
+- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS), AWS, MacOS, Windows, Docker - at the level of normal DevOps
 
 - Java, C++, .NET - at the level of “I can, but without fanaticism”
 
@@ -57,7 +57,9 @@ Facebook: https://www.facebook.com/bormaxi
 
 - UX, Figma, CSS, Styles - I can make it nice if needed
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
