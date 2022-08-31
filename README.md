@@ -47,7 +47,7 @@ Facebook: https://www.facebook.com/bormaxi
 
 - Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping and data enrichment
 
-- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS), MacOS, Windows, Virtual Machines (VirtualBox, Vagrant) AWS, Docker - at the level of normal DevOps
+- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS), MacOS, Windows, Virtual Machines (VirtualBox, Vagrant), AWS, Docker - at the level of normal DevOps
 
 - Java, C++, .NET - at the level of “I can, but without fanaticism”
 
