@@ -41,7 +41,7 @@ Facebook: https://www.facebook.com/bormaxi
 
 - PostgreSQL, MongoDB, MySql, Redis, Celery, RabbitMQ
 
-- AWS (EC2, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana
+- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana
 
 - Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, mutli threading, multi processssing, sharding, etc.
 
@@ -135,6 +135,8 @@ Mar 2022 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
 
 Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with Forbes and other scandal publications. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
 
+Jan 2022 - [qr-bruteforce](https://github.com/bormaxi8080/qr-bruteforce) COVID-19 [gosuslugi.ru](https://gosuslugi.ru) expermients
+
 Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
 
 Dec 2021 - Pull my [ITHRMemes](https://github.com/bormaxi8080/ITHRMemes) humor collection on GitHub (since 2015)
@@ -177,7 +179,7 @@ Projects:
 
 People:
 
-[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), [Mikhail Torchinsky](https://www.linkedin.com/in/mikhail-torchinskiy/), [Polina Kapitonova](https://www.facebook.com/polyzaza), [Alexander Litreev](https://twitter.com/alexlitreev), [Alina Mikhel](https://www.facebook.com/alinamikhel), [Egor Yatsenko](https://www.facebook.com/egor.yatsenko), [Olga Silverman](https://www.linkedin.com/in/olgasilverman/), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Alisa Tebaeva](https://www.linkedin.com/in/alisa-tebaeva-3a56032/), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov), [Olga Pelshe](https://www.facebook.com/olga.pelshe), [Alina Runova](https://www.linkedin.com/in/alina-runova-319ab844/), [Alex Suhorukov](https://www.linkedin.com/in/asuhorukov/)
+[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), [Mikhail Torchinsky](https://www.linkedin.com/in/mikhail-torchinskiy/), [Polina Kapitonova](https://www.facebook.com/polyzaza), [Alexander Litreev](https://twitter.com/alexlitreev), [Alina Mikhel](https://www.facebook.com/alinamikhel), [Egor Yatsenko](https://www.facebook.com/egor.yatsenko), [Olga Silverman](https://www.linkedin.com/in/olgasilverman/), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Alisa Tebaeva](https://www.linkedin.com/in/alisa-tebaeva-3a56032/), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov), [Olga Pelshe](https://www.facebook.com/olga.pelshe), [Alina Runova](https://www.linkedin.com/in/alina-runova-319ab844/), [Alex Suhorukov](https://www.linkedin.com/in/asuhorukov/)
 
 <hr>
 
