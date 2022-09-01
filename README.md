@@ -43,7 +43,7 @@ Facebook: https://www.facebook.com/bormaxi
 
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana
 
-- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some frameworks, aka queuing, mutli threading, multi processssing, sharding, etc.
+- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some tools & frameworks for queuing, mutli threading, multi processssing, sharding, etc.
 
 - Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 
