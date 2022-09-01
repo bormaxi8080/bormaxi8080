@@ -43,11 +43,11 @@ Facebook: https://www.facebook.com/bormaxi
 
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana
 
-- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, mutli threading, multi processssing, sharding, etc.
+- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some frameworks, aka queuing, mutli threading, multi processssing, sharding, etc.
 
 - Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 
-- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtual Machines (VirtualBox, Vagrant, VMWare), AWS, Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
+- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), AWS, Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 
 - Java, C++, .NET - at the level of “I can, but without fanaticism”
 
@@ -134,6 +134,8 @@ Mar 2022 - [Nurnberg Trials 2.0](https://t.me/peremennn_re) project help
 Mar 2022 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
 
 Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with Forbes and other scandal publications. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
+
+Jan 2022 - Worked on the creation of a complex highload email verification system (private)
 
 Jan 2022 - [qr-bruteforce](https://github.com/bormaxi8080/qr-bruteforce) COVID-19 [gosuslugi.ru](https://gosuslugi.ru) expermients
 
