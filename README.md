@@ -125,7 +125,7 @@ Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/maxim-
 
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
-May-Jun 2022 - Leave Russia (evacuation)
+May-Jun 2022 - Leave Russia (evacuation so as not to be imprisoned)
 
 Mar-May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
 
