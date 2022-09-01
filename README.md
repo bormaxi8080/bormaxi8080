@@ -137,7 +137,7 @@ Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-c
 
 Jan 2022 - Worked on the creation of a complex highload email verification system (private)
 
-Jan 2022 - [qr-bruteforce](https://github.com/bormaxi8080/qr-bruteforce) COVID-19 [gosuslugi.ru](https://gosuslugi.ru) expermients
+Jan 2022 - [qr-bruteforce](https://github.com/bormaxi8080/qr-bruteforce) COVID-19 [gosuslugi.ru](https://gosuslugi.ru) experiments
 
 Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
 
