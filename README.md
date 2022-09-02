@@ -38,28 +38,17 @@ Facebook: https://www.facebook.com/bormaxi
 ### My technology stack:
 
 - Python, Node.js, JavaScript, TypeScript, GoLang, Perl
-
 - PostgreSQL, MongoDB, MySql, Redis, Celery, RabbitMQ
-
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana
-
 - Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some tools & frameworks for queuing, mutli threading, multi processssing, sharding, etc.
-
 - Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
-
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), AWS, Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
-
 - Java, .NET - at the level of “I can, but without fanaticism”
-
 - PHP - at the level of “collect or fix something quickly”
-
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
-
 - UX, Figma, CSS, Styles - I can make it nice if needed
-
 - C++ as a secret rarely used skill
-
-- Delphi, Embarcadero ad oldfag )
+- Delphi, Embarcadero, VBScript ad oldfag )
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -174,6 +163,8 @@ A lot of different communications and activities aka [figma-hiring-tickets](http
 2015 - Start a [No Morals](https://www.facebook.com/groups/netmorali/) humorist private Facebook community
 
 2013 - [A Pencil Tests](https://www.habrahabr.ru/post/193902/) habr's publication with 1M views
+
+2000-2015 - Programming in various projects
 
 <hr>
 
