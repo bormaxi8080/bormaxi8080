@@ -64,11 +64,11 @@ Banking software company. Recruitment, work with internal HR processes, motivati
 - Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), AWS, Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 - Java, .NET - at the level of “I can, but without fanaticism”
+- C++ as a secret rarely used skill
 - PHP - at the level of “collect or fix something quickly”
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
-- UX, Figma, CSS, Styles - I can make it nice if needed
-- C++ as a secret rarely used skill
 - Delphi, Embarcadero, VBScript as oldfag )
+- UX, Figma, CSS, Styles - I can make it nice if needed
 
 ## Education
 
