@@ -48,7 +48,7 @@ Facebook: https://www.facebook.com/bormaxi
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
 - UX, Figma, CSS, Styles - I can make it nice if needed
 - C++ as a secret rarely used skill
-- Delphi, Embarcadero, VBScript ad oldfag )
+- Delphi, Embarcadero, VBScript as oldfag )
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
