@@ -49,13 +49,17 @@ Facebook: https://www.facebook.com/bormaxi
 
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), AWS, Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 
-- Java, C++, .NET - at the level of “I can, but without fanaticism”
+- Java, .NET - at the level of “I can, but without fanaticism”
 
 - PHP - at the level of “collect or fix something quickly”
 
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
 
 - UX, Figma, CSS, Styles - I can make it nice if needed
+
+- C++ as a secret rarely used skill
+
+- Delphi, Embarcadero ad oldfag )
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
