@@ -68,7 +68,7 @@ Banking software company. Recruitment, work with internal HR processes, motivati
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
 - UX, Figma, CSS, Styles - I can make it nice if needed
 - C++ as a secret rarely used skill
-- Delphi, Embarcadero, VBScript ad oldfag )
+- Delphi, Embarcadero, VBScript as oldfag )
 
 ## Education
 
