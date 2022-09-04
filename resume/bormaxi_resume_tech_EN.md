@@ -14,8 +14,8 @@ Languages: Russian (native), English (pre-intermediate), Italian (beginner), Kaz
 
 ## Specialization and professional skills
 
-Develop in Python, Node.js, GoLang, Perl. OSINT, DevOps.
-Hire targeted for positions in the IT level from middle +, with relocation outside the Russian Federation.
+I Develop in Python, Node.js, GoLang, Perl, Bash.
+Sometimes I hire people targeted for positions in the IT level from middle+, with relocation outside the Russia.
 Write about hiring in IT, HR Tech, development, I participate in various professional communities.
 
 ## Work experience
@@ -62,9 +62,9 @@ Banking software company. Recruitment, work with internal HR processes, motivati
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana
 - Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some tools & frameworks for highload, queuing, mutli threading, multi processssing, sharding, etc.
 - Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
-- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), AWS, Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
-- Java, .NET - at the level of “I can, but without fanaticism”
+- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 - C++ as a secret rarely used skill
+- Java, .NET - at the level of “I can, but without fanaticism”
 - PHP - at the level of “collect or fix something quickly”
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
 - Delphi, Embarcadero, VBScript as oldfag )
