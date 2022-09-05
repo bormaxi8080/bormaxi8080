@@ -144,6 +144,8 @@ Dec 2021 - Close my hiring agency and checkout into NDA place as software develo
 
 June 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
 
+May 2021 - Repair this GitHub account from reserve
+
 Jun 2020 - Start a [Ebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project
 
 Mar 2020 - Compelled Coming Out by private reasons
