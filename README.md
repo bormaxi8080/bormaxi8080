@@ -60,7 +60,7 @@ Facebook: https://www.facebook.com/bormaxi
 
 Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
 
-For quite a long time I was engaged in hiring specialists in IT and took about 150 families outside the Russian Federation. With the beginning of the war in Ukraine, I left Russia.
+For quite a long time I was engaged in hiring specialists in IT and took about 150 families outside Russian Federation. With the beginning of the war in Ukraine, I left Russia.
 
 In parallel with the development and hiring in IT, I was involved in the development of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
 
