@@ -15,14 +15,14 @@ Languages: Russian (native), English (pre-intermediate), Italian (beginner), Kaz
 ## Specialization and professional skills
 
 I Develop in Python, Node.js, GoLang, Perl, Bash.
-Sometimes I hire people targeted for positions in the IT level from middle+, with relocation outside the Russia.
+Sometimes I hire people targeted for positions in the IT level from middle+, with relocation outside Russia.
 Write about hiring in IT, HR Tech, development, I participate in various professional communities.
 
 ## Work experience
 
-### Dec 2021 - now. NDA, outside the Russian Federation
+### Dec 2021 - now. NDA, outside Russia
 
-I develop backends and various automations in Python, GoLang, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside the Russian Federation), market analytics, and help in the development of professional communities. **I do not consider offers from russian corporations, state structures, and office work within the Russian Federation. Now I leave Russia.**
+I develop backends and various automations in Python, GoLang, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside Russian Federation), market analytics, and help in the development of professional communities. **I do not consider offers from russian corporations, state structures, and office work within Russian Federation. Now I leave Russia.**
 
 ### Nov 2015 - Nov 2021 **GoodJob Hiring Agency, Novosibirsk, Russia** - _Owner_
 A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.  
