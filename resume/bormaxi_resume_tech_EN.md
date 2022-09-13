@@ -3,11 +3,15 @@ ____
 01.01.1980, **outside the Russian Federation**
 
 [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
+
 Telegram: @bormaxi
 
 https://github.com/bormaxi8080/
+
 [https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
+
 https://twitter.com/HiddenDjoker
+
 https://www.facebook.com/bormaxi/
 
 Languages: Russian (native), English (pre-intermediate), Italian (beginner), Kazakh (beginner), Pushtu (specific translation), Georgian (specific translation)
@@ -15,7 +19,9 @@ Languages: Russian (native), English (pre-intermediate), Italian (beginner), Kaz
 ## Specialization and professional skills
 
 I Develop in Python, Node.js, GoLang, Perl, Bash.
+
 Sometimes I hire people targeted for positions in the IT level from middle+, with relocation outside Russia.
+
 Write about hiring in IT, HR Tech, development, I participate in various professional communities.
 
 ## Work experience
@@ -83,7 +89,7 @@ Banking software company. Recruitment, work with internal HR processes, motivati
 
 ## Other
 
-Interests: swimming, OSINT, investigative journalism. Instructor in water tourism (more than 200 alloys of all categories on mountain rivers).
+Interests: swimming, OSINT, investigative journalism. Instructor in water tourism (more than 100 alloys of all categories on mountain rivers).
 
 A millionaire publication on Habr, which has long become a classic for QA and is used to teach juniors: http://habrahabr.ru/post/193902/
 
