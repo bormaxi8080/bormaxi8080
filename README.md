@@ -6,6 +6,8 @@ Write about hiring in IT, HR Tech, development, I participate in various profess
 
 ### Main projects:
 
+- [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format
+
 - [Bormaxi About Hiring](https://github.com/bormaxi8080/bormaxi-about-hiring): Hiring Notes in IT and international recruitment (on examples with cats, obscene language and naked truth), not finished
 
 - [Telepathy](https://github.com/bormaxi8080/Telepathy), modified Bellingcat Telegram OSINT tool
@@ -13,8 +15,6 @@ Write about hiring in IT, HR Tech, development, I participate in various profess
 - [OSINT Framework v.2](https://github.com/bormaxi8080/OSINT-Framework): Revised and modified version of https://osintframework.com OSINT mindmap service
 
 - [Huginn](https://github.com/huginn/huginn) (private), a system for building agents that perform automated tasks for you online
-
-- [Teamlead](https://github.com/bormaxi8080/teamlead): Fork Sharovatov's everything about leadership
 
 <hr>
 
