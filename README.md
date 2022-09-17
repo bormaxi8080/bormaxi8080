@@ -102,6 +102,11 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 Continued...
 
+Sep 2022 - Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
+Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
+
+Aug 2022 - Organizing my own OSINT collections
+
 Aug 2022 - [Huginn](https://github.com/bormaxi8080/huginn) works (private)
 
 Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), version 2.0
