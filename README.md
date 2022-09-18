@@ -14,7 +14,7 @@ Write about hiring in IT, HR Tech, development, I participate in various profess
 
 - [OSINT Framework v.2](https://github.com/bormaxi8080/OSINT-Framework): Revised and modified version of https://osintframework.com OSINT mindmap service
 
-- [Huginn](https://github.com/huginn/huginn) (private), a system for building agents that perform automated tasks for you online
+- [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online
 
 <hr>
 
@@ -105,9 +105,9 @@ Continued...
 Sep 2022 - Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
 Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
 
-Aug 2022 - Organizing my own OSINT collections
+Aug 2022 - [Huginn](https://github.com/bormaxi8080/huginn) works (private fork commits)
 
-Aug 2022 - [Huginn](https://github.com/bormaxi8080/huginn) works (private)
+Aug 2022 - Organizing my own OSINT collections
 
 Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), version 2.0
 
