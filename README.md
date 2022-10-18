@@ -94,7 +94,7 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 ### My resume:
 
-[Resumae in Markdown](./resume/bormaxi_resume_tech_EN.md)
+[Resume in Markdown](./resume/bormaxi_resume_tech_EN.md)
 
 [Resume in PDF](./resume/bormaxi_resume_tech_EN.pdf)
 
