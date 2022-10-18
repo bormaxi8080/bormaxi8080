@@ -34,7 +34,7 @@ I develop backends and various automations and investigations on Python, Node.js
 
 A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.
 
-### Jun 2019 - Mar 2021 Improve Group, Novosibirsk, Russia** - IT Head Hunter
+### Jun 2019 - Mar 2021 Improve Group, Novosibirsk, Russia - IT Head Hunter
 
 The best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021.
 
@@ -50,11 +50,11 @@ Recruiting automation system. Acted as an expert when testing new system functio
 
 Banking software company. Recruitment, work with internal HR processes, motivation, retention, HR strategy. After leaving the operating activities of the company, he hired students for internships.
 
-### Nov 2016 - Apr 2017 ClearScale, Novosibirsk, Russia** - Backend Node.js Developer, contract job
+### Nov 2016 - Apr 2017 ClearScale, Novosibirsk, Russia - Backend Node.js Developer, contract job
 
 Developing a media management project using AWS Lambda & DynamoDB
 
-### May 2016 - Nov 2016 TION, Novosibirsk, Russia** - Information Technology Team Lead, contract job
+### May 2016 - Nov 2016 TION, Novosibirsk, Russia - Information Technology Team Lead, contract job
 
 Development of projects for air quality monitoring. Managing and build processes for a team of 7 people
 
