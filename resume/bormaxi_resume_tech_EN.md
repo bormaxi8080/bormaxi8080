@@ -84,11 +84,11 @@ Development of numerous backends and integrations managed biggest bookseller's r
 
 ## Technology stack
 
-- Python, Node.js, JavaScript, TypeScript, GoLang, Perl
+- Python, Node.js, JavaScript, Perl
 - PostgreSQL, MongoDB, MySql, Redis, Celery, RabbitMQ
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana
 - Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some tools & frameworks for highload, queuing, mutli threading, multi processssing, sharding, etc.
-- Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
+- Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 - C++ as a secret rarely used skill
 - Java, .NET - at the level of “I can, but without fanaticism”
