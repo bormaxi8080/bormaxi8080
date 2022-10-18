@@ -46,7 +46,7 @@ Moderator of the largest public for HR specialists in Russia.
 
 Recruiting automation system. Acted as an expert when testing new system functions.
 
-### Aug 2017 - Sep 2018 FIS Group, Novosibirsk, Russia** - General HR Manager
+### Aug 2017 - Sep 2018 FIS Group, Novosibirsk, Russia - General HR Manager
 
 Banking software company. Recruitment, work with internal HR processes, motivation, retention, HR strategy. After leaving the operating activities of the company, he hired students for internships.
 
