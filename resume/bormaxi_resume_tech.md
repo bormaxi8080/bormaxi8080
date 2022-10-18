@@ -4,15 +4,15 @@
 
 [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
 
+GitHub: [@bormaxi8080](https://github.com/bormaxi8080/)
+
+LinkedIn: [https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
+
+Twitter: [@HiddenDjoker](https://twitter.com/HiddenDjoker)
+
+Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
+
 Telegram: @bormaxi
-
-https://github.com/bormaxi8080/
-
-[https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
-
-[https://twitter.com/HiddenDjoker/](https://twitter.com/HiddenDjoker/)
-
-[https://www.facebook.com/bormaxi/](https://www.facebook.com/bormaxi/)
 
 Иностранные языки: Russian (native), English (pre-intermediate), Italian (beginner), Pushtu (specific translation), Georgian (specific translation)
 
