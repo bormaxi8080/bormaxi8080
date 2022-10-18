@@ -14,7 +14,7 @@ https://github.com/bormaxi8080/
 
 [https://www.facebook.com/bormaxi/](https://www.facebook.com/bormaxi/)
 
-Иностранные языки: Russian (native), English (pre-intermediate), Italian (beginner), Kazakh (beginner), Pushtu (specific translation), Georgian (specific translation)
+Иностранные языки: Russian (native), English (pre-intermediate), Italian (beginner), Pushtu (specific translation), Georgian (specific translation)
 
 ## Специализация и профессиональные навыки
 
