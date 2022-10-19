@@ -30,9 +30,9 @@ I do not consider offers from russian corporations, state structures, and office
 
 I develop backends and various automations and investigations on Python, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside Russia), market analytics, and help in the development of professional communities.
 
-### Jun 2021 - Present, RIP Leaks
+### Jun 2021 - Present, Merge into RIP Leaks - News of the sinking Russian import substitution
 
-Merge into RIP Leaks - News of the sinking Russian import substitution
+[https://t.me/RIPLeaks](https://t.me/RIPLeaks)
 
 ### Jun 2020 - Present, Write to the Marshak channel and take a photo of F@king Motherland for donations
 
