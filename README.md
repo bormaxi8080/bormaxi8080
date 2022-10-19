@@ -40,8 +40,8 @@ Facebook: https://www.facebook.com/bormaxi
 - Python, Node.js, JavaScript, Perl
 - PostgreSQL, MongoDB, MySql, Redis, Celery, RabbitMQ
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Jira administration
-- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some tools & frameworks for highload, queuing, mutli threading, multi processssing, sharding, etc.
-- Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
+- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, and some tools & frameworks for highload, queuing, mutli threading, multi processssing, sharding, etc.
+- Bash, Selenium, Puppeteer, Apify and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 - C++ as a secret rarely used skill
 - Java, .NET - at the level of “I can, but without fanaticism”
