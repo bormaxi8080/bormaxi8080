@@ -26,9 +26,19 @@ I do not consider offers from russian corporations, state structures, and office
 
 ## Work experience
 
-### Dec 2021 - now. NDA, outside Russia
+### Dec 2021 - Present, Python, Node.js, Perl Developer & Investigator, NDA, outside Russia
 
 I develop backends and various automations and investigations on Python, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside Russia), market analytics, and help in the development of professional communities.
+
+### Jun 2021 - Present, RIP Leaks
+
+Merge into RIP Leaks - News of the sinking Russian import substitution
+
+### Jun 2020 - Present, Write to the Marshak channel and take a photo of F@king Motherland for donations
+
+[https://t.me/mmarshak](https://t.me/mmarshak)
+
+[https://www.instagram.com/ebenya_rodiny/](https://www.instagram.com/ebenya_rodiny/)
 
 ### Nov 2015 - Nov 2021 GoodJob Hiring Agency, Novosibirsk, Russia - Owner
 
@@ -62,7 +72,7 @@ Development of projects for air quality monitoring. Managing and build processes
 
 Development of a server on a node.js for the analysis of medical information
 
-### May 2014 - Nov 2015 Plamee, Novosibirsk, Russia - Backend Node.js Developer
+### May 2014 - Nov 2015, Plamee, Novosibirsk, Russia - Backend Node.js Developer
 
 Match-3 social game server development on node.js
 
