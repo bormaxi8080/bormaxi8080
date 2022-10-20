@@ -152,7 +152,7 @@ Dec 2021 - Start a [bormaxi-about-hiring](https://github.com/bormaxi8080/bormaxi
 
 Dec 2021 - Close my hiring agency and checkout into NDA place as software developer
 
-June 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
+Jun 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
 
 May 2021 - Repair this GitHub account from reserve
 
@@ -162,7 +162,7 @@ Mar 2020 - Compelled Coming Out by private reasons
 
 Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021
 
-2018-2019 - Moderate ZloyHR community, the largest hr comminity in russian facebook segment, I think it's a bad experience
+2018-2019 - Moderate AngryHR, the largest HR comminity in russian facebook segment, I think it's not really the best experience in my practice
 
 2018 - Start a [Nelin.in](https://www.instagram.com/nelen.in/) community project
 
