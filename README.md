@@ -107,6 +107,8 @@ Continued...
 
 Oct 2022 - Continue experimenting with social media monitoring and people's big data imports.
 
+Oct 2022 - Help for those who fled from mobilization in Russia.
+
 Sep 2022 - Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
 Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
 
