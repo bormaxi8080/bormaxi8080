@@ -42,7 +42,7 @@ I develop backends and various automations and investigations on Python, Node.js
 
 ### Nov 2015 - Nov 2021 GoodJob Hiring Agency, Novosibirsk, Russia - Owner
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
 
 ### Jun 2019 - Mar 2021 Improve Group, Novosibirsk, Russia - IT Head Hunter
 
@@ -58,7 +58,7 @@ Recruiting automation system. Acted as an expert when testing new system functio
 
 ### Aug 2017 - Sep 2018 FIS Group, Novosibirsk, Russia - General HR Manager
 
-Banking software company. Recruitment, work with internal HR processes, motivation, retention, HR strategy. After leaving the operating activities of the company, he hired students for internships.
+Banking software company. Recruitment, work with internal HR processes, motivation, retention, HR strategy. Hired 100+ people in the company, implemented ATS. After leaving the operating activities of the company, I hired students for internships.
 
 ### Nov 2016 - Apr 2017 ClearScale, Novosibirsk, Russia - Backend Node.js Developer, contract job
 
@@ -70,7 +70,7 @@ Development of projects for air quality monitoring. Managing and build processes
 
 ### Dec 2015 - May 2016 AppGenomics (Execution LLC), Novosibirsk, Russia - Backend Node.js Developer, contract job
 
-Development of a server on a node.js for the analysis of medical information
+Development of a server on a node.js for the analysis of medical information. The project went to the customers in USA.
 
 ### May 2014 - Nov 2015, Plamee, Novosibirsk, Russia - Backend Node.js Developer
 
@@ -82,7 +82,7 @@ Online shooter server development on node.js
 
 ### Jun 2011 - Apr 2014 Web study, Novosibirsk, Russia - Backend Developer
 
-Various projects for clients
+Various projects for clients (various sites & web services).
 
 ### Aug 2010 - Jun 2013 Katren, Novosibirsk, Russia - ERP/CRM Developer
 
@@ -95,10 +95,11 @@ Development of numerous backends and integrations managed biggest bookseller's r
 ## Technology stack
 
 - Python, Node.js, JavaScript, Perl
-- PostgreSQL, MongoDB, MySql, Redis, Celery, RabbitMQ
+- PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Jira administration
 - Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger and some frameworks & tools for highload, queuing, mutli threading, multi processssing, sharding, etc.
 - Bash, Selenium, Puppeteer, Apify and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
+- Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 - C++ as a secret rarely used skill
 - Java, .NET - at the level of “I can, but without fanaticism”
