@@ -105,9 +105,9 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 Continued...
 
-Oct 2022 - Continue experimenting with social media monitoring and people's big data imports.
+Oct 2022 - Continue experimenting with social media monitoring and people's big data imports
 
-Oct 2022 - Help for those who fled from mobilization in Russia.
+Sep-Oct 2022 - Help for those who fled from mobilization in Russia
 
 Sep 2022 - Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
 Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
@@ -168,7 +168,7 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2015 - Start a GoodJob Hiring Agency
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
 
 A lot of different communications and activities aka [figma-hiring-tickets](https://github.com/bormaxi8080/figma-hiring-tickets) and more.
 
