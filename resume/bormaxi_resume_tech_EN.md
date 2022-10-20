@@ -97,10 +97,10 @@ Development of numerous backends and integrations managed biggest bookseller's r
 - Python, Node.js, JavaScript, Perl, Bash
 - PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Jira administration
+- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 - Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger and some frameworks & tools for highload, queuing, mutli threading, multi processssing, sharding, etc.
 - Selenium, Puppeteer, Apify and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)
-- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
 - C++ as a secret rarely used skill
 - Java, .NET - at the level of “I can, but without fanaticism”
 - PHP - at the level of “collect or fix something quickly”
