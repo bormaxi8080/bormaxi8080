@@ -176,6 +176,8 @@ A lot of different communications and activities aka [figma-hiring-tickets](http
 
 2013 - [A Pencil Tests](https://www.habrahabr.ru/post/193902/) habr's publication with 1M views
 
+2004-2006 - Moderator on some hives on [ixbt.com](ixbt.com)
+
 2000-2015 - Programming in various projects
 
 <hr>
