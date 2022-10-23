@@ -20,7 +20,7 @@ Languages: Russian (native), English (pre-intermediate), Italian (beginner), Pus
 
 I develop and investigate on Python, Node.js, Perl, Bash with OSINT, community & DevOps activities and practices.
 
-Sometimes I hire targeted for positions in the IT level from middle+, with relocation outside Russia, write about hiring in IT, HR Tech, development and participate in various professional communities.
+Sometimes I hire targeted for positions in IT level from middle+, with relocation outside Russia, write about hiring in IT, HR Tech, development and participate in various professional communities.
 
 I do not consider offers from russian corporations, state structures, and office work within Russian Federation. Now I leave Russia.
 
@@ -82,7 +82,7 @@ Online shooter server development on node.js
 
 ### Jun 2011 - Apr 2014 Web study, Novosibirsk, Russia - Backend Developer
 
-Various projects for clients (various sites & web services).
+Various projects for clients (sites & web services).
 
 ### Aug 2010 - Jun 2013 Katren, Novosibirsk, Russia - ERP/CRM Developer
 
@@ -96,8 +96,8 @@ Development of numerous backends and integrations managed biggest bookseller's r
 
 - Python, Node.js, JavaScript, Perl, Bash
 - PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
-- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Jira administration
-- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
+- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Hujinn, Jira administration
+- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
 - Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger and some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc.
 - Selenium, Puppeteer, Apify and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)

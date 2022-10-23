@@ -1,7 +1,7 @@
 Hi all, I am @bormaxi8080 (https://twitter.com/HiddenDjoker) aka Maxim Marshak, sociopathic cat lover, technical hiring specialist, OSINT enthusiast and software developer with journalism, community and DevOps activities.
 
 I Develop in Python, Node.js, Perl, Bash.
-Sometimes I hire people targeted for positions in the IT level from middle+, with relocation outside Russia. 
+Sometimes I hire people targeted for positions in IT level from middle+, with relocation outside Russia. 
 Write about hiring in IT, HR Tech, development, I participate in various professional communities.
 
 ### Main projects:
@@ -39,8 +39,8 @@ Facebook: https://www.facebook.com/bormaxi
 
 - Python, Node.js, JavaScript, Perl, Bash
 - PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
-- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Jira administration
-- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations
+- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Hujinn, Jira administration
+- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
 - Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger and some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc.
 - Selenium, Puppeteer, Apify and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)
@@ -61,9 +61,9 @@ Facebook: https://www.facebook.com/bormaxi
 
 Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
 
-For quite a long time I was engaged in hiring specialists in IT and took about 150 families outside Russian Federation. With the beginning of the war in Ukraine, I left Russia.
+For quite a long time I was engaged in hiring specialists in IT and took about 150 families outside Russian Federation. With the beginning of war in Ukraine, I left Russia.
 
-In parallel with the development and hiring in IT, I was involved in the development of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
+In parallel with development and hiring in IT, I was involved in development of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
 
 This is a rather non-standard path in a career, but the circumstances have developed.
 
@@ -168,7 +168,7 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2015 - Start a GoodJob Hiring Agency
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters. Worked with companies such as Exness, Intel, Plesk, DevExperts, Think-Cell and many others.
 
 A lot of different communications and activities aka [figma-hiring-tickets](https://github.com/bormaxi8080/figma-hiring-tickets) and more.
 
@@ -196,7 +196,7 @@ People:
 
 **Especially for my political friends and opponents:**
 
-I support Ukraine, publicly oppose the war and russian political system. I help projects aimed at exposing state and war crimes and publicly condemn the russian invasion of Ukraine.
+I support Ukraine, publicly oppose war and russian political system. I help projects aimed at exposing state and war crimes and publicly condemn russian invasion of Ukraine.
 
 ![alt text](./img/ukraine.png "Ukraine")
 ![alt text](./img/russia_new.png "New Russia")
