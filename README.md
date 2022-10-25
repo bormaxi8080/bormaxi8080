@@ -168,7 +168,11 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2015 - Start a GoodJob Hiring Agency
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters. Worked with companies such as Exness, Intel, Plesk, DevExperts, Think-Cell and many others.
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 250 people outside the Russian Federation and friends gave me the nickname "Russian Schindler").
+Hiring candidates in IT from the middle level.
+Automated candidate database of 30+ thousand people.
+I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
+Worked with companies such as Exness, Intel, Plesk, DevExperts, Think-Cell and many others.
 
 A lot of different communications and activities aka [figma-hiring-tickets](https://github.com/bormaxi8080/figma-hiring-tickets) and more.
 

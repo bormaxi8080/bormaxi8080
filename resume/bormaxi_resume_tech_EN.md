@@ -42,7 +42,7 @@ I develop backends and various automations and investigations on Python, Node.js
 
 ### Nov 2015 - Nov 2021 GoodJob Hiring Agency, Novosibirsk, Russia - Owner
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 250 people outside the Russian Federation and friends gave me the nickname "Russian Schindler"). Hiring candidates in IT from the middle level. Automated candidate database of 50+ thousand people. I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
 
 ### Jun 2019 - Mar 2021 Improve Group, Novosibirsk, Russia - IT Head Hunter
 
