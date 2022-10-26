@@ -77,6 +77,22 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 <hr>
 
+### My contacts:
+
+Twitter: @HiddenJoker
+
+Telegram: @bormaxi
+
+LinkedIn: @maxim-marshak
+
+GitHub: @bormaxi8080
+
+Facebook: @bormaxi
+
+Discord: @bormaxi#4279
+
+<hr>
+
 ### My projects timeline:
 
 Continued...
@@ -205,18 +221,6 @@ I support Ukraine, publicly oppose war and russian political system. I help proj
 ![alt text](./img/ukraine.png "Ukraine")
 ![alt text](./img/russia_new.png "New Russia")
 ![alt text](./img/siberia.png "Siberia")
-
-<hr>
-
-### My contacts:
-
-Twitter: @HiddenJoker
-
-Telegram: @bormaxi
-
-LinkedIn: @maxim-marshak
-
-Discord: @bormaxi#4279
 
 <hr>
 
