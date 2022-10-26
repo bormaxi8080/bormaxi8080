@@ -4,17 +4,17 @@ ____
 
 **DevOps | Python | Node.js | Perl | Bash | OSINT | Cybersecurity activities & Investigations**
 
-[marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
+Email:    [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
 
-GitHub: [@bormaxi8080](https://github.com/bormaxi8080/)
+Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
 
-LinkedIn: [https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
+GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
 
-Twitter: [@HiddenDjoker](https://twitter.com/HiddenDjoker)
+LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/maxim-marshak/)
 
 Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
-Telegram: @bormaxi
+Telegram: [@bormaxi](https://t.me/bormaxi)
 
 Languages: Russian (native), English (pre-intermediate), Italian (beginner), Pushtu (specific translation), Georgian (specific translation)
 

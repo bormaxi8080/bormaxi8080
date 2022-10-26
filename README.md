@@ -25,13 +25,13 @@ Write about hiring in IT, Tech, Development, I participate in various profession
 
 ### My social links:
 
-GitHub: https://github.com/bormaxi8080
+Twitter:  [https://twitter.com/HiddenDjoker](https://twitter.com/HiddenDjoker)
 
-Twitter: https://twitter.com/HiddenDjoker
+GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
 
-LinkedIn: https://www.linkedin.com/in/maxim-marshak/
+LinkedIn: [https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
 
-Facebook: https://www.facebook.com/bormaxi
+Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
 <hr>
 
@@ -79,15 +79,17 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 ### My contacts:
 
-Twitter: @HiddenJoker
+Email:    [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
 
-Telegram: @bormaxi
+Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
 
-LinkedIn: @maxim-marshak
+GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
 
-GitHub: @bormaxi8080
+LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/maxim-marshak/)
 
-Facebook: @bormaxi
+Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
+
+Telegram: [@bormaxi](https://t.me/bormaxi)
 
 Discord: @bormaxi#4279
 
