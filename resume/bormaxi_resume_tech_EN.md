@@ -2,7 +2,7 @@
 ____
 01.01.1980, **outside Russia**
 
-**DevOps | Python | Node.js | Perl | Bash | OSINT activities & Investigations**
+**DevOps | Python | Node.js | Perl | Bash | OSINT | Cybersecurity activities & Investigations**
 
 [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
 
@@ -20,7 +20,7 @@ Languages: Russian (native), English (pre-intermediate), Italian (beginner), Pus
 
 ## Specialization and professional skills
 
-I develop and investigate on Python, Node.js, Perl, Bash with OSINT, community & DevOps activities and practices.
+I develop and investigate on Python, Node.js, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
 
 Sometimes I hire targeted for positions in IT level from middle+, with relocation outside Russia, write about hiring in IT, HR Tech, development and participate in various professional communities.
 
