@@ -1,6 +1,8 @@
 # Maxim Marshak
 ____
-01.01.1980, **outside the Russian Federation**
+01.01.1980, **outside Russia**
+
+**DevOps | Python | Node.js | Perl | Bash | OSINT activities & Investigations**
 
 [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
 
@@ -44,17 +46,7 @@ I do not consider offers from russian corporations, state structures, and office
 
 ### Dec 2021 - Present, Python, Node.js, Perl Developer & Investigator, NDA, outside Russia
 
-I develop backends and various automations and investigations on Python, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside Russia), market analytics, and help in the development of professional communities.
-
-### Jun 2021 - Present, Merge into RIP Leaks - News of the sinking Russian import substitution
-
-[https://t.me/RIPLeaks](https://t.me/RIPLeaks)
-
-### Jun 2020 - Present, Write to the Marshak channel and take a photo of F@king Motherland for donations
-
-[https://t.me/mmarshak](https://t.me/mmarshak)
-
-[https://www.instagram.com/ebenya_rodiny/](https://www.instagram.com/ebenya_rodiny/)
+I develop backends and various automations and investigations on Python, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside Russia), and help in the development of professional communities.
 
 ### Nov 2015 - Nov 2021 GoodJob Hiring Agency, Novosibirsk, Russia - Owner
 
@@ -106,7 +98,7 @@ Large system development for managing a pharmaceutical retailer
 
 ### Apr 2002 - Jun 2010 TOP-KNIGA, Novosibirsk, Russia - Software Developer, DevOps Lead
 
-Development of numerous backends and integrations managed biggest bookseller's retailer infrastructure for more than 200+ servers and 300 subsystems and services in production and test
+Development and control of numerous backends and integrations managed biggest bookseller's retailer infrastructure for more than 200+ servers and 300 subsystems and services in production and test
 
 ## Education
 
