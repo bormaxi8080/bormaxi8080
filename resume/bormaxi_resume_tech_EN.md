@@ -6,9 +6,9 @@ ____
 
 Email:    [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
 
-Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
-
 GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
+
+Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
 
 LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/maxim-marshak/)
 
@@ -55,6 +55,8 @@ A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote
 ### Jun 2019 - Mar 2021 Improve Group, Novosibirsk, Russia - IT Head Hunter
 
 The best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021.
+
+### Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 
 ### Jun 2018 - Jun 2019 Angry HR Community, Novosibirsk, Russia - Online Content Moderator
 

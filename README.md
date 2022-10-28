@@ -25,9 +25,9 @@ Write about hiring in IT, Tech, Development, I participate in various profession
 
 ### My social links:
 
-Twitter:  [https://twitter.com/HiddenDjoker](https://twitter.com/HiddenDjoker)
-
 GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
+
+Twitter:  [https://twitter.com/HiddenDjoker](https://twitter.com/HiddenDjoker)
 
 LinkedIn: [https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
 
@@ -81,9 +81,9 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 Email:    [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
 
-Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
-
 GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
+
+Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
 
 LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/maxim-marshak/)
 
@@ -152,7 +152,7 @@ May 2021 - Repair this GitHub account from reserve
 
 Jun 2020 - Start a [Ebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project
 
-Mar 2020 - Compelled Coming Out by private reasons
+Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 
 Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021
 
