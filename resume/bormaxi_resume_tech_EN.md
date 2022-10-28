@@ -16,7 +16,7 @@ Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
 Telegram: [@bormaxi](https://t.me/bormaxi)
 
-Languages: Russian (native), English (pre-intermediate), Italian (beginner), Pushtu (specific translation), Georgian (specific translation)
+Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (specific translation), Georgian (specific translation)
 
 ## Specialization and professional skills
 
