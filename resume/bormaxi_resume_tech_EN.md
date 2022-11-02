@@ -46,7 +46,7 @@ I do not consider offers from russian corporations, state structures, and office
 
 ### Dec 2021 - Present, Python, Node.js, Perl Developer & Investigator, NDA, outside Russia
 
-I develop backends and various automations and investigations on Python, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside Russia), and help in the development of professional communities.
+I develop backends and various automations and investigations on Python, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside Russia), and help in OSINT investigations and development of professional communities.
 
 ### Nov 2015 - Nov 2021 GoodJob Hiring Agency, Novosibirsk, Russia - Owner
 
