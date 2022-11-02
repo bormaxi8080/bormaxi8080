@@ -14,7 +14,7 @@ Write about hiring in IT, Tech, Development, I participate in various profession
 
 - [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online
 
-- [Bormaxi About Hiring](https://github.com/bormaxi8080/bormaxi-about-hiring): Hiring Notes in IT and international recruitment (on examples with cats, obscene language and naked truth), not finished
+- [awesome-ats](https://github.com/bormaxi8080/awesome-ats), List of application tracking systems that helps to store people data and hiring
 
 <hr>
 
