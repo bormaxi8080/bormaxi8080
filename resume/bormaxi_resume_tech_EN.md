@@ -18,29 +18,21 @@ Telegram: [@bormaxi](https://t.me/bormaxi)
 
 Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (specific translation), Georgian (specific translation)
 
-## Specialization and professional skills
+## My soft skills and communications:
 
-I develop and investigate on Python, Node.js, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
+- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from Russia, all kinds of communications
+- Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
+- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for managing ATS and some databases with data about people and some artifacts to research it
 
-Sometimes I hire targeted for positions in IT level from middle+, with relocation outside Russia, write about hiring in IT, HR Tech, development and participate in various professional communities.
-
-I do not consider offers from russian corporations, state structures, and office work within Russian Federation. Now I leave Russia.
-
-## Technology stack
+## My technical stack:
 
 - Python, Node.js, JavaScript, Perl, Bash
 - PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Huginn, Jira administration
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
-- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger and some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc.
+- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger and some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc. for building optimal technical solutions
 - Selenium, Puppeteer, Apify, Playwright, Crawlee and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)
-- C++ as a secret rarely used skill
-- Java, .NET - at the level of “I can, but without fanaticism”
-- PHP - at the level of “collect or fix something quickly”
-- Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
-- Delphi, Embarcadero, VBScript as oldfag )
-- UX, Figma, CSS, Styles - I can make it nice if needed
 
 ## Work experience
 
