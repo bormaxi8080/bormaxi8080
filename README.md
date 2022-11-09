@@ -2,7 +2,7 @@ Hi all, I am @bormaxi8080 (https://twitter.com/HiddenDjoker) aka Maxim Marshak, 
 
 I Develop in Python, Node.js, Perl, Bash.
 Sometimes I hire people targeted for positions in IT level from middle+, with relocation outside Russia.
-Write about hiring in IT, Tech, Development and Investigations, I participate in various professional communities.
+Write about hiring in IT, Tech, Development and Investigations, I participate and write in various professional communities.
 
 ### Main projects:
 
@@ -139,7 +139,7 @@ Mar 2022 - [Nurnberg Trials 2.0](https://t.me/peremennn_re) project help
 
 Mar 2022 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
 
-Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with Forbes and other scandal publications. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
+Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
 
 Jan 2022 - Worked on the creation of a complex highload email verification system (private)
 
