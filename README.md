@@ -2,7 +2,7 @@ Hi all, I am @bormaxi8080 (https://twitter.com/HiddenDjoker) aka Maxim Marshak, 
 
 I Develop in Python, Node.js, Perl, Bash.
 Sometimes I hire people targeted for positions in IT level from middle+, with relocation outside Russia.
-Write about hiring in IT, Tech, Development, I participate in various professional communities.
+Write about hiring in IT, Tech, Development and Investigations, I participate in various professional communities.
 
 ### Main projects:
 
