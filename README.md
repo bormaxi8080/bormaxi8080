@@ -35,13 +35,13 @@ Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
 <hr>
 
-### My soft skills and communications:
+### My Soft Skills and Communications:
 
 - Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from Russia, all kinds of communications 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones 
 - Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for managing ATS and some databases with data about people and some artifacts to research it
 
-### My technical stack:
+### My Technical Stack:
 
 - Python, Node.js, JavaScript, Perl, Bash
 - PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
@@ -51,7 +51,7 @@ Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 - Selenium, Puppeteer, Apify, Playwright, Crawlee and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)
 
-### Non-core technologies:
+### Non-core Technologies:
 
 - C++ as a secret rarely used skill
 - Java, .NET - at the level of “I can, but without fanaticism”
@@ -66,7 +66,7 @@ Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
 <hr>
 
-### My profile notices:
+### My Profile Notices:
 
 Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
 
@@ -78,7 +78,7 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 <hr>
 
-### My resume:
+### My Resume:
 
 [Resume in Markdown](./resume/bormaxi_resume_tech_EN.md)
 
@@ -86,7 +86,7 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 <hr>
 
-### My contacts:
+### My Contacts:
 
 Email:    [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
 
@@ -104,11 +104,13 @@ Discord: @bormaxi#4279
 
 <hr>
 
-### My projects timeline:
+### My Projects Timeline:
 
 Continued...
 
-Oct 2022 - Continue experimenting with social media monitoring and people's big data imports
+Nov 2022-Now - Busy in a private project.
+
+Oct 2022-Now - Continue experimenting with social media monitoring and people's big data imports
 
 Sep-Oct 2022 - Help for those who fled from mobilization in Russia
 
@@ -189,7 +191,7 @@ A lot of different communications and activities aka [figma-hiring-tickets](http
 
 <hr>
 
-### My communities:
+### My Communities:
 
 **- RIP Leaks** - Chronicles of sinking Russian import substitution: https://t.me/RIPLeaks
 
@@ -213,7 +215,7 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 <hr>
 
-### Projects and people I like and support:
+### Projects and People I like and support:
 
 Projects:
 
