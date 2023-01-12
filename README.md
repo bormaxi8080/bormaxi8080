@@ -18,7 +18,7 @@ Write about hiring in IT, Tech, Development and Investigations, I participate an
 
 <hr>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=bormaxi8080&count_private=true&show_icons=true&theme=dark)
+![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bormaxi8080&count_private=true&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bormaxi8080&theme=dark)](https://git.io/streak-stats)
 
 <hr>
@@ -62,7 +62,7 @@ Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bormaxi8080&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
