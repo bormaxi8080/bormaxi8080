@@ -19,7 +19,9 @@ Write about hiring in IT, Tech, Development and Investigations, I participate an
 <hr>
 
 ![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bormaxi8080&count_private=true&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bormaxi8080&theme=dark)](https://git.io/streak-stats)
+
+<!-- NOT WORKING NOW! -->
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=bormaxi8080&theme=dark)](https://git.io/streak-stats)-->
 
 <hr>
 
