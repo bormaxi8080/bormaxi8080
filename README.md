@@ -108,7 +108,9 @@ Discord: @bormaxi#4279
 
 Continued...
 
-Nov 2022-Now - Busy in a private project.
+Jan 2002-Now - Busy in a private project about collecting companies data on LinkedIn
+
+Nov 2022-Now - Busy in a private projects about collecting social data
 
 Oct 2022-Now - Continue experimenting with social media monitoring and people's big data imports
 
