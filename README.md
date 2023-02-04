@@ -21,7 +21,7 @@ Sometimes I hire targeted for positions in the IT level from middle+, with reloc
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bormaxi8080&theme=dark)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme-dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
 
 <hr>
 
