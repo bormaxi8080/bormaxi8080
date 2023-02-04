@@ -20,9 +20,9 @@ Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (s
 
 ## My soft skills and communications:
 
-- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from Russia, all kinds of communications
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
 - Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for managing ATS and some databases with data about people and some artifacts to research it
+- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from Russia, all kinds of communications
 
 ## My technical stack:
 
