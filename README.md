@@ -254,5 +254,3 @@ PayPal: tanya.marshak@yahoo.com
 <hr>
 
 [![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/bormaxi8080/bormaxi8080)](https://github.com/bormaxi8080/bormaxi8080/stargazers)
-
-<hr>
