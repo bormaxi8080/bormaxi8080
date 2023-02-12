@@ -221,13 +221,17 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 ### Projects and People I like and support:
 
-Projects:
+### Projects:
 
 [Bellingcat Projects](https://github.com/bellingcat), [Nurnberg Trials 2.0](https://t.me/peremennn_re), [Cyber Detective](https://github.com/cipher387), [OSINT Framework](https://github.com/lockfale/OSINT-Framework), [CyberYozh Security Group](https://cyberyozh.com/), [Sharovatov's Teamlead](https://github.com/sharovatov/teamlead), [Cybersecurity Frameworks and Maturity Models](https://www.linkedin.com/groups/6624427/), [Huginn](https://github.com/huginn/huginn)
 
-People:
+### People:
 
 [Vika Pridatko](https://www.facebook.com/vika.prydatko), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), [Mikhail Torchinsky](https://www.linkedin.com/in/mikhail-torchinskiy/), [Polina Kapitonova](https://www.facebook.com/polyzaza), [Alexander Litreev](https://twitter.com/alexlitreev), [Alina Mikhel](https://www.facebook.com/alinamikhel), [Egor Yatsenko](https://www.facebook.com/egor.yatsenko), [Olga Silverman](https://www.linkedin.com/in/olgasilverman/), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Alisa Tebaeva](https://www.linkedin.com/in/alisa-tebaeva-3a56032/), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov), [Olga Pelshe](https://www.facebook.com/olga.pelshe), [Alina Runova](https://www.linkedin.com/in/alina-runova-319ab844/), [Alex Suhorukov](https://www.linkedin.com/in/asuhorukov/), [Eugeny Piatkovsky](https://www.facebook.com/pyatkovskiy.e)
+
+### Stargazers:
+
+[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/bormaxi8080/bormaxi8080)](https://github.com/bormaxi8080/bormaxi8080/stargazers)
 
 <hr>
 
@@ -252,7 +256,3 @@ PayPal: tanya.marshak@yahoo.com
 <img src="./img/hiddendjoker.jpg" width="200" alt="@HiddenDjoker">
 
 <hr>
-
-### Stargazers:
-
-[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/bormaxi8080/bormaxi8080)](https://github.com/bormaxi8080/bormaxi8080/stargazers)
