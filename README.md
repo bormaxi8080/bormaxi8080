@@ -17,6 +17,8 @@ Sometimes I hire targeted for positions in the IT level from middle+, with reloc
 
 <hr>
 
+### My statistics:
+
 ![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bormaxi8080&count_private=true&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bormaxi8080&theme=dark)](https://git.io/streak-stats)
