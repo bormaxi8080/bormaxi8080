@@ -4,7 +4,7 @@ ____
 
 **OSINT activities & Investigations | DevOps | Python | Node.js | Perl | Bash**
 
-Email:    [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
+Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
 GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
 

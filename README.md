@@ -93,7 +93,7 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 ### My Contacts:
 
-Email:    [marshak.maxim@gmail.com](mailto:maxim.goodjob@gmail.com)
+Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
 GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
 
@@ -104,8 +104,6 @@ LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/maxim-marshak/)
 Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
 Telegram: [@bormaxi](https://t.me/bormaxi)
-
-Discord: @bormaxi#4279
 
 <hr>
 
