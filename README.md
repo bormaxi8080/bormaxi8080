@@ -1,7 +1,7 @@
 Hi all, I am @bormaxi8080 (https://twitter.com/HiddenDjoker) aka Maxim Marshak, sociopathic cat lover, OSINT enthusiast, technical hiring specialist and software developer.
 
 I develop and investigate People, Companies and Incidents Data on Python, Node.js, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
-Sometimes I hire targeted for positions in IT level from middle+, with relocation outside Russia, write about hiring in IT, HR Tech, development and participate in various professional communities.
+Sometimes I hire targeted for positions in IT level from middle+, with relocation outside Russia, write about hiring, HR Tech, development and participate in various professional communities.
 
 ### Main projects:
 
