@@ -51,7 +51,7 @@ A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote
 
 ### Jun 2019 - Mar 2021 Improve Group, Novosibirsk, Russia - IT Head Hunter
 
-The best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021.
+The best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
 
 ### Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 

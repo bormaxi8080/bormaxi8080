@@ -172,7 +172,7 @@ Jun 2020 - Start a [Ebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (ak
 
 Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 
-Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021
+Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021
 
 2018-2019 - Moderate AngryHR, the largest HR comminity in russian facebook segment, I think it's not really the best experience in my practice
 
