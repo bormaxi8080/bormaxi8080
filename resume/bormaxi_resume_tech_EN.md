@@ -18,6 +18,10 @@ Telegram: [@bormaxi](https://t.me/bormaxi)
 
 Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (specific text translation), Georgian (specific text translation)
 
+## Specialization and professional skills:
+
+I develop and investigate People, Companies and Incidents Data on Python, Node.js, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices. Sometimes I hire targeted for positions in the IT level from middle+, with relocation outside Russia, write about hiring in IT, HR Tech, development and participate in various professional communities.
+
 ## My soft skills and communications:
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
