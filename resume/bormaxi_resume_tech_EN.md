@@ -21,7 +21,7 @@ Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (s
 ## My soft skills and communications:
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
-- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for managing ATS and some databases with data about people and some artifacts to research it
+- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for managing ATS, OSINT tools, Maltego transformations and various datasets with data about people, companies, incidents and some artifacts to research it
 - Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from Russia, all kinds of communications
 
 ## My technical stack:
@@ -31,6 +31,7 @@ Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (s
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Huginn, Jira administration
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
 - Some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc. for building optimal technical solutions
+- Maltego, Shodan, Telepathy, Sherlock, theHarvester, SpiderFoot, Metasploit, Huginn, and more OSINT frameworks & tools to realize investigations for various resources
 - Selenium, Puppeteer, Apify, Playwright, Crawlee and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)
 
