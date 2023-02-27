@@ -95,8 +95,6 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
-GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
-
 Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
 
 LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/maxim-marshak/)
