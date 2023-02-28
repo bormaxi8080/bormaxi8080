@@ -1,7 +1,7 @@
 Hi all, I am @bormaxi8080 (https://twitter.com/HiddenDjoker) aka Maxim Marshak, sociopathic cat lover, OSINT enthusiast, technical hiring specialist and software developer.
 
 I develop and investigate People, Companies and Incidents Data on Python, Node.js, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
-Sometimes I hire targeted for positions in IT level from middle+, with relocation outside Russia, write about hiring, HR Tech, development and participate in various professional communities.
+Sometimes I hire targeted for positions in IT level from middle+, with relocation outside russia, write about hiring, HR Tech, development and participate in various professional communities.
 
 ### Main projects:
 
@@ -43,7 +43,7 @@ Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones 
 - Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for managing ATS, OSINT tools, Maltego transformations and various datasets with data about people, companies, incidents and some artifacts to research it
-- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from Russia, all kinds of communications
+- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from russia, all kinds of communications
 
 ### My Technical Stack:
 
@@ -75,7 +75,7 @@ Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
 Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
 
-For quite a long time I was engaged in hiring specialists in IT and took about 250 families outside Russian Federation. With the beginning of war in Ukraine, I left Russia, and I do not consider offers from Russian corporations, state structures, and office work within Russia. Now I live in other countries.
+For quite a long time I was engaged in hiring specialists in IT and took about 250 families outside RF. With the beginning of war in Ukraine, I left russia, and I do not consider offers from russian corporations, state structures, and office work within russia. Now I live in other countries.
 
 In parallel with development and hiring in IT, I was involved in development of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
 
@@ -115,7 +115,7 @@ Nov 2022-Now - Busy in a private projects about collecting social data
 
 Oct 2022-Now - Continue experimenting with social media monitoring and people's big data imports
 
-Sep-Oct 2022 - Help for those who fled from mobilization in Russia
+Sep-Oct 2022 - Help for those who fled from mobilization in russia
 
 Sep 2022 - Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
 Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
@@ -136,7 +136,7 @@ Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/maxim-
 
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
-May-Jun 2022 - Leave Russia (evacuation so as not to be imprisoned)
+May-Jun 2022 - Leave russia (evacuation so as not to be imprisoned)
 
 Mar-May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
 
@@ -144,7 +144,7 @@ Mar 2022 - [Nurnberg Trials 2.0](https://t.me/peremennn_re) project help
 
 Mar 2022 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
 
-Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
+Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, russia, february 2022, with all the world and russian media wrote about this incident. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
 
 Jan 2022 - Worked on the creation of a complex highload email verification system (private)
 
@@ -160,7 +160,7 @@ Dec 2021 - Start a [bormaxi-about-hiring](https://github.com/bormaxi8080/bormaxi
 
 Dec 2021 - Close my hiring agency and checkout into NDA place as software developer
 
-Jun 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
+Jun 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of russian import substitution, including in the IT sector, and cover news on this topic
 
 May 2021 - Repair this GitHub account from reserve
 
@@ -176,7 +176,7 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2015 - Start a GoodJob Hiring Agency
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 250 people outside the Russian Federation and friends gave me the nickname "Russian Schindler").
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 250 people outside the russian Federation and friends gave me the nickname "Russian Schindler").
 Hiring candidates in IT from the middle level.
 Automated candidate database of 30+ thousand people.
 I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
@@ -196,9 +196,9 @@ A lot of different communications and activities aka [figma-hiring-tickets](http
 
 ### My Communities:
 
-**- RIP Leaks** - Chronicles of sinking Russian import substitution: https://t.me/RIPLeaks
+**- RIP Leaks** - Chronicles of sinking russian import substitution: https://t.me/RIPLeaks
 
-We publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
+We publicly oppose the processes of russian import substitution, including in the IT sector, and cover news on this topic
 
 **- Marshak**: https://t.me/mmarshak
 
@@ -239,7 +239,7 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 I support Ukraine, publicly oppose war and russian political system. I help projects aimed at exposing state and war crimes and publicly condemn russian invasion of Ukraine.
 
 ![alt text](./img/ukraine.png "Ukraine")
-![alt text](./img/russia_new.png "New Russia")
+![alt text](./img/russia_new.png "New russia")
 ![alt text](./img/siberia.png "Siberia")
 
 <hr>
