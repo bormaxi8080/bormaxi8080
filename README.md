@@ -1,4 +1,4 @@
-Hi all, I am @bormaxi8080 (https://twitter.com/HiddenDjoker) aka Maxim Marshak, sociopathic cat lover, OSINT enthusiast, technical hiring specialist and software developer.
+Hi all, I am @bormaxi8080, aka Maxim Marshak, OSINT enthusiast, technical hiring specialist and software developer.
 
 I develop and investigate People, Companies and Incidents Data on Python, Node.js, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
 Sometimes I hire targeted for positions in IT level from middle+, with relocation outside russia, write about hiring, HR Tech, development and participate in various professional communities.
@@ -203,10 +203,6 @@ We publicly oppose the processes of russian import substitution, including in th
 **- Marshak**: https://t.me/mmarshak
 
 Our family channel based on [Marshak's poetry](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BA,_%D0%A1%D0%B0%D0%BC%D1%83%D0%B8%D0%BB_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87)
-
-**- No Morals** (by invite for confirmed users): https://www.facebook.com/groups/netmorali/
-
-Private humorous community, founded in 2015
 
 **- Ebenya Rodiny** (aka Fucking Motherland): https://www.instagram.com/ebenya_rodiny/
 
