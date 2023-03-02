@@ -27,18 +27,6 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 
 <hr>
 
-### My social links:
-
-GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
-
-Twitter:  [https://twitter.com/HiddenDjoker](https://twitter.com/HiddenDjoker)
-
-LinkedIn: [https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
-
-Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
-
-<hr>
-
 ### My Soft Skills and Communications:
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones 
@@ -105,15 +93,27 @@ Telegram: [@bormaxi](https://t.me/bormaxi)
 
 <hr>
 
+### My social links:
+
+GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
+
+Twitter:  [https://twitter.com/HiddenDjoker](https://twitter.com/HiddenDjoker)
+
+LinkedIn: [https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
+
+Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
+
+<hr>
+
 ### My Projects Timeline:
 
 Continued...
 
-Jan 2003-Now - Busy in a private project about collecting companies data on LinkedIn
-
 Nov 2022-Now - Busy in a private projects about collecting social data
 
 Oct 2022-Now - Continue experimenting with social media monitoring and people's big data imports
+
+Jan 2003-Feb 2023 - Private project about collecting companies data on LinkedIn
 
 Sep-Oct 2022 - Help for those who fled from mobilization in russia
 
