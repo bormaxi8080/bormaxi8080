@@ -246,8 +246,6 @@ If you like the projects that I do, I will be grateful for donations.
 
 ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
 
-PayPal: tanya.marshak@yahoo.com
-
 <img src="./img/hiddendjoker.jpg" width="200" alt="@HiddenDjoker">
 
 <hr>
