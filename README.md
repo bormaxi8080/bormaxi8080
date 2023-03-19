@@ -95,7 +95,7 @@ Telegram: [@bormaxi](https://t.me/bormaxi)
 
 ### My OSINT collections:
 
-- [Systematized List of my GitHub starred repositories (OSINT & Development)](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md)
+- [Systematized List of my GitHub starred repositories (OSINT & Development)](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md), same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
 
 - [My OSINT Featured List on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
 
