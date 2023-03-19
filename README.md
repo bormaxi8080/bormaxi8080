@@ -99,6 +99,8 @@ Telegram: [@bormaxi](https://t.me/bormaxi)
 
 - [My OSINT Featured List on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
 
+- [bormaxi8080 OSINT Board](https://start.me/p/X2G0DB/bormaxi8080-osint-board) on start.me
+
 <hr>
 
 ### My social links:
