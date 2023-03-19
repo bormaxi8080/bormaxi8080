@@ -93,6 +93,12 @@ Telegram: [@bormaxi](https://t.me/bormaxi)
 
 <hr>
 
+### My OSINT collections:
+
+[Systematized List of my GitHub starred repositories (OSINT & Development)](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md)
+
+<hr>
+
 ### My social links:
 
 GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
