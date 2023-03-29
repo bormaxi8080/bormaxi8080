@@ -26,7 +26,7 @@ I develop and investigate People, Companies and Incidents Data on Python, Node.j
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
 - Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, Maltego transformations, managing ATS and various datasets with data about people, companies, incidents and some artifacts to research it
-- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from russia, all kinds of communications
+- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists from russia, all kinds of communications
 
 ## My technical stack:
 
