@@ -93,9 +93,11 @@ Telegram: [@bormaxi](https://t.me/bormaxi)
 
 <hr>
 
-### My OSINT collections:
+### My OSINT lists:
 
 - Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred), [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories and [People](https://github.com/bormaxi8080?tab=following) I follow
+
+- [bormaxi8080 OSINT Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
 - [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
 
