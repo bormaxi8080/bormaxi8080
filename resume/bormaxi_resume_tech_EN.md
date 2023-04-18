@@ -1,6 +1,6 @@
 # Maxim Marshak
 ____
-01.01.1980, **outside russia**
+**outside russia**
 
 **OSINT activities & Investigations | DevOps | Python | Node.js | Perl | Bash**
 
