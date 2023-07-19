@@ -83,23 +83,19 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
-Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
-
-LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/maxim-marshak/)
+LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
 Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
-
-Telegram: [@bormaxi](https://t.me/bormaxi)
 
 <hr>
 
 ### My OSINT lists:
 
-- Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred), [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories and [People](https://github.com/bormaxi8080?tab=following) I follow
+- Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred), [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
 
 - [bormaxi8080 OSINT Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
-- [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
+- [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
 - [bormaxi8080 OSINT Board](https://start.me/p/X2G0DB/bormaxi8080-osint-board) on start.me
 
@@ -109,9 +105,7 @@ Telegram: [@bormaxi](https://t.me/bormaxi)
 
 GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
 
-Twitter:  [https://twitter.com/HiddenDjoker](https://twitter.com/HiddenDjoker)
-
-LinkedIn: [https://www.linkedin.com/in/maxim-marshak/](https://www.linkedin.com/in/maxim-marshak/)
+LinkedIn: [https://www.linkedin.com/in/osintech/](https://www.linkedin.com/in/osintech/)
 
 Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
@@ -138,13 +132,11 @@ Aug 2022 - Organizing my own OSINT collections
 
 Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), version 2.0
 
-Aug 2022 - Create my official [account on Twitter](https://twitter.com/HiddenDjoker)
-
 Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates (Bellingcat fork)
 
 Jun 2022 - Start some OSINT collections and tools
 
-Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/maxim-marshak/) (previous account was deleted by denunciation)
+Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/osintech/)
 
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
@@ -160,15 +152,13 @@ Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-c
 
 Jan 2022 - Worked on the creation of a complex highload email verification system (private)
 
-Jan 2022 - [qr-bruteforce](https://github.com/bormaxi8080/qr-bruteforce) COVID-19 [gosuslugi.ru](https://gosuslugi.ru) experiments
-
 Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
 
 Dec 2021 - Pull my [ITHRMemes](https://github.com/bormaxi8080/ITHRMemes) humor collection on GitHub (since 2015)
 
 Dec 2021 - Start a some projects and collections, create forks on GitHub. Experiments with tools and bash scripts, aka [emergency-shutdown](https://github.com/bormaxi8080/emergency-shutdown) bash script for MacOS
 
-Dec 2021 - Start a [bormaxi-about-hiring](https://github.com/bormaxi8080/bormaxi-about-hiring) book project
+Dec 2021 - Start a [bormaxi-about-hiring](https://github.com/bormaxi8080/bormaxi-about-hiring) book project (not finished)
 
 Dec 2021 - Close my hiring agency and checkout into NDA place as software developer
 

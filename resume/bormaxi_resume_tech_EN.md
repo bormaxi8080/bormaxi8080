@@ -8,13 +8,9 @@ Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
 GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
 
-Twitter:  [@HiddenDjoker](https://twitter.com/HiddenDjoker)
-
-LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/maxim-marshak/)
+LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/osintech/)
 
 Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
-
-Telegram: [@bormaxi](https://t.me/bormaxi)
 
 Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (specific text translation), Georgian (specific text translation)
 
