@@ -9,7 +9,7 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 
 - [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork Bellingcat's version of Telepathy Telegram OSINT tool
 
-- [OSINT Framework v.2](https://github.com/bormaxi8080/OSINT-Framework), revised and modified version of https://osintframework.com OSINT mindmap service
+- [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), revised and modified version of https://osintframework.com OSINT mindmap service
 
 - [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online
 
@@ -130,7 +130,7 @@ Aug 2022 - [Huginn](https://github.com/bormaxi8080/huginn) works (private fork c
 
 Aug 2022 - Organizing my own OSINT collections
 
-Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), version 2.0
+Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework)
 
 Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates (Bellingcat fork)
 
