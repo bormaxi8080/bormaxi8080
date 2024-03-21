@@ -5,15 +5,17 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 
 ### Main projects:
 
-- [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format
+- [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigationswith collection of tools, services and investigations
 
-- [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork Bellingcat's version of Telepathy Telegram OSINT tool
+- [OSINT Repos List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub Starred Repositories and Users
 
 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), revised and modified version of https://osintframework.com OSINT mindmap service
 
 - [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online
 
-- [awesome-ats](https://github.com/bormaxi8080/awesome-ats), list of application tracking systems that helps to store people data and hiring
+- [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork Bellingcat's version of Telepathy Telegram OSINT tool
+
+- [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format
 
 <hr>
 
@@ -81,6 +83,8 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 ### My Contacts:
 
+Twitter [@HiddenJoker](https://twitter.com/HiddenDjoker)
+
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
@@ -105,6 +109,8 @@ Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
 GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
 
+Twitter:  [https://twitter.com/HiddenDjoker](https://twitter.com/HiddenDjoker)
+
 LinkedIn: [https://www.linkedin.com/in/osintech/](https://www.linkedin.com/in/osintech/)
 
 Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
@@ -117,11 +123,15 @@ Continued...
 
 Nov 2022-Now - Busy in a private projects about collecting social data
 
+Nov 2022-Now - Busy in a private project about email checking (big conveyor)
+
+Nov 2022-Now - Busy in a private project about AD processing (big conveyor)
+
 Oct 2022-Now - Continue experimenting with social media monitoring and people's big data imports
 
-Jan 2003-Feb 2023 - Private project about collecting companies data on LinkedIn
+Jan 2003-Apr 2023 - Private project about collecting companies data on LinkedIn
 
-Sep-Oct 2022 - Help for those who fled from mobilization in russia
+Sep 2022-Aug 2023 - Help for those who fled from mobilization in russia
 
 Sep 2022 - Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
 Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
@@ -144,7 +154,7 @@ May-Jun 2022 - Leave russia (evacuation so as not to be imprisoned)
 
 Mar-May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
 
-Mar 2022 - [Nurnberg Trials 2.0](https://t.me/peremennn_re) project help
+Mar 2022-Now - [Nurnberg Trials 2.0](https://t.me/peremennn_re) project help
 
 Mar 2022 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
 
