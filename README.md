@@ -208,13 +208,13 @@ A lot of different communications and activities aka [figma-hiring-tickets](http
 
 ### My Communities:
 
-**- RIP Leaks** - Chronicles of sinking russian import substitution: https://t.me/RIPLeaks
-
-We publicly oppose the processes of russian import substitution, including in the IT sector, and cover news on this topic
-
 **- Marshak**: https://t.me/mmarshak
 
 Our family channel based on [Marshak's poetry](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BA,_%D0%A1%D0%B0%D0%BC%D1%83%D0%B8%D0%BB_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87)
+
+**- RIP Leaks** - Chronicles of sinking russian import substitution: https://t.me/RIPLeaks
+
+We publicly oppose the processes of russian import substitution, including in the IT sector, and cover news on this topic
 
 **- Ebenya Rodiny** (aka Fucking Motherland): https://www.instagram.com/ebenya_rodiny/
 
