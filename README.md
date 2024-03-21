@@ -5,7 +5,7 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 
 ### Main projects:
 
-- [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigationswith collection of tools, services and investigations
+- [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigations
 
 - [OSINT Repos List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub Starred Repositories and Users
 
