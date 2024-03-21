@@ -83,7 +83,7 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 ### My Contacts:
 
-Twitter [@HiddenJoker](https://twitter.com/HiddenDjoker)
+Twitter: [@HiddenJoker](https://twitter.com/HiddenDjoker)
 
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
