@@ -83,7 +83,7 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 ### My Contacts:
 
-Twitter: [@HiddenJoker](https://twitter.com/HiddenDjoker)
+Twitter: [@OSINTech_](https://twitter.com/@OSINTech_)
 
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
@@ -109,7 +109,7 @@ Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
 GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
 
-Twitter:  [https://twitter.com/HiddenDjoker](https://twitter.com/HiddenDjoker)
+Twitter:  [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
 
 LinkedIn: [https://www.linkedin.com/in/osintech/](https://www.linkedin.com/in/osintech/)
 
