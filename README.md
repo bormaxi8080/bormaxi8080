@@ -17,6 +17,10 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 
 - [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format
 
+- [Marshak Telegram Channel](https://t.me/mmarshak), our family channel based on Marshak's poetry
+
+- [Ebenya Rodiny (aka Fucking Motherland)](https://www.instagram.com/ebenya_rodiny/), one of the largest collections of graffiti and street art in the world
+
 <hr>
 
 ### My GitHub statistics:
