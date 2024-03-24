@@ -192,7 +192,7 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2015 - Start a GoodJob Hiring Agency
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 250 people outside the russian Federation and friends gave me the nickname "Russian Schindler").
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 250 family outside the russian Federation and friends gave me the nickname "Russian Schindler").
 Hiring candidates in IT from the middle level.
 Automated candidate database of 30+ thousand people.
 I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
@@ -238,7 +238,7 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 ### People:
 
-[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), [Polina Kapitonova](https://www.facebook.com/polyzaza), [Alexander Litreev](https://twitter.com/alexlitreev), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Alisa Tebaeva](https://www.linkedin.com/in/alisa-tebaeva-3a56032/), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov), [Olga Pelshe](https://www.facebook.com/olga.pelshe), [Alina Runova](https://www.linkedin.com/in/alina-runova-319ab844/), [Alex Suhorukov](https://www.linkedin.com/in/asuhorukov/)
+[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), [Polina Kapitonova](https://www.facebook.com/polyzaza), [Alexander Litreev](https://twitter.com/alexlitreev), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov)
 
 ### Stargazers:
 
