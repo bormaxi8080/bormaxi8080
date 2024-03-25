@@ -5,21 +5,21 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 
 ### Main projects:
 
-- [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigations
+- [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigations.
 
-- [OSINT Repos List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub Starred Repositories and Users
+- [OSINT Repos List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub Starred Repositories and Users.
 
-- [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), revised and modified version of https://osintframework.com OSINT mindmap service
+- [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), revised and modified version of https://osintframework.com OSINT mindmap service.
 
-- [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online
+- [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online.
 
-- [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork Bellingcat's version of Telepathy Telegram OSINT tool
+- [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork Bellingcat's version of Telepathy Telegram OSINT tool.
 
-- [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format
+- [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. This project was subsequently transformed into a system for collecting data and storing information about people’s profiles, which is not a classic ATS. This part is in a private repository.
 
-- [Marshak Telegram Channel](https://t.me/mmarshak), our family channel based on Marshak's poetry
+- [Marshak Telegram Channel](https://t.me/mmarshak), our family channel based on Marshak's poetry.
 
-- [Ebenya Rodiny (aka Fucking Motherland)](https://www.instagram.com/ebenya_rodiny/), one of the largest collections of graffiti and street art in the world
+- [Ebenya Rodiny (aka Fucking Motherland)](https://www.instagram.com/ebenya_rodiny/), one of the largest collections of graffiti and street art in the world.
 
 <hr>
 
