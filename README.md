@@ -48,7 +48,7 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 - Some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc. for building optimal technical solutions
 - Maltego, Shodan, Telepathy, Sherlock, theHarvester, SpiderFoot, Metasploit, Huginn, and more OSINT frameworks & tools to realize investigations for various resources
 - Selenium, Puppeteer, Apify, Playwright, Crawlee and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
-- Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)
+- Various protocols related to e-mail (POP3, IMAP, MTA logs, verification and validation of addresses through various services, mass mailings)
 
 ### Non-core Technologies:
 
