@@ -2,7 +2,7 @@
 ____
 **outside russia**
 
-**OSINT activities & Investigations | DevOps | Python | Node.js | Perl | Bash**
+**OSINT activities & Investigations | DevOps | Python | Ruby | JS | Perl | Bash**
 
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
@@ -16,7 +16,7 @@ Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (s
 
 ## Specialization and professional skills:
 
-I develop and investigate People, Companies and Incidents Data on Python, Node.js, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices. Sometimes I hire targeted for positions in IT level from middle+, with relocation outside russia, write about hiring, HR Tech, development and participate in various professional communities.
+I develop and investigate People, Companies and Incidents Data on Python, Ruby, JS, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices. Sometimes I hire targeted for positions in IT level from middle+, with relocation outside russia, write about hiring, HR Tech, development and participate in various professional communities.
 
 ## My soft skills and communications:
 
