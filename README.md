@@ -41,7 +41,7 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 
 ### My Technical Stack:
 
-- Python, Node.js, JavaScript, Perl, Bash
+- Python, Node.js, JavaScript, Ruby, Perl, Bash
 - PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Huginn, Jira administration
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
