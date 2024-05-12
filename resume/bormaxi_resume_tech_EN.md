@@ -39,7 +39,7 @@ I develop and investigate People, Companies and Incidents Data on Python, Ruby, 
 
 ### Dec 2021 - Present, Python, Node.js, Perl Developer & Investigator (OSINT), NDA, outside russia
 
-I develop backends and various automations and investigations on Python, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am targeted in hiring for IT companies (remote job and relocation outside russia), and help in OSINT investigations and development of professional communities, active contribute to OSINT project's communities and other tools and projects.
+I develop backends and various automations on Python, Ruby, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and other tricky things for OSINT activities and investigations.
 
 ### Nov 2015 - Nov 2021 GoodJob Hiring Agency, Novosibirsk, russia - Owner
 
