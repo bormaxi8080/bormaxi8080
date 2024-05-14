@@ -16,12 +16,17 @@ Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (s
 
 ## Specialization and professional skills:
 
-I develop and investigate People, Companies and Incidents Data on Python, Ruby, JS, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices. Sometimes I hire targeted for positions in IT level from middle+, with relocation outside russia, write about hiring, HR Tech, development and participate in various professional communities.
+I develop and investigate People, Companies and Incidents Data on Python, Ruby, JS, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
+
+I focused on collecting various data about individuals, companies, structures and incidents and develop OSINT solutions related to this topic, as well as a variety of parsers, scrapers, systems for comparing and analyzing poorly structured data. I have extensive experience in hiring in the IT and periodically act as a communicator in various technical communities, and actively participate in open source development.
+
+Previously I acted as head hunter targeted for positions in IT level from middle+, with relocation outside russia, write about hiring, HR Tech, development and participate in various professional communities.
 
 ## My soft skills and communications:
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
 - Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, Maltego transformations, managing ATS and various datasets with data about people, companies, incidents and some artifacts to research it
+- Strong skills in backend development (Python/Ruby/JS/Perl/Bash)
 - Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists from russia, all kinds of communications
 
 ## My technical stack:
@@ -32,12 +37,12 @@ I develop and investigate People, Companies and Incidents Data on Python, Ruby, 
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
 - Some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc. for building optimal technical solutions
 - Maltego, Shodan, Telepathy, Sherlock, theHarvester, SpiderFoot, Metasploit, Huginn, and more OSINT frameworks & tools to realize investigations for various resources
-- Selenium, Puppeteer, Apify, Playwright, Crawlee and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
+- Selenium, Puppeteer and at different times a bunch of all sorts of exotics for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTA logs, verification and validation of addresses through various services, mass mailings)
 
 ## Work experience
 
-### Dec 2021 - Present, Python, Node.js, Perl Developer & Investigator (OSINT), NDA, outside russia
+### Dec 2021 - Present, OSINT Investigator, Python/Ruby/JS/Perl Developer, NDA, outside russia
 
 I develop backends and various automations on Python, Ruby, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and other tricky things for OSINT activities and investigations.
 

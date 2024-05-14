@@ -1,9 +1,12 @@
-Hi all, I am @bormaxi8080, aka Maxim Marshak, OSINT enthusiast, software developer and technical hiring specialist.
+Hi all, I am @bormaxi8080, aka Maxim Marshak, OSINT enthusiast, white hacker, software developer and technical communications specialist.
 
 I develop and investigate People, Companies and Incidents Data on Python, Ruby, JS, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
-Sometimes I hire targeted for positions in IT level from middle+, with relocation outside russia, write about hiring, HR Tech, development and participate in various professional communities.
 
-### Main projects:
+I focused on collecting various data about individuals, companies, structures and incidents and develop OSINT solutions related to this topic, as well as a variety of parsers, scrapers, systems for comparing and analyzing poorly structured data. I have extensive experience in hiring in the IT and periodically act as a communicator in various technical communities, and actively participate in open source development.
+
+Previously I acted as head hunter targeted for positions in IT level from middle+, with relocation outside russia, write about hiring, HR Tech, development and participate in various professional communities.
+
+### Projects Examples:
 
 - [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigations.
 
@@ -36,8 +39,9 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 ### My Soft Skills and Communications:
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones 
-- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, Maltego transformations, managing ATS and various datasets with data about people, companies, incidents and some artifacts to research it
-- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists from russia, all kinds of communications
+- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, Maltego transformations, managing various datasets with data about people, companies, incidents and some artifacts to research it
+- Strong skills in backend development (Python/Ruby/JS/Perl/Bash)
+- Strong skills in communication and hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists from russia, all kinds of communications
 
 ### My Technical Stack:
 
@@ -47,7 +51,7 @@ Sometimes I hire targeted for positions in IT level from middle+, with relocatio
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
 - Some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc. for building optimal technical solutions
 - Maltego, Shodan, Telepathy, Sherlock, theHarvester, SpiderFoot, Metasploit, Huginn, and more OSINT frameworks & tools to realize investigations for various resources
-- Selenium, Puppeteer, Apify, Playwright, Crawlee and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment
+- Selenium, Puppeteer and at different times a bunch of all sorts of exotics for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTA logs, verification and validation of addresses through various services, mass mailings)
 
 ### Non-core Technologies:
@@ -87,9 +91,9 @@ This is a rather non-standard path in a career, but the circumstances have devel
 
 ### My Contacts:
 
-Twitter: [@OSINTech_](https://twitter.com/@OSINTech_)
-
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
+
+Twitter: [@OSINTech_](https://twitter.com/@OSINTech_)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
@@ -104,8 +108,6 @@ Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 - [bormaxi8080 OSINT Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
 - [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
-
-- [bormaxi8080 OSINT Board](https://start.me/p/X2G0DB/bormaxi8080-osint-board) on start.me
 
 <hr>
 
@@ -248,7 +250,7 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 **Especially for my political friends and opponents:**
 
-I support Ukraine, publicly oppose war and russian political system. I help projects aimed at exposing state and war crimes and publicly condemn russian invasion of Ukraine.
+I publicly oppose war and russian political system. I help projects aimed at exposing state and war crimes and publicly condemn russian invasion of Ukraine.
 
 ![alt text](./img/ukraine.png "Ukraine")
 ![alt text](./img/russia_new.png "New russia")
