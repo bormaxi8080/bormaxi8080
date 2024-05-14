@@ -41,7 +41,7 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones 
 - Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, Maltego transformations, managing various datasets with data about people, companies, incidents and some artifacts to research it
 - Strong skills in backend development (Python/Ruby/JS/Perl/Bash)
-- Strong skills in communication and hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists from russia, all kinds of communications
+- Strong skills in communication and hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists, all kinds of communications
 
 ### My Technical Stack:
 
