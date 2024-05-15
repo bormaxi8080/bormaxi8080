@@ -77,8 +77,6 @@ For quite a long time I was engaged in hiring specialists in IT and took about 2
 
 In parallel with development and hiring in IT, I was involved in development of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
 
-This is a rather non-standard path in a career, but the circumstances have developed.
-
 <hr>
 
 ### My Resume:
