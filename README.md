@@ -10,7 +10,7 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 - [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigations.
 
-- [OSINT Repos List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub Starred Repositories and Users.
+- [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub Starred Repositories and its creators.
 
 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), revised and modified version of https://osintframework.com OSINT mindmap service.
 
@@ -101,7 +101,7 @@ Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
 ### My OSINT lists:
 
-- Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred), [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
+- Systematized [List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
 
 - [bormaxi8080 OSINT Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
