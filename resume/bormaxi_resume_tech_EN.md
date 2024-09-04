@@ -2,7 +2,7 @@
 ____
 **outside Russia**
 
-**OSINT activities & Investigations | DevOps | Python | Ruby | JS | Perl | Bash**
+**OSINT Activities & Investigations | DevOps | Python | Ruby | JS | Perl | Bash**
 
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 

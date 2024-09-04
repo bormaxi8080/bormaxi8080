@@ -1,4 +1,4 @@
-Hi all, I am @bormaxi8080, aka Maxim Marshak, OSINT enthusiast, white hacker, software developer and technical communications specialist.
+Hi all, I am @bormaxi8080, aka Maxim Marshak, OSINT & investigations enthusiast, software developer and technical communications specialist.
 
 I develop and investigate People, Companies and Incidents Data on Python, Ruby, JS, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
 
