@@ -125,6 +125,12 @@ Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
 Continued...
 
+Aug 2024 - Pavel Bannikov's Profiling OSINT Course
+
+Apr 2023-Now - OSINT Timelines and Collections activity
+
+Jun 2022-Now - OSINT & investigative journalism activities
+
 Nov 2022-Now - Busy in a private projects about collecting social data
 
 Nov 2022-Now - Busy in a private project about email checking (big conveyor)
@@ -234,11 +240,11 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 ### Projects:
 
-[Bellingcat Projects](https://github.com/bellingcat), [Nurnberg Trials 2.0](https://t.me/peremennn_re), [Cyber Detective](https://github.com/cipher387), [OSINT Framework](https://github.com/lockfale/OSINT-Framework), [CyberYozh Security Group](https://cyberyozh.com/), [Sharovatov's Teamlead](https://github.com/sharovatov/teamlead), [Cybersecurity Frameworks and Maturity Models](https://www.linkedin.com/groups/6624427/), [Huginn](https://github.com/huginn/huginn)
+[Bellingcat Projects](https://github.com/bellingcat), [Nurnberg Trials 2.0](https://t.me/peremennn_re), [Cyber Detective](https://github.com/cipher387), [OSINT Framework](https://github.com/lockfale/OSINT-Framework), [CyberYozh Security Group](https://cyberyozh.com/), [Huginn](https://github.com/huginn/huginn)
 
 ### People:
 
-[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), [Polina Kapitonova](https://www.facebook.com/polyzaza), [Alexander Litreev](https://twitter.com/alexlitreev), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov)
+[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), , [Alexander Litreev](https://twitter.com/alexlitreev), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov)
 
 ### Stargazers:
 
@@ -250,24 +256,10 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 I publicly oppose war and russian political system. I help projects aimed at exposing state and war crimes and publicly condemn russian invasion of Ukraine.
 
-![alt text](./img/ukraine.png "Ukraine")
-![alt text](./img/russia_new.png "New russia")
-![alt text](./img/siberia.png "Siberia")
-
 <hr>
 
 ### Donates:
 
-If you like the projects that I do, I will be grateful for donations.
-
-USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
-
-ETH (ERC-20): 0xd1f0b91cf5430ea6cd5f853dbedb1134f2e1af35
-
-ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
-
-BTC: 1P8UgziH27TuGTo9GK3cnKLh9JhECYDeuo
-
-<img src="./img/hiddendjoker.jpg" width="200" alt="@HiddenDjoker">
+If you like the projects that I do, I will be grateful for donations in private dialgue.
 
 <hr>
