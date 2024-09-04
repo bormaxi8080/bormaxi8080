@@ -244,7 +244,7 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 ### People:
 
-[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Pavel Bannikov](https://www.facebook.com/pavel.bannikov), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), , [Alexander Litreev](https://twitter.com/alexlitreev), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov)
+[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Pavel Bannikov](https://www.facebook.com/pavel.bannikov), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), [Alexander Litreev](https://twitter.com/alexlitreev), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov)
 
 ### Stargazers:
 
