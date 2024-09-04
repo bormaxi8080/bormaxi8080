@@ -260,6 +260,6 @@ I publicly oppose war and Russian political system. I help projects aimed at exp
 
 ### Donates:
 
-If you like the projects that I do, I will be grateful for donations in private dialgue.
+If you like the projects that I do, I will be grateful for donations in private dialogue.
 
 <hr>
