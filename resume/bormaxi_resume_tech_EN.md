@@ -8,7 +8,7 @@ Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
 GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
 
-LinkedIn: [@maxim-marshak](https://www.linkedin.com/in/osintech/)
+LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
 Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
