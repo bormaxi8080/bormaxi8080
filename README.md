@@ -79,19 +79,19 @@ In parallel with development and hiring in IT, I was involved in development of 
 
 <hr>
 
+### My Contacts / Social Links:
+
+Twitter: [@OSINTech_](https://twitter.com/@OSINTech_)
+
+LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
+
+<hr>
+
 ### My Resume:
 
 [Resume in Markdown](./resume/bormaxi_resume_tech_EN.md)
 
 [Resume in PDF](./resume/bormaxi_resume_tech_EN.pdf)
-
-<hr>
-
-### My Contacts:
-
-Twitter: [@OSINTech_](https://twitter.com/@OSINTech_)
-
-LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
 <hr>
 
@@ -102,14 +102,6 @@ LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 - [bormaxi8080 OSINT Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
 - [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
-
-<hr>
-
-### My social links:
-
-Twitter:  [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
-
-LinkedIn: [https://www.linkedin.com/in/osintech/](https://www.linkedin.com/in/osintech/)
 
 <hr>
 
