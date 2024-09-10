@@ -10,8 +10,6 @@ GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
-Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
-
 Languages: Russian (native), English (elementary), Italian (beginner), Pushtu (specific text translation), Georgian (specific text translation)
 
 ## Specialization and professional skills:

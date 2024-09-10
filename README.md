@@ -89,13 +89,9 @@ In parallel with development and hiring in IT, I was involved in development of 
 
 ### My Contacts:
 
-Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
-
 Twitter: [@OSINTech_](https://twitter.com/@OSINTech_)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
-
-Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
 <hr>
 
@@ -111,13 +107,9 @@ Facebook: [@bormaxi](https://www.facebook.com/bormaxi/)
 
 ### My social links:
 
-GitHub:   [https://github.com/bormaxi8080](https://github.com/bormaxi8080)
-
 Twitter:  [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
 
 LinkedIn: [https://www.linkedin.com/in/osintech/](https://www.linkedin.com/in/osintech/)
-
-Facebook: [https://www.facebook.com/bormaxi](https://www.facebook.com/bormaxi)
 
 <hr>
 
