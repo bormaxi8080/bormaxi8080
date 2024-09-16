@@ -226,7 +226,7 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 <hr>
 
-**Especially for my political friends and opponents:**
+**Especially for my friends and opponents:**
 
 I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes and publicly condemn Russian invasion of Ukraine.
 
