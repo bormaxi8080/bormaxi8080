@@ -220,16 +220,6 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 <hr>
 
-### Projects and People I like and support:
-
-### Projects:
-
-[takiedela.ru](https://takiedela.ru/), [Provereno.media](https://provereno.media/), [Bellingcat Projects](https://github.com/bellingcat), [Nurnberg Trials 2.0](https://t.me/peremennn_re), [Cyber Detective](https://github.com/cipher387), [OSINT Framework](https://github.com/lockfale/OSINT-Framework), [CyberYozh Security Group](https://cyberyozh.com/), [Huginn](https://github.com/huginn/huginn)
-
-### People:
-
-[Vika Pridatko](https://www.facebook.com/vika.prydatko), [Pavel Bannikov](https://www.facebook.com/pavel.bannikov), [Irina Shamaeva](https://www.linkedin.com/in/irinashamaeva/), [Christo Grozev](https://twitter.com/christogrozev), [Alexander Litreev](https://twitter.com/alexlitreev), [Tatyana Lazareva](https://www.facebook.com/profile.php?id=100000829686292), [Susanna Frazier](https://github.com/ohsusannamarie), [Vladimir Vinnikov](https://www.linkedin.com/in/vladimir-vinnikov-a0278189/), [Petr Sokolov](https://www.facebook.com/petrpsokolov)
-
 ### Stargazers:
 
 [![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/bormaxi8080/bormaxi8080)](https://github.com/bormaxi8080/bormaxi8080/stargazers)
