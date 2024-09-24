@@ -4,7 +4,7 @@ I develop and investigate People, Companies and Incidents Data on Python, Ruby, 
 
 I focused on collecting various data about individuals, companies, structures and incidents and develop OSINT solutions related to this topic, as well as a variety of parsers, scrapers, systems for comparing and analyzing poorly structured data. I have extensive experience in hiring in the IT and periodically act as a communicator in various technical communities, and actively participate in open source development.
 
-Previously I acted as head hunter targeted for positions in IT level from middle+, with relocation outside Russia, write about hiring, HR Tech, development and participate in various professional communities.
+Previously I acted as head hunter targeted for positions in IT level from middle+, with relocation outside Russia, write about tech, development and participate in various professional communities.
 
 ### Projects Examples:
 
@@ -158,12 +158,6 @@ Jan 2022 - Worked on the creation of a complex highload email verification syste
 
 Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
 
-Dec 2021 - Pull my [ITHRMemes](https://github.com/bormaxi8080/ITHRMemes) humor collection on GitHub (since 2015)
-
-Dec 2021 - Start a some projects and collections, create forks on GitHub. Experiments with tools and bash scripts, aka [emergency-shutdown](https://github.com/bormaxi8080/emergency-shutdown) bash script for MacOS
-
-Dec 2021 - Start a [bormaxi-about-hiring](https://github.com/bormaxi8080/bormaxi-about-hiring) book project (not finished)
-
 Dec 2021 - Close my hiring agency and checkout into NDA place as software developer
 
 Jun 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
@@ -188,13 +182,9 @@ Automated candidate database of 30+ thousand people.
 I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
 Worked with companies such as Exness, Intel, Plesk, DevExperts, Think-Cell and many others.
 
-A lot of different communications and activities aka [figma-hiring-tickets](https://github.com/bormaxi8080/figma-hiring-tickets) and more.
-
-2015 - Start a [No Morals](https://www.facebook.com/groups/netmorali/) humorist private Facebook community
+A lot of different communications and activities.
 
 2013 - [A Pencil Tests](https://www.habrahabr.ru/post/193902/) habr's publication with 1M views
-
-2004-2006 - Moderator in some hives on [ixbt.com](ixbt.com)
 
 2000-2015 - Programming in various projects
 
@@ -205,10 +195,6 @@ A lot of different communications and activities aka [figma-hiring-tickets](http
 **- Marshak**: https://t.me/mmarshak
 
 Our family channel based on [Marshak's poetry](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BA,_%D0%A1%D0%B0%D0%BC%D1%83%D0%B8%D0%BB_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87)
-
-**- RIP Leaks** - Chronicles of sinking Russian import substitution: https://t.me/RIPLeaks
-
-We publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
 
 **- Ebenya Rodiny** (aka Fucking Motherland): https://www.instagram.com/ebenya_rodiny/
 
