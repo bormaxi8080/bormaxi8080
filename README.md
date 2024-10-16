@@ -109,7 +109,11 @@ LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
 Continued...
 
-Aug 2024 - Pavel Bannikov's Profiling OSINT Course
+Oct 2024-Now - Began studying at the [Open Literary School of Almaty](https://litshkola.kz/)
+
+Oct 2024-Now - Began studying at the [Free University](https://freemoscow.university/)
+
+Aug 2024 - Completed Pavel Bannikov's Profiling OSINT Course
 
 Apr 2023-Now - OSINT Timelines and Collections activities
 
