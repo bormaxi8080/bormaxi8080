@@ -22,8 +22,6 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 - [Marshak Telegram Channel](https://t.me/mmarshak), our family channel based on Marshak's poetry.
 
-- [Ebenya Rodiny (aka Fucking Motherland)](https://www.instagram.com/ebenya_rodiny/), one of the largest collections of graffiti and street art in the world.
-
 <hr>
 
 ### My GitHub statistics:
@@ -164,11 +162,11 @@ Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi
 
 Dec 2021 - Close my hiring agency and checkout into NDA place as software developer
 
-Jun 2021 - Start a [RIP Leaks](https://t.me/RIPLeaks) community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic
+Jun 2021 - Dec 2024 a **RIP Leaks** community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic. Project closed.
 
 May 2021 - Repair this GitHub account from reserve
 
-Jun 2020 - Start a [Ebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project
+Jun 2020 - Start a [Ebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
 
 Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 
