@@ -107,19 +107,19 @@ LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
 Continued...
 
-Oct 2024-Now - Began studying at the [Open Literary School of Almaty](https://litshkola.kz/)
+Sep 2024-Now - Began studying at the [Open Literary School of Almaty](https://litshkola.kz/)
 
-Oct 2024-Now - Began studying at the [Free University](https://freemoscow.university/)
+Sep 2024-Now - Began studying at the [Free University](https://freemoscow.university/)
 
 Aug 2024 - Completed Pavel Bannikov's Profiling OSINT Course
 
 Apr 2023-Now - OSINT Timelines and Collections activities
 
-Jun 2022-Now - OSINT & investigative journalism activities
+Jun 2022-Now - OSINT & investigative Journalism activities
 
 Nov 2022-Now - Busy in a private projects about collecting social data
 
-Nov 2022-Now - Busy in a private project about email checking (big conveyor)
+Nov 2022-Now - Busy in a private projects about email checking (big conveyors)
 
 Nov 2022-Now - Busy in a private project about AD processing (big conveyor)
 
