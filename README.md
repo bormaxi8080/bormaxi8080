@@ -8,6 +8,8 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 ### Projects Examples:
 
+- [Marshak Telegram Channel](https://t.me/mmarshak), our family channel based on Marshak's poetry.
+
 - [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigations.
 
 - [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub Starred Repositories and its creators.
@@ -19,8 +21,6 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 - [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork Bellingcat's version of Telepathy Telegram OSINT tool.
 
 - [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. This project was subsequently transformed into a system for collecting data and storing information about people’s profiles, which is not a classic ATS. This part is in a private repository.
-
-- [Marshak Telegram Channel](https://t.me/mmarshak), our family channel based on Marshak's poetry.
 
 <hr>
 
@@ -79,9 +79,11 @@ In parallel with development and hiring in IT, I was involved in development of 
 
 ### My Contacts / Social Links:
 
-Twitter: [@OSINTech_](https://twitter.com/@OSINTech_)
+Substack: [@osintech](https://osintech.substack.com)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
+
+Facebook: [@osintehc](https://www.facebook.com/osintech)
 
 <hr>
 
