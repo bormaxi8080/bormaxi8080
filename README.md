@@ -210,12 +210,6 @@ Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
 
 <hr>
 
-### Stargazers:
-
-[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/bormaxi8080/bormaxi8080)](https://github.com/bormaxi8080/bormaxi8080/stargazers)
-
-<hr>
-
 **Especially for my friends and opponents:**
 
 I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes and publicly condemn Russian invasion of Ukraine.
