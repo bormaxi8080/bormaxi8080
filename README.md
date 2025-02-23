@@ -83,7 +83,7 @@ Substack: [@osintech](https://osintech.substack.com)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
-Facebook: [@osintehc](https://www.facebook.com/osintech)
+Facebook: [@osintech](https://www.facebook.com/osintech)
 
 <hr>
 
