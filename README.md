@@ -71,9 +71,9 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
 
-For quite a long time I was engaged in hiring specialists in IT and took about 250 families outside RF. With the beginning of war in Ukraine, I left Russia, and I do not consider offers from Russian corporations, state structures, and office work within Russia. Now I live in other countries.
+For quite a long time I was engaged in hiring specialists in IT and took about 260 families outside RF. With the beginning of war in Ukraine, I left Russia, and I do not consider offers from Russian corporations, state structures, and office work within Russia. Now I live in other countries.
 
-In parallel with development and hiring in IT, I was involved in development of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
+In parallel with development and investigations, I was involved of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
 
 <hr>
 
