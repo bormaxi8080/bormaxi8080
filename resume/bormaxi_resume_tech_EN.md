@@ -82,15 +82,15 @@ Development of a server on a node.js for the analysis of medical information. Th
 
 Match-3 social game server development on node.js
 
-### Dec 2014 - Apr 2015 EleFun Games, Novosibirsk, Russia - Backend Node.js Developer, contract job
+### Nov 2014 - Apr 2015 EleFun Games, Novosibirsk, Russia - Backend Node.js Developer, contract job
 
 Online shooter server development on node.js
 
-### Jun 2011 - Apr 2014 Web study, Novosibirsk, Russia - Backend Developer
+### Jun 2011 - May 2014 Web study, Novosibirsk, Russia - Backend Developer
 
 Various projects for clients (sites & web services).
 
-### Aug 2010 - Jun 2013 Katren, Novosibirsk, Russia - ERP/CRM Developer
+### Jul 2010 - Jun 2013 Katren, Novosibirsk, Russia - ERP/CRM Developer
 
 Large system development for managing a pharmaceutical retailer
 
