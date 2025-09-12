@@ -1,4 +1,4 @@
-Hi all, I am @bormaxi8080, aka Maxim Marshak, OSINT & investigations enthusiast, software developer and technical communications specialist.
+Hi all, I am Maxim Marshak, OSINT & investigations enthusiast, software developer and technical communications specialist.
 
 I develop and investigate People, Companies and Incidents Data on Python, Ruby, JS, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
 
@@ -7,8 +7,6 @@ I focused on collecting various data about individuals, companies, structures an
 Previously I acted as head hunter targeted for positions in IT level from middle+, with relocation outside Russia, write about tech, development and participate in various professional communities.
 
 ### Projects Examples:
-
-- [Marshak Telegram Channel](https://t.me/mmarshak), our family channel based on Marshak's poetry.
 
 - [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigations.
 
@@ -83,25 +81,20 @@ Substack: [@osintech](https://osintech.substack.com)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
-Facebook: [@osintech](https://www.facebook.com/osintech)
-
 <hr>
 
 ### My Resume:
 
-[Resume in Markdown](./resume/bormaxi_resume_tech_EN.md)
-
-[Resume in PDF](./resume/bormaxi_resume_tech_EN.pdf)
+Available on demand
 
 <hr>
 
 ### My OSINT lists:
 
-- Systematized [List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
-
 - [bormaxi8080 OSINT Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
-- [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
+- Systematized [List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
+
 
 <hr>
 
@@ -109,9 +102,9 @@ Facebook: [@osintech](https://www.facebook.com/osintech)
 
 Continued...
 
-Sep 2024-Now - Began studying at the [Open Literary School of Almaty](https://litshkola.kz/)
+Sep 2024-Now - Began studying at the Open Literary School
 
-Sep 2024-Now - Began studying at the [Free University](https://freemoscow.university/)
+Sep 2024-Now - Began studying at the Free University
 
 Aug 2024 - Completed Pavel Bannikov's Profiling OSINT Course
 
@@ -144,17 +137,17 @@ Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates
 
 Jun 2022 - Start some OSINT collections and tools
 
-Jun 2022 - Create a new [account on LinkedIn](https://www.linkedin.com/in/osintech/)
+Jun 2022 - Create a new account on LinkedIn
 
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
 May-Jun 2022 - Leave Russia (evacuation so as not to be imprisoned)
 
-Mar-May 2022 - Prepare and change my server infrastrucure and communities to the military situation in the world
+Mar-May 2022 - Prepare and change my server infrastructure and communities to the military situation in the world
 
-Mar 2022-Now - [Nurnberg Trials 2.0](https://t.me/peremennn_re) project help
+Mar 2022-Now - Nurnberg Trials 2.0 project help
 
-Mar 2022 - Start [Marshak's Telegram Channel](https://t.me/mmarshak)
+Mar 2022 - Start Telegram Channels Activities
 
 Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
 
@@ -168,7 +161,7 @@ Jun 2021 - Dec 2024 a **RIP Leaks** community project,  publicly oppose the proc
 
 May 2021 - Repair this GitHub account from reserve
 
-Jun 2020 - Start a [Ebenya Rodiny](https://www.instagram.com/ebenya_rodiny/) (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
+Jun 2020 - Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
 
 Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 
@@ -176,7 +169,7 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2018-2019 - Moderate AngryHR, the largest HR comminity in Russian facebook segment, I think it's not really the best experience in my practice
 
-2018 - Start a [Nelin.in](https://www.instagram.com/nelen.in/) community project
+2018 - Start a Nelin.in community project
 
 2015 - Start a GoodJob Hiring Agency
 
@@ -188,31 +181,15 @@ Worked with companies such as Exness, Intel, Plesk, DevExperts, Think-Cell and m
 
 A lot of different communications and activities.
 
-2013 - [A Pencil Tests](https://www.habrahabr.ru/post/193902/) habr's publication with 1M views
+2013 - A Pencil Tests habr's publication with 1M views
 
 2000-2015 - Programming in various projects
 
 <hr>
 
-### My Communities:
-
-**- Marshak**: https://t.me/mmarshak
-
-Our family channel based on [Marshak's poetry](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BA,_%D0%A1%D0%B0%D0%BC%D1%83%D0%B8%D0%BB_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87)
-
-**- Ebenya Rodiny** (aka Fucking Motherland): https://www.instagram.com/ebenya_rodiny/
-
-One of the largest collections of street art in the world
-
-**- NeLen.In**: https://www.instagram.com/nelen.in/
-
-Sarkasm anti-communist photo collection about Vladimir Lenin and the Soviet era
-
-<hr>
-
 **Especially for my friends and opponents:**
 
-I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes and publicly condemn Russian invasion of Ukraine.
+I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes and publicly condemn Russian invasions.
 
 <hr>
 

@@ -6,7 +6,9 @@ ____
 
 Email:    [m.marshak@proton.me](mailto:m.marshak@proton.me)
 
-GitHub:   [@bormaxi8080](https://github.com/bormaxi8080/)
+GitHub:   https://github.com/bormaxi8080/
+
+Substack: https://substack.com/@osintech
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
@@ -44,7 +46,7 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 I develop backends and various automations on Python, Ruby, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and other tricky things for OSINT activities and investigations.
 
-### Nov 2015 - Nov 2021 GoodJob Hiring Agency, Novosibirsk, Russia - Owner
+### Nov 2015 - Nov 2021 Hiring Agency, Novosibirsk, Russia - Owner
 
 A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 250 families outside the Russian Federation and friends gave me the nickname "Russian Schindler"). Hiring candidates in IT from the middle level. Automated candidate database of 50+ thousand people. I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
 
@@ -52,9 +54,9 @@ A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote
 
 The best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
 
-### Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
+### Mar 2020 - Sep 2020 Compelled Career Break by private reasons
 
-### Jun 2018 - Jun 2019 Angry HR Community, Novosibirsk, Russia - Online Content Moderator
+### Jun 2018 - Jun 2019 Big Online HR Community, Novosibirsk, Russia - Online Content Moderator
 
 Moderator of the largest public for HR specialists in Russia.
 
