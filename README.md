@@ -24,8 +24,6 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 ### My GitHub statistics:
 
-![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bormaxi8080&count_private=true&show_icons=true&theme=dark)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bormaxi8080&theme=dark)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
@@ -58,10 +56,6 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
 - Delphi, Embarcadero, VBScript as oldfag )
 - UX, Figma, CSS, Styles - I can make it nice if needed
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bormaxi8080&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bormaxi8080&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
