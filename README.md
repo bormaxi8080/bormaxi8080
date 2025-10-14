@@ -96,7 +96,7 @@ Available on demand
 
 Continued...
 
-Sep 2024-Now - Began studying at the Almaty Open Literary School
+Sep 2024-Now - Began studying at the OLSHA Open Literary School
 
 Sep 2024-Now - Began studying at journalism speciality
 
@@ -123,8 +123,6 @@ Transferring my data (about 50,000 people profiles) from proprietary formats to 
 
 Aug 2022 - [Huginn](https://github.com/bormaxi8080/huginn) works (private fork commits)
 
-Aug 2022 - Organizing my own OSINT collections
-
 Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework)
 
 Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates
@@ -138,8 +136,6 @@ Mar-May 2022 - Prepare and change my server infrastructure and communities to th
 
 Mar 2022-Now - Nurnberg Trials 2.0 project help
 
-Mar 2022 - Start Telegram Channels Activities
-
 Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
 
 Jan 2022 - Worked on the creation of a complex highload email verification system (private)
@@ -150,8 +146,6 @@ Dec 2021 - Close my hiring agency and checkout into NDA place as software develo
 
 Jun 2021 - Dec 2024 a **RIP Leaks** community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic. Project closed.
 
-May 2021 - Repair this GitHub account from reserve
-
 Jun 2020 - Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
 
 Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
@@ -159,8 +153,6 @@ Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021
 
 2018-2019 - Moderate AngryHR, the largest HR comminity in Russian facebook segment, I think it's not really the best experience in my practice
-
-2018 - Start a Nelin.in community project
 
 2015 - Start a GoodJob Hiring Agency
 
