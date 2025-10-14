@@ -135,7 +135,7 @@ Jun 2022 - Create a new account on LinkedIn
 
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
-May-Jun 2022 - Leave Russia (evacuation so as not to be imprisoned)
+May-Jun 2022 - Leave Russian Federation
 
 Mar-May 2022 - Prepare and change my server infrastructure and communities to the military situation in the world
 
@@ -183,7 +183,7 @@ A lot of different communications and activities.
 
 **Especially for my friends and opponents:**
 
-I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes and publicly condemn Russian invasions.
+I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes.
 
 <hr>
 
