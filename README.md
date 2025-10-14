@@ -16,7 +16,7 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 - [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online.
 
-- [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork Bellingcat's version of Telepathy Telegram OSINT tool.
+- [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork version of Telepathy Telegram OSINT tool.
 
 - [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. This project was subsequently transformed into a system for collecting data and storing information about people’s profiles, which is not a classic ATS. This part is in a private repository.
 
@@ -96,9 +96,9 @@ Available on demand
 
 Continued...
 
-Sep 2024-Now - Began studying at the Open Literary School
+Sep 2024-Now - Began studying at the Almaty Open Literary School
 
-Sep 2024-Now - Began studying at the Free University
+Sep 2024-Now - Began studying at journalism speciality
 
 Aug 2024 - Completed Pavel Bannikov's Profiling OSINT Course
 
@@ -127,11 +127,8 @@ Aug 2022 - Organizing my own OSINT collections
 
 Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework)
 
-Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates (Bellingcat fork)
+Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates
 
-Jun 2022 - Start some OSINT collections and tools
-
-Jun 2022 - Create a new account on LinkedIn
 
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
