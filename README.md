@@ -152,7 +152,7 @@ Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 
 Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
 
-2018-2019 - Moderate one of largest HR community in Russian facebook segment.
+2018-2019 - Moderate one of largest HR communities in Russian facebook segment.
 
 2015 - Start a GoodJob Hiring Agency
 
