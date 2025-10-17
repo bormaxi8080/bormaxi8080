@@ -108,11 +108,11 @@ Jun 2022-Now - OSINT & investigative Journalism activities
 
 Nov 2022-Now - Busy in a private projects about collecting social data
 
-Nov 2022-Now - Busy in a private projects about email checking (big conveyors)
-
 Nov 2022-Now - Busy in a private project about AD processing (big conveyor)
 
-Oct 2022-Now - Continue experimenting with social media monitoring and people's big data imports
+Nov 2022-Now - Continue experimenting with social media monitoring and people's big data imports
+
+Nov 2022-Aug 2024 - Busy in a private projects about email checking (big conveyors)
 
 Jan 2023-Apr 2023 - Private project about collecting companies data on LinkedIn
 
