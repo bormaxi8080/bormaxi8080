@@ -150,9 +150,9 @@ Jun 2020 - Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the la
 
 Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
 
-Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021
+Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
 
-2018-2019 - Moderate AngryHR, the largest HR comminity in Russian facebook segment, I think it's not really the best experience in my practice
+2018-2019 - Moderate one of largest HR community in Russian facebook segment.
 
 2015 - Start a GoodJob Hiring Agency
 
