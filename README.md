@@ -8,15 +8,13 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 ### Projects Examples:
 
-- [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newseletter with collection of tools, services and investigations.
+- [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
 - [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub Starred Repositories and its creators.
 
-- [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework), revised and modified version of https://osintframework.com OSINT mindmap service.
+- [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service.
 
 - [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online.
-
-- [Telepathy](https://github.com/bormaxi8080/Telepathy), optimized fork version of Telepathy Telegram OSINT tool.
 
 - [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. This project was subsequently transformed into a system for collecting data and storing information about people’s profiles, which is not a classic ATS. This part is in a private repository.
 
