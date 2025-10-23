@@ -151,7 +151,7 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2018-2019 - Moderate one of largest HR communities in Russian facebook segment.
 
-2015 - Start a GoodJob Hiring Agency
+2015 - Start a Hiring Agency
 
 A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 250 family outside the Russian Federation and friends gave me the nickname "Russian Schindler").
 Hiring candidates in IT from the middle level.
