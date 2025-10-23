@@ -85,8 +85,9 @@ Available on demand
 
 - [bormaxi8080 OSINT Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
-- Systematized [List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
+- Systematized [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
 
+- [OSINT Dashboard](https://github.com/bormaxi8080/osint-dashboard) for start.me service
 
 <hr>
 
@@ -133,7 +134,7 @@ Mar-May 2022 - Prepare and change my server infrastructure and communities to th
 
 Mar 2022 - Aug 2024 - War Crimes Documentation project help (non-disclosured)
 
-Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
+Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident.
 
 Jan 2022 - Worked on the creation of a complex highload email verification system (private)
 
@@ -153,7 +154,7 @@ Jun 2019 - Start hiring developers in Improve Group, the best all-time IT compan
 
 2015 - Start a Hiring Agency
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 250 family outside the Russian Federation and friends gave me the nickname "Russian Schindler").
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 250 family outside the Russian Federation).
 Hiring candidates in IT from the middle level.
 Automated candidate database of 30+ thousand people.
 I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
