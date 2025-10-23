@@ -98,7 +98,7 @@ Sep 2024-Now - Began studying at the OLSHA Open Literary School
 
 Sep 2024-Now - Began studying at journalism speciality
 
-Aug 2024 - Completed Pavel Bannikov's Profiling OSINT Course
+Aug 2024, Sep 2025 - Completed Pavel Bannikov's Profiling OSINT Courses
 
 Apr 2023-Now - OSINT Timelines and Collections activities
 
@@ -110,11 +110,11 @@ Nov 2022-Now - Busy in a private project about AD processing (big conveyor)
 
 Nov 2022-Now - Continue experimenting with social media monitoring and people's big data imports
 
-Nov 2022-Aug 2024 - Busy in a private projects about email checking (big conveyors)
+Nov 2022 - Aug 2024 - Busy in a private projects about email checking (big conveyors)
 
-Jan 2023-Apr 2023 - Private project about collecting companies data on LinkedIn
+Jan 2023 - Apr 2023 - Private project about collecting companies data on LinkedIn
 
-Sep 2022-Aug 2023 - Help for those who fled from mobilization in Russia
+Sep 2022 - Aug 2023 - Help for those who fled from mobilization in Russia (non-disclosured)
 
 Sep 2022 - Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
 Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
@@ -125,14 +125,13 @@ Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework
 
 Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates
 
-
 Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
 May-Jun 2022 - Leave Russian Federation
 
 Mar-May 2022 - Prepare and change my server infrastructure and communities to the military situation in the world
 
-Mar 2022-Now - Nurnberg Trials 2.0 project help
+Mar 2022 - Aug 2024 - War Crimes Documentation project help (non-disclosured)
 
 Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident. Details is [here](https://www.facebook.com/sergey.a.boyko/posts/2039961386176848)
 
