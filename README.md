@@ -169,7 +169,7 @@ A lot of different communications and activities.
 
 **Especially for my friends and opponents:**
 
-I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes.
+I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes (non-disclosured).
 
 <hr>
 
