@@ -95,23 +95,21 @@ Available on demand
 
 Continued...
 
+Aug 2025-Now - Tesari.AI (https://tesari.ai/). OSINT Engineer & Library Curator
+
 Sep 2024-Now - Began studying at the OLSHA Open Literary School
 
-Sep 2024-Now - Began studying at journalism speciality
+Sep 2024-Now - Began studying at Journalism speciality
 
 Aug 2024, Sep 2025 - Completed Pavel Bannikov's Profiling OSINT Courses
 
 Apr 2023-Now - OSINT Timelines and Collections activities
 
-Jun 2022-Now - OSINT & investigative Journalism activities
+Jun 2022-Now - OSINT & investigative Journalism activities. Private projects about collecting social data
 
-Nov 2022-Now - Busy in a private projects about collecting social data
+Nov 2022 - Sep 2025 - Private projects about AD processing (big conveyor)
 
-Nov 2022-Now - Busy in a private project about AD processing (big conveyor)
-
-Nov 2022-Now - Continue experimenting with social media monitoring and people's big data imports
-
-Nov 2022 - Aug 2024 - Busy in a private projects about email checking (big conveyors)
+Nov 2022 - Aug 2024 - Private projects about email checking (big conveyors)
 
 Jan 2023 - Apr 2023 - Private project about collecting companies data on LinkedIn
 
