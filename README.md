@@ -22,8 +22,6 @@ Previously I acted as head hunter targeted for positions in IT level from middle
 
 ### My GitHub statistics:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bormaxi8080&theme=dark)](https://git.io/streak-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
 
 <hr>
