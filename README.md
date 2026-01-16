@@ -1,10 +1,8 @@
 Hi all, I am Maxim Marshak, OSINT & investigations enthusiast, software developer and technical communications specialist.
 
-I develop and investigate People, Companies and Incidents Data on Python, Ruby, JS, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices.
+With over 4 years of experience, I specialize in OSINT, internal investigations, and research and development (R&D). At Tesari AI, I contribute as an OSINT Engineer and library curator, ensuring the effective collection and management of data for actionable insights. My work is rooted in leveraging advanced methodologies to support investigative processes and organizational objectives. 
 
-I focused on collecting various data about individuals, companies, structures and incidents and develop OSINT solutions related to this topic, as well as a variety of parsers, scrapers, systems for comparing and analyzing poorly structured data. I have extensive experience in hiring in the IT and periodically act as a communicator in various technical communities, and actively participate in open source development.
-
-Previously I acted as head hunter targeted for positions in IT level from middle+, with relocation outside Russia, write about tech, development and participate in various professional communities.
+My expertise encompasses the development of OSINT solutions, including parsers, scrapers, and systems for analyzing unstructured data. I am skilled in backend technologies such as Python, Ruby, JavaScript, Perl, and Bash, and have a solid foundation in database management and DevOps practices. Driven by a passion for research and innovation, I strive to enhance data-driven decision-making and investigative capabilities.
 
 ### Projects Examples:
 
