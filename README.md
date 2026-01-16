@@ -6,7 +6,7 @@ My expertise encompasses the development of OSINT solutions, including parsers, 
 
 ### Projects Examples:
 
-- [bormaxi8080 OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
+- [OSINTech's Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
 - [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub Starred Repositories and its creators.
 
@@ -79,7 +79,7 @@ Available on demand
 
 ### My OSINT lists:
 
-- [bormaxi8080 OSINT Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
+- [OSINTech's Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
 - Systematized [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
 
