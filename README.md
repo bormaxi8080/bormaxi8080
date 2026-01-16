@@ -93,6 +93,10 @@ Continued...
 
 Aug 2025-Now - Tesari.AI (https://tesari.ai/). OSINT Engineer & Library Curator
 
+• Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management. 
+• Leveraged advanced methodologies to support investigative processes and align with organizational objectives. 
+• Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
+
 Sep 2024-Now - Began studying at the OLSHA Open Literary School
 
 Sep 2024-Now - Began studying at Journalism speciality
