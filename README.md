@@ -8,9 +8,9 @@ My expertise encompasses the development of OSINT solutions, including parsers, 
 
 - [OSINTech's Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
-- [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub Starred Repositories and its creators.
+- [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub Starred Repositories and its creators (access limited).
 
-- [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service.
+- [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (access limited).
 
 - [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online.
 
@@ -93,9 +93,11 @@ Continued...
 
 Aug 2025-Now - Tesari.AI (https://tesari.ai/). OSINT Engineer & Library Curator
 
-• Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management. 
-• Leveraged advanced methodologies to support investigative processes and align with organizational objectives. 
-• Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
+- Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management.
+
+- Leveraged advanced methodologies to support investigative processes and align with organizational objectives.
+
+- Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
 
 Sep 2024-Now - Began studying at the OLSHA Open Literary School
 
