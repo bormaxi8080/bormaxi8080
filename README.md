@@ -176,6 +176,8 @@ I publicly oppose war and Russian political system. I help projects aimed at exp
 
 ### Donates:
 
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
+
 If you like the projects that I do, I will be grateful for donations in private dialogue.
 
 <hr>
