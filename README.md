@@ -40,7 +40,7 @@ With over 4 years of experience in OSINT, I specialize in internal investigation
 
 ## My GitHub statistics
 
-![.](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
 
 ---
 
