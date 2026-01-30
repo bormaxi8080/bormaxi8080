@@ -73,7 +73,7 @@ With over 4 years of experience in OSINT, I specialize in internal investigation
 
 ---
 
-### My Profile Notices
+## My Profile Notices
 
 Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
 
@@ -83,7 +83,7 @@ In parallel with development and investigations, I was involved of various commu
 
 ---
 
-### My Contacts / Social Links
+## My Contacts / Social Links
 
 ![alt text](img/substack_logo.png)
 
