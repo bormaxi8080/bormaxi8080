@@ -117,7 +117,7 @@ OSINT, Software Development & Journalistic redactions vailable on demand.
 
 Continued...
 
-Aug 2025 / Now: [Tesari.AI](https://tesari.ai/). OSINT Engineer & Library Curator
+**Aug 2025 / Now:** [Tesari.AI](https://tesari.ai/). OSINT Engineer & Library Curator
 
 - Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management.
 
@@ -127,89 +127,89 @@ Aug 2025 / Now: [Tesari.AI](https://tesari.ai/). OSINT Engineer & Library Curato
 
 ![alt text](img/tesari.png)
 
-Jan 2026: [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
+**Jan 2026:** [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
 ![alt text](img/ea.png)
 
 ![alt text](img/ea2.png)
 
-Jn 2026 [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
+**Jan 2026:** [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
 ![alt text](img/repos-list.png)
 
-Dec 2025: Together with [@paulpogoda](https://github.com/paulpogoda), we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
+**Dec 2025:** Together with [@paulpogoda](https://github.com/paulpogoda), we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
 
-Sep 2024 / Jun 2026: Began studying at the OLSHA Open Literary School (several literary publications have been written).
+**Sep 2024 / Jun 2026:** Began studying at the OLSHA Open Literary School (several literary publications have been written).
 
 ![alt text](img/olsha.png)
 
-Sep 2024 / Jun 2026: Began studying at Journalism speciality (several jounalistic publications have been written).
+**Sep 2024 / Jun 2026:** Began studying at Journalism speciality (several jounalistic publications have been written).
 
 ![alt text](img/free.png)
 
-Aug 2024, Sep 2025: Completed [@paulpogoda](https://github.com/paulpogoda) Profiling OSINT Courses
+**Aug 2024, Sep 2025:** Completed [@paulpogoda](https://github.com/paulpogoda) Profiling OSINT Courses
 
-Apr 2023 / Now: OSINT Timelines and Collections activities
+**Apr 2023 / Now:** OSINT Timelines and Collections activities
 
-Jun 2022 / Now: OSINT & Investigative Journalistic Activities. Private projects about collecting social data
+**Jun 2022 / Now:** OSINT & Investigative Journalistic Activities. Private projects about collecting social data
 
-Nov 2022 / Sep 2025: Private projects about AD processing (big conveyor)
+**Nov 2022 / Sep 2025:** Private projects about AD processing (big conveyor)
 
-Nov 2022 / Aug 2024: Private projects about email checking (big conveyors)
+**Nov 2022 / Aug 2024:** Private projects about email checking (big conveyors)
 
-Jan 2023 / Apr 2023: Private project about collecting companies data on LinkedIn
+**Jan 2023 / Apr 2023:** Private project about collecting companies data on LinkedIn
 
-Sep 2022 / Aug 2023: Help for those who fled from mobilization in Russia (non-disclosured)
+**Sep 2022 / Aug 2023:** Help for those who fled from mobilization in Russia (non-disclosured)
 
-Sep 2022: Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
+**Sep 2022:** Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
 
 ![alt text](img/linkedin2md.png)
 
-2022: [Huginn](https://github.com/bormaxi8080/huginn) private fork/community commits
+**2022:** [Huginn](https://github.com/bormaxi8080/huginn) private fork/community commits
 
 ![alt text](img/huginn.png)
 
-2022: [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework)
+**2022:** [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework)
 
 ![alt text](img/osint-framework.png)
 
-2022: [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates & [components](https://telepathy.freedesktop.org/components/)
+**2022:** [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates & [components](https://telepathy.freedesktop.org/components/)
 
 ![alt text](img/telepathy.png)
 
-2022: Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
+**2022:** Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
-May / Jun 2022: Leave Russian Federation
+**May / Jun 2022:** Leave Russian Federation
 
-Mar / May 2022: Prepare and change my server infrastructure and communities to the military situation in the world
+**Mar / May 2022:** Prepare and change my server infrastructure and communities to the military situation in the world
 
-Mar 2022 / Aug 2024: War Crimes Documentation project help (non-disclosured)
+**Mar 2022 / Aug 2024:** War Crimes Documentation project help (non-disclosured)
 
-Feb 2022: Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident.
+**Feb 2022:** Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident.
 
 ![alt text](img/batu.png)
 
-Jan 2022: Worked on the creation of a complex highload email verification system (private)
+**Jan 2022:** Worked on the creation of a complex highload email verification system (private)
 
-Jan 2022: Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
+**Jan 2022:** Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
 
 ![alt text](img/nmap.png)
 
-Dec 2021: Close my hiring agency and checkout into NDA place as software developer
+**Dec 2021:** Close my hiring agency and checkout into NDA place as software developer
 
-Jun 2021 / Dec 2024: a **RIP Leaks** community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic. Project closed.
+**Jun 2021 / Dec 2024:** A **RIP Leaks** community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic. Project closed.
 
-Jun 2020: Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
+**Jun 2020:** Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
 
 ![alt text](img/ebenya.png)
 
-Mar 2020 / Sep 2020: Compelled Career Break by private reasons
+**Mar 2020 / Sep 2020:** Compelled Career Break by private reasons
 
-Jun 2019: Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
+**Jun 2019:** Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
 
-2018 / 2019: Moderate one of largest HR communities in Russian facebook segment.
+**2018 / 2019:** Moderate one of largest HR communities in Russian facebook segment.
 
-2015: Start a Hiring Agency
+**2015:** Start a Hiring Agency
 
 A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 260 families outside the Russian Federation).
 Hiring candidates in IT from the middle level.
@@ -221,11 +221,11 @@ A lot of different communications and activities.
 
 ![alt text](img/hiring-ticket.png)
 
-2013: [A Pencil Test](https://habr.com/ru/articles/193902/) habr's publication with 1M+ views
+**2013:** A [Pencil Test](https://habr.com/ru/articles/193902/) habr's publication with 1M+ views
 
 ![alt text](img/pencil.png)
 
-2000 / 2015: Software Development in various projects.
+**2000 / 2015:** Software Development in various projects.
 
 ---
 
