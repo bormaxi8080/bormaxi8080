@@ -2,34 +2,52 @@
 
 Hi all, I am Maxim Marshak, OSINT & investigations enthusiast, software developer and technical communications specialist.
 
-With over 4 years of experience in OSINT, I specialize in internal investigations, and research and development (R&D). At Tesari AI, I contribute as an OSINT Engineer and library curator, ensuring the effective collection and management of data for actionable insights. My work is rooted in leveraging advanced methodologies to support investigative processes and organizational objectives.
-
 My expertise encompasses the development of OSINT solutions, including parsers, scrapers, and systems for analyzing unstructured data. I am skilled in backend technologies such as Python, Ruby, JavaScript, Perl, and Bash, and have a solid foundation in database management and DevOps practices. Driven by a passion for research and innovation, I strive to enhance data-driven decision-making and investigative capabilities.
+
+With over 4 years of experience in OSINT, I specialize in internal investigations, and research and development (R&D). At Tesari AI, I contribute as an OSINT Engineer and library curator, ensuring the effective collection and management of data for actionable insights. My work is rooted in leveraging advanced methodologies to support investigative processes and organizational objectives.
 
 ## Projects Examples
 
-- [OSINTech's Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
+- [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
 
-- [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub Starred Repositories and its creators (access limited).
+![alt text](img/tesari-copilot-200px.png)
 
-- [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (access limited).
+- [OSINTech OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
-- [Huginn](https://github.com/huginn/huginn) (private fork commits), a system for building agents that perform automated tasks for you online.
+![alt text](img/osint-timeline-200px.png)
 
-- [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. This project was subsequently transformed into a system for collecting data and storing information about people’s profiles, which is not a classic ATS. This part is in a private repository.
+- [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators (included Substack OSINT Timeline version).
+
+![alt text](img/substack-200px.png)
+
+- [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (more than 3000 links). Private repository, available on demand.
+
+![alt text](img/dashboard-200px.jpg)
+
+- [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
+
+![alt text](img/repos-list-200px.png)
+
+- [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
+
+![alt text](img/ea-200px.png)
+
+- [IP & Location Widget](https://github.com/bormaxi8080/location-widget) mini widget for the start.me start page: shows public IP, IPv4 (if available), country, and flag. Refreshes every 60 seconds and supports manual refresh.
+
+![alt text](img/location-widget-200px.png)
 
 ---
 
 ## My GitHub statistics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
+![.](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
 
 ---
 
 ## My Soft Skills and Communications
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
-- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, Maltego transformations, managing various datasets with data about people, companies, incidents and some artifacts to research it
+- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, managing various datasets with data about people, companies, incidents and some artifacts to research it
 - Strong skills in backend development (Python/Ruby/JS/Perl/Bash)
 - Strong skills in communication and hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists, all kinds of communications
 
@@ -40,7 +58,7 @@ My expertise encompasses the development of OSINT solutions, including parsers, 
 - AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix
 - Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
 - Some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc. for building optimal technical solutions
-- Maltego, Shodan, Telepathy, Sherlock, theHarvester, SpiderFoot, Metasploit, Huginn, and more OSINT frameworks & tools to realize investigations for various resources
+- OSINT frameworks & tools to realize investigations for various resources
 - Selenium, Puppeteer and at different times a bunch of all sorts of exotics for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTA logs, verification and validation of addresses through various services, mass mailings)
 
@@ -50,7 +68,7 @@ My expertise encompasses the development of OSINT solutions, including parsers, 
 - Java, .NET - at the level of “I can, but without fanaticism”
 - PHP - at the level of “collect or fix something quickly”
 - Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
-- Delphi, Embarcadero, VBScript as oldfag )
+- Delphi, Embarcadero, VBScript as oldfag
 - UX, Figma, CSS, Styles - I can make it nice if needed
 
 ---
@@ -67,25 +85,31 @@ In parallel with development and investigations, I was involved of various commu
 
 ### My Contacts / Social Links
 
+![alt text](img/substack_logo.png)
+
 Substack: [@osintech](https://osintech.substack.com)
+
+![alt text](img/linkedin_logo.png)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
 ---
 
-## My Resume
+## My Resume & Portfolio
 
-Available on demand
+OSINT, Software Development & Journalistic redactions vailable on demand.
 
 ---
 
 ## My OSINT lists
 
-- [OSINTech's Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
+- [OSINTech's Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline) weekly updated nesletter with collection of tools, services and investigations.
 
-- Systematized [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same [Lists](https://github.com/bormaxi8080?tab=stars) of stars by categories
+- [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators.
 
-- [OSINT Dashboard](https://github.com/bormaxi8080/osint-dashboard) for start.me service
+- Systematized [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same lists of stars by categories (full version available on demand).
+
+- [OSINT Dashboard](https://github.com/bormaxi8080/osint-dashboard) for start.me service (available on demand).
 
 ---
 
@@ -93,7 +117,7 @@ Available on demand
 
 Continued...
 
-Aug 2025-Now - [Tesari.AI](https://tesari.ai/). OSINT Engineer & Library Curator
+Aug 2025 / Now: [Tesari.AI](https://tesari.ai/). OSINT Engineer & Library Curator
 
 - Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management.
 
@@ -101,60 +125,91 @@ Aug 2025-Now - [Tesari.AI](https://tesari.ai/). OSINT Engineer & Library Curator
 
 - Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
 
-Sep 2024-Now - Began studying at the OLSHA Open Literary School
+![alt text](img/tesari.png)
 
-Sep 2024-Now - Began studying at Journalism speciality
+Jan 2026: [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
+
+![alt text](img/ea.png)
+
+![alt text](img/ea2.png)
+
+Jn 2026 [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
+
+![alt text](img/repos-list.png)
+
+Dec 2025: Together with Pavel Bannikov, we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the kislorod.io platform.
+
+Sep 2024-Jun 2026: Began studying at the OLSHA Open Literary School (several literary publications have been written).
+
+![alt text](img/olsha.png)
+
+Sep 2024 / Jun 2026: Began studying at Journalism speciality (several jounalistic publications have been written).
+
+![alt text](img/free.png)
 
 Aug 2024, Sep 2025 - Completed Pavel Bannikov's Profiling OSINT Courses
 
-Apr 2023-Now - OSINT Timelines and Collections activities
+Apr 2023 / Now: OSINT Timelines and Collections activities
 
-Jun 2022-Now - OSINT & investigative Journalism activities. Private projects about collecting social data
+Jun 2022 / Now: OSINT & Investigative Journalistic Activities. Private projects about collecting social data
 
-Nov 2022 - Sep 2025 - Private projects about AD processing (big conveyor)
+Nov 2022-Sep 2025: Private projects about AD processing (big conveyor)
 
-Nov 2022 - Aug 2024 - Private projects about email checking (big conveyors)
+Nov 2022 / Aug 2024: Private projects about email checking (big conveyors)
 
-Jan 2023 - Apr 2023 - Private project about collecting companies data on LinkedIn
+Jan 2023 / Apr 2023: Private project about collecting companies data on LinkedIn
 
-Sep 2022 - Aug 2023 - Help for those who fled from mobilization in Russia (non-disclosured)
+Sep 2022 / Aug 2023 - Help for those who fled from mobilization in Russia (non-disclosured)
 
-Sep 2022 - Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
-Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
+Sep 2022: Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
 
-Aug 2022 - [Huginn](https://github.com/bormaxi8080/huginn) works (private fork commits)
+![alt text](img/linkedin2md.png)
 
-Aug 2022 - [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework)
+2022: [Huginn](https://github.com/bormaxi8080/huginn) private fork/community commits
 
-Jul 2022 - [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates
+![alt text](img/huginn.png)
 
-Jun 2022 - Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
+2022: [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework)
 
-May-Jun 2022 - Leave Russian Federation
+![alt text](img/osint-framework.png)
 
-Mar-May 2022 - Prepare and change my server infrastructure and communities to the military situation in the world
+2022: [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates & [components](https://telepathy.freedesktop.org/components/)
 
-Mar 2022 - Aug 2024 - War Crimes Documentation project help (non-disclosured)
+![alt text](img/telepathy.png)
 
-Feb 2022 - Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident.
+2022: Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
 
-Jan 2022 - Worked on the creation of a complex highload email verification system (private)
+May / Jun 2022: Leave Russian Federation
 
-Jan 2022 - Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
+Mar / May 2022: Prepare and change my server infrastructure and communities to the military situation in the world
 
-Dec 2021 - Close my hiring agency and checkout into NDA place as software developer
+Mar 2022 / Aug 2024: War Crimes Documentation project help (non-disclosured)
 
-Jun 2021 - Dec 2024 a **RIP Leaks** community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic. Project closed.
+Feb 2022: Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident.
 
-Jun 2020 - Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
+![alt text](img/batu.png)
 
-Mar 2020 - Sep 2020 - Compelled Career Break by private reasons
+Jan 2022: Worked on the creation of a complex highload email verification system (private)
 
-Jun 2019 - Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
+Jan 2022: Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
 
-2018-2019 - Moderate one of largest HR communities in Russian facebook segment.
+![alt text](img/nmap.png)
 
-2015 - Start a Hiring Agency
+Dec 2021: Close my hiring agency and checkout into NDA place as software developer
+
+Jun 2021 / Dec 2024: a **RIP Leaks** community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic. Project closed.
+
+Jun 2020: Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
+
+![alt text](img/ebenya.png)
+
+Mar 2020 / Sep 2020: Compelled Career Break by private reasons
+
+Jun 2019: Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
+
+2018-2019: Moderate one of largest HR communities in Russian facebook segment.
+
+2015: Start a Hiring Agency
 
 A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 250 family outside the Russian Federation).
 Hiring candidates in IT from the middle level.
@@ -164,9 +219,13 @@ Worked with companies such as Exness, Intel, Plesk, DevExperts, Think-Cell and m
 
 A lot of different communications and activities.
 
-2013 - A Pencil Tests habr's publication with 1M views
+![alt text](img/hiring-ticket.png)
 
-2000-2015 - Programming in various projects
+2013: [A Pencil Test](https://habr.com/ru/articles/193902/) habr's publication with 1M+ views
+
+![alt text](img/pencil.png)
+
+2000-2015: Software Development in various projects.
 
 ---
 
