@@ -211,7 +211,7 @@ Jun 2019: Start hiring developers in Improve Group, the best all-time IT company
 
 2015: Start a Hiring Agency
 
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 250 family outside the Russian Federation).
+A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 260 families outside the Russian Federation).
 Hiring candidates in IT from the middle level.
 Automated candidate database of 30+ thousand people.
 I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
