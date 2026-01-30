@@ -1,10 +1,12 @@
+# OSINTech GitHub Page
+
 Hi all, I am Maxim Marshak, OSINT & investigations enthusiast, software developer and technical communications specialist.
 
-With over 4 years of experience, I specialize in OSINT, internal investigations, and research and development (R&D). At Tesari AI, I contribute as an OSINT Engineer and library curator, ensuring the effective collection and management of data for actionable insights. My work is rooted in leveraging advanced methodologies to support investigative processes and organizational objectives. 
+With over 4 years of experience in OSINT, I specialize in internal investigations, and research and development (R&D). At Tesari AI, I contribute as an OSINT Engineer and library curator, ensuring the effective collection and management of data for actionable insights. My work is rooted in leveraging advanced methodologies to support investigative processes and organizational objectives.
 
 My expertise encompasses the development of OSINT solutions, including parsers, scrapers, and systems for analyzing unstructured data. I am skilled in backend technologies such as Python, Ruby, JavaScript, Perl, and Bash, and have a solid foundation in database management and DevOps practices. Driven by a passion for research and innovation, I strive to enhance data-driven decision-making and investigative capabilities.
 
-### Projects Examples:
+## Projects Examples
 
 - [OSINTech's Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
@@ -16,22 +18,22 @@ My expertise encompasses the development of OSINT solutions, including parsers, 
 
 - [linkedin2md](https://github.com/bormaxi8080/linkedin2md) repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. This project was subsequently transformed into a system for collecting data and storing information about people’s profiles, which is not a classic ATS. This part is in a private repository.
 
-<hr>
+---
 
-### My GitHub statistics:
+## My GitHub statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
 
-<hr>
+---
 
-### My Soft Skills and Communications:
+## My Soft Skills and Communications
 
-- Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones 
+- Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
 - Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, Maltego transformations, managing various datasets with data about people, companies, incidents and some artifacts to research it
 - Strong skills in backend development (Python/Ruby/JS/Perl/Bash)
 - Strong skills in communication and hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists, all kinds of communications
 
-### My Technical Stack:
+## My Technical Stack
 
 - Python, Node.js, JavaScript, Ruby, Perl, Bash
 - PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
@@ -42,7 +44,7 @@ My expertise encompasses the development of OSINT solutions, including parsers, 
 - Selenium, Puppeteer and at different times a bunch of all sorts of exotics for parsing, scraping, crawling and data enrichment
 - Various protocols related to e-mail (POP3, IMAP, MTA logs, verification and validation of addresses through various services, mass mailings)
 
-### Non-core Technologies:
+## Non-core Technologies
 
 - C++ as a secret rarely used skill
 - Java, .NET - at the level of “I can, but without fanaticism”
@@ -51,9 +53,9 @@ My expertise encompasses the development of OSINT solutions, including parsers, 
 - Delphi, Embarcadero, VBScript as oldfag )
 - UX, Figma, CSS, Styles - I can make it nice if needed
 
-<hr>
+---
 
-### My Profile Notices:
+### My Profile Notices
 
 Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
 
@@ -61,23 +63,23 @@ For quite a long time I was engaged in hiring specialists in IT and took about 2
 
 In parallel with development and investigations, I was involved of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
 
-<hr>
+---
 
-### My Contacts / Social Links:
+### My Contacts / Social Links
 
 Substack: [@osintech](https://osintech.substack.com)
 
 LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
-<hr>
+---
 
-### My Resume:
+## My Resume
 
 Available on demand
 
-<hr>
+---
 
-### My OSINT lists:
+## My OSINT lists
 
 - [OSINTech's Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline)
 
@@ -85,13 +87,13 @@ Available on demand
 
 - [OSINT Dashboard](https://github.com/bormaxi8080/osint-dashboard) for start.me service
 
-<hr>
+---
 
-### My Projects Timeline:
+## My Projects Timeline
 
 Continued...
 
-Aug 2025-Now - Tesari.AI (https://tesari.ai/). OSINT Engineer & Library Curator
+Aug 2025-Now - [Tesari.AI](https://tesari.ai/). OSINT Engineer & Library Curator
 
 - Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management.
 
@@ -166,18 +168,22 @@ A lot of different communications and activities.
 
 2000-2015 - Programming in various projects
 
-<hr>
+---
 
 **Especially for my friends and opponents:**
 
 I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes (non-disclosured).
 
-<hr>
+I provide consulting and hands-on support in open-source intelligence (OSINT), investigative research, and data-driven analysis.
+Expertise includes OSINT investigations, custom tooling and workflows, data collection and scraping, people and corporate intelligence (KYC, background research), and support for investigative journalism and research communities.
+I do not collaborate with the Russian public sector, Russian banks, or import substitution–related companies.
 
-### Donates:
+---
+
+## Donates
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
 
 If you like the projects that I do, I will be grateful for donations in private dialogue.
 
-<hr>
+---
