@@ -10,31 +10,31 @@ With over 4 years of experience in OSINT, I specialize in internal investigation
 
 - [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
 
-![alt text](img/tesari-copilot-200px.png)
+![alt text](img/tesari-copilot-350px.png)
 
 - [OSINTech OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
-![alt text](img/osint-timeline-200px.png)
+![alt text](img/osint-timeline-350px.png)
 
 - [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators (included Substack OSINT Timeline version).
 
-![alt text](img/substack-200px.png)
+![alt text](img/substack-350px.png)
 
 - [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (more than 3000 links). Private repository, available on demand.
 
-![alt text](img/dashboard-200px.jpg)
+![alt text](img/dashboard-350px.jpg)
 
 - [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
-![alt text](img/repos-list-200px.png)
+![alt text](img/repos-list-350px.png)
 
 - [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
-![alt text](img/ea-200px.png)
+![alt text](img/ea-350px.png)
 
 - [IP & Location Widget](https://github.com/bormaxi8080/location-widget) mini widget for the start.me start page: shows public IP, IPv4 (if available), country, and flag. Refreshes every 60 seconds and supports manual refresh.
 
-![alt text](img/location-widget-200px.png)
+![alt text](img/location-widget-350px.png)
 
 ---
 
@@ -101,15 +101,15 @@ OSINT, Software Development & Journalistic redactions vailable on demand.
 
 ---
 
-## My OSINT lists
-
-- [OSINTech's Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline) weekly updated nesletter with collection of tools, services and investigations.
+## My OSINT digests
 
 - [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators.
 
-- Systematized [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same lists of stars by categories (full version available on demand).
+- [OSINTech's Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline) weekly updated nesletter with collection of tools, services and investigations.
 
 - [OSINT Dashboard](https://github.com/bormaxi8080/osint-dashboard) for start.me service (available on demand).
+
+- Systematized [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same lists of stars by categories (full version available on demand).
 
 ---
 
@@ -137,7 +137,7 @@ Jn 2026 [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of G
 
 ![alt text](img/repos-list.png)
 
-Dec 2025: Together with Pavel Bannikov, we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
+Dec 2025: Together with [@paulpogoda](https://github.com/paulpogoda), we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
 
 Sep 2024 / Jun 2026: Began studying at the OLSHA Open Literary School (several literary publications have been written).
 
@@ -147,7 +147,7 @@ Sep 2024 / Jun 2026: Began studying at Journalism speciality (several jounalisti
 
 ![alt text](img/free.png)
 
-Aug 2024, Sep 2025: Completed Pavel Bannikov's Profiling OSINT Courses
+Aug 2024, Sep 2025: Completed [@paulpogoda](https://github.com/paulpogoda) Profiling OSINT Courses
 
 Apr 2023 / Now: OSINT Timelines and Collections activities
 
@@ -159,7 +159,7 @@ Nov 2022 / Aug 2024: Private projects about email checking (big conveyors)
 
 Jan 2023 / Apr 2023: Private project about collecting companies data on LinkedIn
 
-Sep 2022 / Aug 2023 - Help for those who fled from mobilization in Russia (non-disclosured)
+Sep 2022 / Aug 2023: Help for those who fled from mobilization in Russia (non-disclosured)
 
 Sep 2022: Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
 
