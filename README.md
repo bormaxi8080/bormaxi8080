@@ -137,9 +137,9 @@ Jn 2026 [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of G
 
 ![alt text](img/repos-list.png)
 
-Dec 2025: Together with Pavel Bannikov, we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the kislorod.io platform.
+Dec 2025: Together with Pavel Bannikov, we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
 
-Sep 2024-Jun 2026: Began studying at the OLSHA Open Literary School (several literary publications have been written).
+Sep 2024 / Jun 2026: Began studying at the OLSHA Open Literary School (several literary publications have been written).
 
 ![alt text](img/olsha.png)
 
@@ -147,13 +147,13 @@ Sep 2024 / Jun 2026: Began studying at Journalism speciality (several jounalisti
 
 ![alt text](img/free.png)
 
-Aug 2024, Sep 2025 - Completed Pavel Bannikov's Profiling OSINT Courses
+Aug 2024, Sep 2025: Completed Pavel Bannikov's Profiling OSINT Courses
 
 Apr 2023 / Now: OSINT Timelines and Collections activities
 
 Jun 2022 / Now: OSINT & Investigative Journalistic Activities. Private projects about collecting social data
 
-Nov 2022-Sep 2025: Private projects about AD processing (big conveyor)
+Nov 2022 / Sep 2025: Private projects about AD processing (big conveyor)
 
 Nov 2022 / Aug 2024: Private projects about email checking (big conveyors)
 
@@ -207,7 +207,7 @@ Mar 2020 / Sep 2020: Compelled Career Break by private reasons
 
 Jun 2019: Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
 
-2018-2019: Moderate one of largest HR communities in Russian facebook segment.
+2018 / 2019: Moderate one of largest HR communities in Russian facebook segment.
 
 2015: Start a Hiring Agency
 
@@ -225,7 +225,7 @@ A lot of different communications and activities.
 
 ![alt text](img/pencil.png)
 
-2000-2015: Software Development in various projects.
+2000 / 2015: Software Development in various projects.
 
 ---
 
