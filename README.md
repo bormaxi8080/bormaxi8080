@@ -97,7 +97,7 @@ LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
 
 ## My Resume & Portfolio
 
-OSINT, Software Development & Journalistic redactions vailable on demand.
+OSINT, Software Development & Journalistic redactions available on demand.
 
 ---
 
