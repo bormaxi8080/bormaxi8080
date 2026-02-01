@@ -241,7 +241,7 @@ I do not collaborate with the Russian public sector, Russian banks, or import su
 
 ## Donates
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/osintech)
 
 If you like the projects that I do, I will be grateful for donations in private dialogue.
 
