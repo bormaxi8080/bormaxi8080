@@ -153,7 +153,15 @@ Continued...
 
 **Jun 2022 / Now:** OSINT & Investigative Journalistic Activities. Private projects about collecting social data
 
+![alt text](img/people.png)
+
+![alt text](img/people2.png)
+
+![alt text](img/recognize.jpg)
+
 **Nov 2022 / Sep 2025:** Private projects about AD processing (big conveyor)
+
+![alt text](img/service.jpeg)
 
 **Nov 2022 / Aug 2024:** Private projects about email checking (big conveyors)
 
