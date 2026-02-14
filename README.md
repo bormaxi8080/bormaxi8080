@@ -22,7 +22,7 @@ With over 4 years of experience in OSINT, I specialize in internal investigation
 
 - [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (more than 3000 links). Private repository, available on demand.
 
-![alt text](img/dashboard-350px.jpg)
+![alt text](img/dashboard-350px.png)
 
 - [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
