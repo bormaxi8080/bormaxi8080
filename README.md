@@ -151,6 +151,8 @@ Continued...
 
 **Apr 2023 / Now:** OSINT Timelines and Collections activities
 
+![alt text](img/timelines.jpg)
+
 **Jun 2022 / Now:** OSINT & Investigative Journalistic Activities. Private projects about collecting social data
 
 ![alt text](img/people.png)
@@ -164,6 +166,8 @@ Continued...
 ![alt text](img/service.jpeg)
 
 **Nov 2022 / Aug 2024:** Private projects about email checking (big conveyors)
+
+![alt text](img/conv.jpg)
 
 **Jan 2023 / Apr 2023:** Private project about collecting companies data on LinkedIn
 
@@ -191,6 +195,8 @@ Continued...
 
 **Mar / May 2022:** Prepare and change my server infrastructure and communities to the military situation in the world
 
+![alt text](img/blya.jpg)
+
 **Mar 2022 / Aug 2024:** War Crimes Documentation project help (non-disclosured)
 
 **Feb 2022:** Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident.
@@ -206,6 +212,8 @@ Continued...
 **Dec 2021:** Close my hiring agency and checkout into NDA place as software developer
 
 **Jun 2021 / Dec 2024:** A **RIP Leaks** community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic. Project closed.
+
+![alt text](img/500.jpg)
 
 **Jun 2020:** Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
 
@@ -234,6 +242,8 @@ A lot of different communications and activities.
 ![alt text](img/pencil.png)
 
 **2000 / 2015:** Software Development in various projects.
+
+![alt text](img/tk.jpg)
 
 ---
 
