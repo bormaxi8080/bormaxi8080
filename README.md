@@ -163,13 +163,25 @@ Continued...
 
 **Nov 2022 / Sep 2025:** Private projects about AD processing (big conveyor)
 
+![alt text](img/ads-1.png)
+
+![alt text](img/ads-2.png)
+
+![alt text](img/ads-3.png)
+
+![alt text](img/ads-4.png)
+
 ![alt text](img/service.jpeg)
 
-**Nov 2022 / Aug 2024:** Private projects about email checking (big conveyors)
+**Nov 2022 / Aug 2024:** Private OSINT projects for email Checking (Big Conveyors), Database loading, verification, etc
 
-![alt text](img/conv.jpg)
+![alt text](img/dprk-1.png)
+
+![alt text](img/dprk-2.png)
 
 **Jan 2023 / Apr 2023:** Private project about collecting companies data on LinkedIn
+
+![alt text](img/conv.jpg)
 
 **Sep 2022 / Aug 2023:** Help for those who fled from mobilization in Russia (non-disclosured)
 
@@ -202,8 +214,6 @@ Continued...
 **Feb 2022:** Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident.
 
 ![alt text](img/batu.png)
-
-**Jan 2022:** Worked on the creation of a complex highload email verification system (private)
 
 **Jan 2022:** Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
 
