@@ -10,7 +10,7 @@ With over 4 years of experience in OSINT, I specialize in internal investigation
 
 - [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
 
-![alt text](img/tesari-copilot-350px.png)
+![alt text](img/tesari_350px.png)
 
 - [OSINTech OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
@@ -125,13 +125,46 @@ Continued...
 
 - Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
 
-![alt text](img/tesari.png)
+![alt text](img/tesari-1.png)
+
+![alt text](img/tesari-2.png)
+
+![alt text](img/tesari-3.png)
+
+![alt text](img/tesari-4.png)
+
+![alt text](img/tesari-5.png)
+
+![alt text](img/tesari-6.png)
+
+![alt text](img/tesari-7.png)
+
+![alt text](img/tesari-8.png)
+
+![alt text](img/tesari-9.png)
 
 **Jan 2026:** [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
 ![alt text](img/ea.png)
 
 ![alt text](img/ea2.png)
+
+**Jan 2026** [IonaFlow](https://newsmonitor.app) News Monitor Integrations
+
+IonaFlow is a news intelligence platform
+combining comprehensive source
+coverage with AI-powered analysis. The
+platform consolidates thousands of
+sources into organised, searchable feeds
+with flexible filtering.
+
+![alt text](img/iona-1.png)
+
+![alt text](img/iona-2.png)
+
+![alt text](img/iona-3.png)
+
+![alt text](img/iona-4.png)
 
 **Jan 2026:** [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
