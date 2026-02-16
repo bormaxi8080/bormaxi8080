@@ -131,12 +131,6 @@ Continued...
 
 ![alt text](img/tesari-3.png)
 
-![alt text](img/tesari-4.jpg)
-
-![alt text](img/tesari-5.jpg)
-
-![alt text](img/tesari-6.png)
-
 ![alt text](img/tesari-7.jpg)
 
 ![alt text](img/tesari-8.png)
