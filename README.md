@@ -131,17 +131,17 @@ Continued...
 
 ![alt text](img/tesari-3.png)
 
-![alt text](img/tesari-4.png)
+![alt text](img/tesari-4.jpg)
 
-![alt text](img/tesari-5.png)
+![alt text](img/tesari-5.jpg)
 
 ![alt text](img/tesari-6.png)
 
-![alt text](img/tesari-7.png)
+![alt text](img/tesari-7.jpg)
 
 ![alt text](img/tesari-8.png)
 
-![alt text](img/tesari-9.png)
+![alt text](img/tesari-9.jpg)
 
 **Jan 2026:** [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
