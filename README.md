@@ -10,7 +10,7 @@ With over 4 years of experience in OSINT, I specialize in internal investigation
 
 - [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
 
-![alt text](img/tesari_350px.png)
+![alt text](img/tesari_350px.jpg)
 
 - [OSINTech OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
@@ -137,6 +137,29 @@ Continued...
 
 ![alt text](img/tesari-9.jpg)
 
+**Feb 2026** **CRPA Metadata Extractor**
+
+A service for checking images and videos for CR/CRPA tags, which identify an image or video as AI-generated content.
+
+CR stands for Content Credentials. It is a digital label of content origin that: serves as a visible and invisible mark of an image's origin, indicates the source, generation tool (e.g., ChatGPT with DALL·E 3), and the date of production,
+indicates that the image was generated, in whole or in part, by AI.
+
+Visible elements often include a small "cr" icon in the corner of the image. When clicked or hovered over, these elements can reveal details via metadata—the equivalent of a digital signature attached to the file.
+
+![alt text](img/cr-1.jpeg)
+
+![alt text](img/cr-2.png)
+
+![alt text](img/cr-3.png)
+
+**Feb 2026** [OSINTech Scam Surface Mapper](https://github.com/bormaxi8080/Scam-Surface-Mapper)
+
+Scam Surface Mapper is a browser service based on GitHub Pages designed for OSINT investigators, fact-checkers, and cybersecurity researchers. It analyzes web pages to identify and visualize potential scam infrastructure by mapping outgoing links, analyzing suspicious domains, tracking parameters, and presenting findings in an interactive graph interface. The tool was created with the assistance of Perplexity AI & OpenAI Codex.
+
+Modified version of [Pogoda Scam Surface Mapper](https://github.com/paulpogoda/Scam-Surface-Mapper)
+
+![alt text](img/ssm.png)
+
 **Jan 2026:** [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
 ![alt text](img/ea.png)
@@ -165,6 +188,10 @@ with flexible filtering.
 ![alt text](img/repos-list.png)
 
 **Dec 2025:** Together with [@paulpogoda](https://github.com/paulpogoda), we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
+
+Links: [1](https://youtu.be/ZjCBUa1SO14), [2](https://youtu.be/7bR25QI8zug), [3](https://youtu.be/PmQr18f-im0), [4](https://www.youtube.com/watch?v=TJfwld8qsRw)
+
+![alt text](img/pe.png)
 
 **Sep 2024 / Jun 2026:** Began studying at the OLSHA Open Literary School (several literary publications have been written).
 
