@@ -119,15 +119,15 @@ Continued...
 
 **Aug 2025 / Now:** [Tesari.AI](https://tesari.ai/)
 
-as Subject Matter Expert:
+as Subject Matter Expert & Library Curator:
 
 - Leveraged advanced methodologies to support investigative processes and align with organizational objectives.
 
 - Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
 
-as OSINT Engineer & Library Curator:
+as OSINT Engineer:
 
-- Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management.
+- Contributed as an OSINT Engineer at Tesari AI, focusing on data collection and management.
 
 ![alt text](img/tesari-1.png)
 
