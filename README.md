@@ -117,13 +117,17 @@ OSINT, Software Development & Journalistic redactions available on demand.
 
 Continued...
 
-**Aug 2025 / Now:** [Tesari.AI](https://tesari.ai/). OSINT Engineer & Library Curator
+**Aug 2025 / Now:** [Tesari.AI](https://tesari.ai/). 
 
-- Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management.
+as Subject Matter Expert:
 
 - Leveraged advanced methodologies to support investigative processes and align with organizational objectives.
 
 - Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
+
+as OSINT Engineer & Library Curator:
+
+- Contributed as an OSINT Engineer and library curator at Tesari AI, focusing on data collection and management.
 
 ![alt text](img/tesari-1.png)
 
