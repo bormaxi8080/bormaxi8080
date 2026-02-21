@@ -117,7 +117,7 @@ OSINT, Software Development & Journalistic redactions available on demand.
 
 Continued...
 
-**Aug 2025 / Now:** [Tesari.AI](https://tesari.ai/). 
+**Aug 2025 / Now:** [Tesari.AI](https://tesari.ai/)
 
 as Subject Matter Expert:
 
