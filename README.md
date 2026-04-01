@@ -117,15 +117,19 @@ OSINT, Software Development & Journalistic redactions available on demand.
 
 Continued...
 
+**Mar 2026 / Now:** [CyberYozh Academy](https://academy.cyberyozh.com)
+
+Act as Subject Matter Expert
+
 **Aug 2025 / Now:** [Tesari.AI](https://tesari.ai/)
 
-as Subject Matter Expert & Library Curator:
+Act as Subject Matter Expert & Library Curator:
 
 - Leveraged advanced methodologies to support investigative processes and align with organizational objectives.
 
 - Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
 
-as OSINT Engineer:
+Act as OSINT Engineer:
 
 - Contributed as an OSINT Engineer at Tesari AI, focusing on data collection and management.
 
