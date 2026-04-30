@@ -48,7 +48,7 @@ With over 5 years of experience in OSINT, I specialize in internal investigation
 
 - Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
 - Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, managing various datasets with data about people, companies, incidents and some artifacts to research it
-- Strong skill in using AI and Prompt Engineering (OpenAI/Codex, Claude, Perplexity, NotebookLM and some specific systems)
+- Strong skills in using AI and Prompt Engineering (OpenAI/Codex, Claude, Perplexity, NotebookLM and some specific systems)
 - Strong skills in backend development (Python/Ruby/JS/Go/Perl/Bash)
 - Strong skills in communication and hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists, all kinds of communications
 
