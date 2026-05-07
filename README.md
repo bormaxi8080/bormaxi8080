@@ -8,15 +8,15 @@ With over 5 years of experience in OSINT, I specialize in internal investigation
 
 ## Projects Examples
 
+- [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
+
+![alt text](img/tesari_350px.jpg)
+
 - Oriol Web Crawler
 
 A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
 
 ![alt text](img/oriol-350px.jpeg)
-
-- [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
-
-![alt text](img/tesari_350px.jpg)
 
 - OSINTech OSINT Timeline on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
