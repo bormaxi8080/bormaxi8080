@@ -254,8 +254,6 @@ Links: [1](https://youtu.be/ZjCBUa1SO14), [2](https://youtu.be/7bR25QI8zug), [3]
 
 ![alt text](img/ads-4.png)
 
-![alt text](img/service.jpeg)
-
 **Nov 2022 / Aug 2024:** Private OSINT projects for email Checking (Big Conveyors), Database loading, verification, etc
 
 ![alt text](img/dprk-1.png)
