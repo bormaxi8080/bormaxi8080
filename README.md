@@ -34,7 +34,7 @@ A scalable system for complex browser automation, data collection, web script te
 
 - [OSINT Repos Intelligence Pack](https://github.com/bormaxi8080/osint-repos-list) of GitHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
-![alt text](img/int-pack-350px.png)
+![alt text](img/int-pack.webp)
 
 - [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
