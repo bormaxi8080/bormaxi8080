@@ -214,7 +214,7 @@ with flexible filtering.
 
 **Jan 2026:** OSINT Repos Intelligence Pack on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
-![alt text](img/int-pack-638px.png)
+![alt text](img/int-pack-638px.webp)
 
 **Dec 2025:** Together with [@paulpogoda](https://github.com/paulpogoda), we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
 
