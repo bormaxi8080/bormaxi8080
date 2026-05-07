@@ -4,17 +4,25 @@ Hi all, I am Maxim Marshak, OSINT & investigations enthusiast, software develope
 
 My expertise encompasses the development of OSINT solutions, including parsers, scrapers, and systems for analyzing unstructured data. I am skilled in backend technologies such as Python, Ruby, JavaScript, Perl, and Bash, and have a solid foundation in database management and DevOps practices. Driven by a passion for research and innovation, I strive to enhance data-driven decision-making and investigative capabilities.
 
-With over 5 years of experience in OSINT, I specialize in internal investigations, and research and development (R&D). At Tesari AI, I contribute as an OSINT Engineer and library curator, ensuring the effective collection and management of data for actionable insights. My work is rooted in leveraging advanced methodologies to support investigative processes and organizational objectives.
+With over 5 years of experience in OSINT, I specialize in internal investigations, and research and development (R&D). I contribute as an OSINT and Software Engineer and library curator, ensuring the effective collection and management of data for actionable insights. My work is rooted in leveraging advanced methodologies to support investigative processes and organizational objectives.
 
 ## Projects Examples
+
+- Oriol Web Crawler
+
+A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
+
+![alt text](img/oriol-350px.jpeg)
 
 - [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
 
 ![alt text](img/tesari_350px.jpg)
 
-- [OSINTech OSINT Timeline](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
+- OSINTech OSINT Timeline on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
 ![alt text](img/osint-timeline-350px.png)
+
+![alt text](img/timeline-350px.png)
 
 - [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators (included Substack OSINT Timeline version).
 
@@ -24,9 +32,9 @@ With over 5 years of experience in OSINT, I specialize in internal investigation
 
 ![alt text](img/dashboard-350px.png)
 
-- [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
+- [OSINT Repos Intelligence Pack](https://github.com/bormaxi8080/osint-repos-list) of GitHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
-![alt text](img/repos-list-350px.png)
+![alt text](img/int-pack-350px.png)
 
 - [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
@@ -118,11 +126,23 @@ OSINT, Software Development & Journalistic redactions available on demand.
 
 Continued...
 
+**May 2026:** Oriol Web Crawler
+
+A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
+
+- Multithreaded Python server with a management console.
+- Support for multiple automation engines: Puppeteer, Camoufox, Playwright, Requests, AdsPower, and others.
+- Dynamically enabled scenarios, including those generated and adapted by AI.
+- Probabilistic action model: transitions, views, clicks, scrolling, interactions with buttons, links, sliders, and other interface elements.
+- and other features...
+
+![alt text](img/oriol.jpeg)
+
 **Mar 2026 / Now:** [CyberYozh Academy](https://academy.cyberyozh.com)
 
 Act as Subject Matter Expert
 
-**Aug 2025 / Now:** [Tesari.AI](https://tesari.ai/)
+**Aug 2025 / Now:** [Tesari.AI](https://tesari.ai) (Partnership)
 
 Act as Subject Matter Expert & Library Curator:
 
@@ -192,9 +212,9 @@ with flexible filtering.
 
 ![alt text](img/iona-4.png)
 
-**Jan 2026:** [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Starred Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
+**Jan 2026:** OSINT Repos Intelligence Pack on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
-![alt text](img/repos-list.png)
+![alt text](img/int-pack-638px.png)
 
 **Dec 2025:** Together with [@paulpogoda](https://github.com/paulpogoda), we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
 
@@ -212,7 +232,7 @@ Links: [1](https://youtu.be/ZjCBUa1SO14), [2](https://youtu.be/7bR25QI8zug), [3]
 
 **Aug 2024, Sep 2025:** Completed [@paulpogoda](https://github.com/paulpogoda) Profiling OSINT Courses
 
-**Apr 2023 / Now:** OSINT Timelines and Collections activities
+**Apr 2023 / Now:** OSINT Timelines and Collections activities on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline)
 
 ![alt text](img/timelines.jpg)
 
