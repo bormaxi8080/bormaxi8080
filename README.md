@@ -44,6 +44,10 @@ A scalable system for complex browser automation, data collection, web script te
 
 ![alt text](img/location-widget-350px.png)
 
+- Oriol Fingerprint Collector. Standalone local diagnostic web server for browser and device fingerprint collection tests. This subproject is isolated from runtime.
+
+![alt text](img/fpc-1_350px.png)
+
 ---
 
 ## My GitHub statistics
@@ -137,6 +141,14 @@ A scalable system for complex browser automation, data collection, web script te
 - and other features...
 
 ![alt text](img/oriol.jpeg)
+
+- Oriol Fingerprint Collector. Standalone local diagnostic web server for browser and device fingerprint collection tests. This subproject is isolated from runtime.
+
+![alt text](img/fpc-1_500px.png)
+
+![alt text](img/fpc-2_500px.png)
+
+![alt text](img/fpc-3_500px.png)
 
 **Mar 2026 / Now:** [CyberYozh Academy](https://academy.cyberyozh.com)
 
