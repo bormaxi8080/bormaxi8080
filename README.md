@@ -18,7 +18,7 @@ A scalable system for complex browser automation, data collection, web script te
 
 ![alt text](img/dashboard-350px.png)
 
-- [US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Dataset. Parsed by Oriol Web Crawler System
+- [US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Structured Dataset. Parsed by Oriol Web Crawler System
 
 ![alt text](img/uap_colorado_350w.png)
 
