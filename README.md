@@ -8,15 +8,19 @@ With over 5 years of experience in OSINT, I specialize in internal investigation
 
 ## Projects Examples
 
-- [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
-
-![alt text](img/tesari_350px.jpg)
-
 - Oriol Web Crawler
 
 A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
 
 ![alt text](img/oriol-350px.jpeg)
+
+- [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (more than 3000 links). Private repository, available on demand.
+
+![alt text](img/dashboard-350px.png)
+
+- [US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Dataset. Parsed by Oriol Web Crawler System
+
+![alt text](img/uap_colorado_350w.png)
 
 - OSINTech OSINT Timeline on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
@@ -24,17 +28,17 @@ A scalable system for complex browser automation, data collection, web script te
 
 ![alt text](img/timeline-350px.png)
 
-- [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators (included Substack OSINT Timeline version).
-
-![alt text](img/substack-350px.png)
-
-- [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (more than 3000 links). Private repository, available on demand.
-
-![alt text](img/dashboard-350px.png)
-
 - [OSINT Repos Intelligence Pack](https://github.com/bormaxi8080/osint-repos-list) of GitHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
 ![alt text](img/int-pack.webp)
+
+- [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
+
+![alt text](img/tesari_350px.jpg)
+
+- [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators (included Substack OSINT Timeline version).
+
+![alt text](img/substack-350px.png)
 
 - [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
@@ -129,6 +133,16 @@ OSINT, Software Development & Journalistic redactions available on demand.
 ## My Projects Timeline
 
 Continued...
+
+**Jun 2026:** [US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Structured Dataset. Parsed by Oriol Web Crawler System. 
+
+![alt text](img/uap_colorado.png)
+
+![alt text](img/uap_1.png)
+
+![alt text](img/uap_2.png)
+
+![alt text](img/uap_3.png)
 
 **Jun 2026:** OpenRouter/Claude/NVIDIA Nemotron/CodeBase/Free Claude Code Experiments
 
