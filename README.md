@@ -130,6 +130,16 @@ OSINT, Software Development & Journalistic redactions available on demand.
 
 Continued...
 
+**Jun 2026:** OpenRouter/Claude/NVIDIA Nemotron/CodeBase/Free Claude Code Experiments
+
+![alt text](img/codebase_500px.jpeg)
+
+![alt text](img/openrouter_500px.jpeg)
+
+![alt text](img/fcc_500px.jpeg)
+
+![alt text](img/claude_output_500px.jpeg)
+
 **May 2026:** Oriol Web Crawler
 
 A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
@@ -201,6 +211,12 @@ Modified version of [Pogoda Scam Surface Mapper](https://github.com/paulpogoda/S
 
 ![alt text](img/ssm.png)
 
+**May 2026:** Locus
+
+Fork of Pavel Bannikov's repository **Locus** is an app for geolocating photos and video frames. It uses Google Maps by default and analyzes visual details to determine where and when an image was taken. Upload an image and let AI identify its location using landmarks, architecture, and environmental clues.
+
+![alt text](img/locus_500px.jpeg)
+
 **Jan 2026:** [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
 
 ![alt text](img/ea.png)
@@ -227,6 +243,8 @@ with flexible filtering.
 **Jan 2026:** OSINT Repos Intelligence Pack on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
 ![alt text](img/int-pack-638px.webp)
+
+![alt text](img/ipack_500px.jpeg)
 
 **Dec 2025:** Together with [@paulpogoda](https://github.com/paulpogoda), we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
 
