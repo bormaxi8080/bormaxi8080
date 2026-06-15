@@ -12,7 +12,7 @@ With over 5 years of experience in OSINT, I specialize in internal investigation
 
 A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
 
-![alt text](img/oriol-350px.jpeg)
+![alt text](img/oriol_500w.jpeg)
 
 - [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (more than 3000 links). Private repository, available on demand.
 
@@ -176,7 +176,7 @@ A scalable system for complex browser automation, data collection, web script te
 - Probabilistic action model: transitions, views, clicks, scrolling, interactions with buttons, links, sliders, and other interface elements.
 - and other features...
 
-![alt text](img/oriol.jpeg)
+![alt text](img/oriol.jpg)
 
 - Oriol Fingerprint Collector. Standalone local diagnostic web server for browser and device fingerprint collection tests. This subproject is isolated from runtime.
 
