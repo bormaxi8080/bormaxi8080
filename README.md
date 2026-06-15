@@ -18,6 +18,10 @@ A scalable system for complex browser automation, data collection, web script te
 
 ![alt text](img/dashboard-350px.png)
 
+- The OA Human Resource Intelligence System Concept
+
+![alt text](img/oa_350w.jpeg)
+
 - [US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Structured Dataset. Parsed by Oriol Web Crawler System
 
 ![alt text](img/uap_colorado_350w.png)
@@ -143,6 +147,14 @@ Continued...
 ![alt text](img/uap_2.png)
 
 ![alt text](img/uap_3.png)
+
+**Jun 2026:** The OA Human Resource Intelligence System Concept
+
+![alt text](img/oa.jpeg)
+
+![alt text](img/oa2.jpeg)
+
+![alt text](img/oa3.jpeg)
 
 **Jun 2026:** OpenRouter/Claude/NVIDIA Nemotron/CodeBase/Free Claude Code Experiments
 
