@@ -190,7 +190,7 @@ A scalable system for complex browser automation, data collection, web script te
 
 Act as Subject Matter Expert
 
-**Aug 2025 / Now:** [Tesari.AI](https://tesari.ai) (Partnership)
+**Aug 2025 / May 2026:** [Tesari.AI](https://tesari.ai)
 
 Act as Subject Matter Expert & Library Curator:
 
