@@ -8,25 +8,19 @@ With over 5 years of experience in OSINT, I specialize in internal investigation
 
 ## Projects Examples
 
-- Oriol Web Crawler
+- The OA Human Resource Intelligence System Concept
 
-A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
-
-![alt text](img/oriol_500w.jpeg)
+![alt text](img/oa_350w.jpeg)
 
 - [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (more than 3000 links). Private repository, available on demand.
 
 ![alt text](img/dashboard-350px.png)
 
-- The OA Human Resource Intelligence System Concept
-
-![alt text](img/oa_350w.jpeg)
-
 - [US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Structured Dataset. Parsed by Oriol Web Crawler System
 
 ![alt text](img/uap_colorado_350w.png)
 
-- OSINTech OSINT Timeline on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
+- OSINTech Timeline on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
 
 ![alt text](img/osint-timeline-350px.png)
 
@@ -35,6 +29,12 @@ A scalable system for complex browser automation, data collection, web script te
 - [OSINT Repos Intelligence Pack](https://github.com/bormaxi8080/osint-repos-list) of GitHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
 
 ![alt text](img/int-pack.webp)
+
+- Oriol Web Crawler
+
+A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
+
+![alt text](img/oriol_500w.jpeg)
 
 - [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
 
@@ -122,7 +122,7 @@ OSINT, Software Development & Journalistic redactions available on demand.
 
 ---
 
-## My OSINT digests
+## My OSINT Digests
 
 - [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators.
 
