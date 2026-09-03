@@ -138,6 +138,14 @@ OSINT, Software Development & Journalistic redactions available on demand.
 
 Continued...
 
+**Sep 2026** [Martin](https://github.com/bormaxi8080/martin-codex-pet) is a custom animated pet for Codex Desktop. He is an original, stylized interpretation inspired by the stage persona of British musician Martyn Jacques, founder and frontman of The Tiger Lillies.
+
+![alt text](img/martin.gif)
+
+**Aug 2026** [fcc-model-check]() is a Bash health-check utility for validating model routing between Free Claude Code (FCC) and NVIDIA NIM.
+
+![alt text](img/fcc-model-check.png)
+
 **Jun 2026** Evidentia / Sourcely — software for journalists, fact-checkers, and OSINT researchers to verify sources, structure evidence, and turn open data into trustworthy investigations.
 
 **Jun 2026:** [just-ai](https://github.com/bormaxi8080/just-ai). This repository is a fork of just with additional just-ai functionality. The core just behavior stays the same: recipes from a justfile still run through the regular just binary, recipe syntax is unchanged, and existing projects do not need AI configuration. just-ai is shipped as an extension next to just, not as a replacement for it. It uses just --dump --dump-format json to read a structured description of the justfile, builds compact project context, scores command risk locally, and sends that context to a configured OpenAI-compatible provider only for AI commands.
