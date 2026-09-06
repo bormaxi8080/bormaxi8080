@@ -1,443 +1,350 @@
-# OSINTech GitHub Page
+# Maxim Marshak / OSINTech
 
-Hi all, I am Maxim Marshak, OSINT & investigations enthusiast, software developer and technical communications specialist.
+**Research Data Analyst | OSINT Engineer | Investigative Data**  
+**Python · SQL · PostgreSQL · Data Collection · Parsing · Data Quality · AI-assisted Research**
 
-My expertise encompasses the development of OSINT and AI Agentic Solutions, including parsers, scrapers, and systems for analyzing unstructured data. I am skilled in backend technologies such as Python, Ruby, JavaScript, Perl, and Bash, and have a solid foundation in database management and DevOps practices. Driven by a passion for research and innovation, I strive to enhance data-driven decision-making and investigative capabilities.
+I work with complex, heterogeneous, and unstructured information - from raw-source acquisition and automated collection to parsing, normalization, validation, structured datasets, and investigative analysis.
 
-With over 5 years of experience in OSINT, I specialize in internal investigations, and research and development (R&D). I contribute as an OSINT and Software Engineer and library curator, ensuring the effective collection and management of data for actionable insights. My work is rooted in leveraging advanced methodologies to support investigative processes and organizational objectives.
+My background combines **20+ years in software engineering and data-intensive systems** with **5+ years focused on OSINT, investigations, research, and technical knowledge curation**. I build tools and workflows that turn fragmented public information into reusable, queryable, and verifiable research data.
 
-## Projects Examples
-
-- The OA Human Resource Intelligence System Concept
-
-![alt text](img/oa_350w.jpeg)
-
-- [OSINTech Dashboard](https://github.com/bormaxi8080/osint-dashboard) links collection on start.me service (more than 3000 links). Private repository, available on demand.
-
-![alt text](img/dashboard-350px.png)
-
-- [US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Structured Dataset. Parsed by Oriol Web Crawler System
-
-![alt text](img/uap_colorado_350w.png)
-
-- OSINTech Timeline on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline) weekly newsletter with collection of tools, services and investigations.
-
-![alt text](img/osint-timeline-350px.png)
-
-![alt text](img/timeline-350px.png)
-
-- [OSINT Repos Intelligence Pack](https://github.com/bormaxi8080/osint-repos-list) of GitHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
-
-![alt text](img/int-pack.webp)
-
-- Oriol Web Crawler
-
-A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
-
-![alt text](img/oriol_500w.jpeg)
-
-- [Tesari.AI](https://tesari.ai) is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
-
-![alt text](img/tesari_350px.jpg)
-
-- [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators (included Substack OSINT Timeline version).
-
-![alt text](img/substack-350px.png)
-
-- [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
-
-![alt text](img/ea-350px.png)
-
-- [IP & Location Widget](https://github.com/bormaxi8080/location-widget) mini widget for the start.me start page: shows public IP, IPv4 (if available), country, and flag. Refreshes every 60 seconds and supports manual refresh.
-
-![alt text](img/location-widget-350px.png)
-
-- Oriol Fingerprint Collector. Standalone local diagnostic web server for browser and device fingerprint collection tests. This subproject is isolated from runtime.
-
-![alt text](img/fpc-1_350px.png)
+[LinkedIn](https://www.linkedin.com/in/osintech/) · [Substack / OSINTech](https://osintech.substack.com/) · [OSINTech Timeline](https://github.com/bormaxi8080/osint-timeline) · Email: `m.marshak@proton.me`
 
 ---
 
-## My GitHub statistics
+## From Raw Sources to Research Data
+
+```text
+Raw sources
+    ↓
+Collection / Crawling
+    ↓
+Parsing & Structured Extraction
+    ↓
+Normalization & Enrichment
+    ↓
+Validation / Deduplication / Provenance
+    ↓
+Structured Research Datasets
+    ↓
+Analysis & Investigative Research
+```
+
+I work across this entire pipeline, combining research methodology with hands-on engineering.
+
+---
+
+## Selected Research & Data Projects
+
+### 1. Epstein Archive Parser - Large-Scale Investigative Data Processing
+
+[Repository](https://github.com/bormaxi8080/ea-parser)
+
+A research and data-processing toolkit for downloading, parsing, and analyzing documents from the U.S. DOJ Epstein Archives.
+
+**Scale:** approximately **89 GB of source data**; automated analysis identified **6,787 unmasked blocks**.
+
+Key areas:
+- large-scale archive and PDF processing;
+- automated downloading and parsing;
+- duplicate detection;
+- redaction and masked-block analysis;
+- structured extraction from raw source material;
+- investigation-oriented processing and validation.
+
+The project demonstrates a workflow from raw public archive acquisition to automated processing and structured investigative analysis.
+
+![Epstein Archive Parser](img/ea-350px.png)
+
+---
+
+### 2. Oriol Web Crawler - Scalable Research Data Collection
+
+A scalable Python-based system for automated collection of heterogeneous web data, browser automation, and reproducible research workflows.
+
+Key areas:
+- automated crawling and data acquisition;
+- multi-engine collection using Playwright, Puppeteer, Camoufox, HTTP requests, AdsPower, and other tools;
+- scenario-based collection workflows;
+- parallel and distributed processing;
+- reusable processing logic for multiple source types;
+- AI-assisted scenario generation and adaptation.
+
+Oriol is designed to separate collection logic from individual sources and make complex acquisition workflows configurable, reproducible, and scalable.
+
+![Oriol Web Crawler](img/oriol_500w.jpeg)
+
+---
+
+### 3. U.S. Department of War UFO Archive - Structured Research Dataset
+
+[Source archive](https://www.war.gov/UFO/)
+
+Created a structured snapshot of the U.S. Department of War UFO archive using Oriol Web Crawler.
+
+The workflow converts a heterogeneous public web archive into a reusable **JSON research dataset** suitable for querying, archival analysis, automated processing, and further enrichment.
+
+**Pipeline:** public archive → automated crawling → extraction → normalization → structured JSON dataset.
+
+![UFO Archive Dataset](img/uap_colorado_350w.png)
+
+---
+
+### 4. OSINT Repositories Intelligence Pack - Curated Technology Dataset
+
+[Repository](https://github.com/bormaxi8080/osint-repos-list)
+
+A curated research dataset covering **3,000+ OSINT-related GitHub repositories and creators/contributors**.
+
+Key areas:
+- large-scale resource discovery and curation;
+- repository and contributor data collection;
+- entity-centric organization;
+- classification and categorization;
+- metadata enrichment;
+- continuous maintenance of a changing technical ecosystem.
+
+The project is designed as a reusable research resource for discovering and analyzing OSINT tools, developers, and technologies.
+
+![OSINT Repositories Intelligence Pack](img/int-pack.webp)
+
+---
+
+### 5. Source Credibility & Evidence Tooling
+
+#### Source Credibility Overlay
+
+[Repository](https://github.com/bormaxi8080/sco-chrome-extension)
+
+Chrome extension and backend API for transparent source-credibility signals. The system collects technical and contextual indicators, explains them, and recommends manual verification when risk is elevated rather than making unsupported binary claims about source reliability.
+
+Focus: **source quality, explainability, provenance, verification workflows, and reproducible evidence assessment**.
+
+![Source Credibility Overlay](img/sco.png)
+
+#### Pravda Prototype
+
+Backend utility for capturing web pages as evidence using real Chrome via Playwright. It stores page snapshots together with metadata so researchers can later demonstrate what a source looked like at a specific time.
+
+Focus: **evidence preservation, metadata, provenance, reproducibility, and research archiving**.
+
+![Pravda Prototype](img/pravda.jpg)
+
+---
+
+### 6. OSINTech Timeline - Continuous OSINT Research & Curation
+
+[GitHub](https://github.com/bormaxi8080/osint-timeline) · [Substack](https://osintech.substack.com/)
+
+A long-running research and curation project tracking OSINT tools, investigations, datasets, AI technologies, cybersecurity resources, and research methods.
+
+Each edition combines continuous source monitoring, manual review, classification, curation, and publication for investigators, journalists, analysts, and technical researchers.
+
+The project has been maintained since 2023 and functions both as a practitioner-oriented publication and as a continuously evolving research collection.
+
+![OSINTech Timeline](img/osint-timeline-350px.png)
+
+---
+
+### 7. linkedin2md - Structured People Data Migration
+
+[Repository](https://github.com/bormaxi8080/linkedin2md)
+
+A data-migration and information-structuring project developed while reorganizing a large professional-profile database.
+
+It illustrates a minimalist approach to storing structured information about people in human-readable Markdown instead of proprietary formats and was used during migration of a dataset that grew to approximately **50,000 professional profiles**.
+
+Focus:
+- entity-centric people data;
+- data migration;
+- structured profile representation;
+- searchable and portable records;
+- long-term maintainability of research data.
+
+![linkedin2md](img/linkedin2md.png)
+
+---
+
+## Current / Recent Research Work
+
+### Evidentia / Sourcely
+
+Software for journalists, fact-checkers, and OSINT researchers to verify sources, structure evidence, and turn open data into trustworthy investigations.
+
+My work is focused on research, OSINT, data processing, automation, and AI-assisted workflows at the intersection of investigative research and software engineering.
+
+### Tesari.AI - OSINT Engineer & Research Data Curator
+
+[Tesari.AI](https://tesari.ai)
+
+Worked with heterogeneous investigative data, collection and curation, research-data quality, source coverage, report QA, and AI-assisted investigation workflows.
+
+Key areas included:
+- OSINT and investigative data collection;
+- data curation and organization;
+- completeness, accuracy, freshness, and consistency assessment;
+- source verification and enrichment;
+- review and QA of generated investigative/company reports;
+- collaboration on research logic and data-related tooling.
+
+![Tesari.AI](img/tesari_350px.jpg)
+
+---
+
+## Core Expertise
+
+### Research & Data
+
+- Research data analysis
+- OSINT and investigative research
+- Structured and unstructured data processing
+- Data collection and enrichment
+- Data quality and validation
+- Source verification and provenance
+- Entity-centric research on people, companies, incidents, relationships, and artifacts
+- Research dataset design and curation
+
+### Data Engineering & Automation
+
+- Python and SQL
+- PostgreSQL and ClickHouse
+- APIs and backend services
+- Parsing, scraping, crawling, and structured extraction
+- Automated imports/exports and processing workflows
+- Data normalization, deduplication, and consistency checks
+- Docker/Linux-based research infrastructure
+
+### AI-assisted Research
+
+I use modern LLMs and agentic tools for:
+- structured extraction;
+- classification;
+- research assistance;
+- coding and prototyping;
+- source analysis;
+- data transformation;
+- workflow automation.
+
+**AI output is treated as an intermediate result, not as a source of truth:** model-assisted workflows are combined with deterministic checks, source-based verification, and human review where required.
+
+### Research Communication
+
+- Investigative journalism
+- Technical writing
+- Knowledge curation
+- Research methodology
+- Technical publications for OSINT and investigative communities
+
+---
+
+## Technical Stack
+
+**Data & Analytics**  
+Python · SQL · PostgreSQL · ClickHouse · JSON · CSV · APIs
+
+**Collection & Processing**  
+Playwright · Puppeteer · Selenium · Camoufox · Crawling · Parsing · Scraping · Data Enrichment
+
+**AI & Research Tooling**  
+OpenAI / Codex · Claude · Perplexity · NotebookLM · LLM workflows · Structured Extraction · Agentic Tools
+
+**Backend & Automation**  
+Node.js · JavaScript · Ruby · Perl · Bash · Django · REST APIs · Celery · RabbitMQ
+
+**Infrastructure**  
+Docker · Linux · macOS · AWS · Git · Prometheus · Grafana · Zabbix
+
+**Additional engineering experience**  
+C/C++ · Java/.NET · PHP · frontend technologies · virtualization · legacy development stacks
+
+---
+
+## Publications & Knowledge Curation
+
+### OSINTech / Substack
+
+[https://osintech.substack.com](https://osintech.substack.com/)
+
+Practitioner-focused technical publication covering:
+- OSINT and investigative methodologies;
+- data and research tooling;
+- AI-assisted investigations;
+- cybersecurity and verification;
+- automation and technical research infrastructure.
+
+### OSINTech Timeline
+
+[GitHub](https://github.com/bormaxi8080/osint-timeline)
+
+A regularly updated collection of tools, services, datasets, investigations, and research methods for the OSINT community.
+
+### LinkedIn
+
+[https://www.linkedin.com/in/osintech/](https://www.linkedin.com/in/osintech/)
+
+Technical articles, OSINT research, tooling notes, data-oriented case studies, and professional updates.
+
+---
+
+## Selected Additional Projects & Experiments
+
+These projects are not part of the core Research Data Analyst portfolio but reflect broader engineering and OSINT experience:
+
+- [OSINTech Scam Surface Mapper](https://github.com/bormaxi8080/Scam-Surface-Mapper) - graph-based mapping of suspicious web infrastructure for OSINT and fact-checking.
+- **CRPA / Content Credentials Metadata Extractor** - extraction and analysis of content-origin metadata and AI-generation indicators.
+- **Oriol Fingerprint Collector** - diagnostic server for browser/device fingerprint collection tests.
+- [just-ai](https://github.com/bormaxi8080/just-ai) - AI extension for the `just` command runner with project-context analysis and local risk scoring.
+- [fcc-model-check](https://github.com/bormaxi8080/fcc-model-check) - health-check utility for model routing between Free Claude Code and NVIDIA NIM.
+- [IP & Location Widget](https://github.com/bormaxi8080/location-widget) - lightweight public-IP and location widget.
+- [Martin](https://github.com/bormaxi8080/martin-codex-pet) - experimental animated companion for Codex Desktop.
+
+---
+
+## Professional Background
+
+My professional background combines:
+
+- **20+ years of software engineering**, backend development, databases, integrations, automation, and infrastructure;
+- **5+ years focused on OSINT, investigations, and research**;
+- experience building and maintaining an automated people-data system that grew to approximately **50,000 professional profiles**;
+- investigative and journalistic research;
+- technical knowledge curation and publishing;
+- collaboration with researchers, journalists, engineers, and technical communities.
+
+I studied programming/mathematics, history, psychology, literature, and journalism. This combination of engineering and humanities research strongly influences how I approach investigative data: technically rigorous, source-aware, and context-sensitive.
+
+---
+
+## GitHub Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
 
 ---
 
-## My Skills and Communications
+## Professional Principles
 
-- Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones
-- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for OSINT investigations, managing various datasets with data about people, companies, incidents and some artifacts to research it
-- Strong skills in using AI and Prompt Engineering (OpenAI/Codex, Claude, Perplexity, NotebookLM and some specific systems)
-- Strong skills in backend development (Python/Ruby/JS/Go/Perl/Bash)
-- Strong skills in communication and hiring specialists in various career areas, mainly IT. Extensive experience in career OSINT, hiring and relocating specialists, all kinds of communications
+I work openly under my real identity and support independent research, investigative journalism, human-rights work, and democratic civic initiatives.
 
-## My Technical Stack
+I publicly oppose Russia's war against Ukraine and support projects documenting state and war crimes.
 
-- Python, Node.js, JavaScript, Ruby, Perl, Bash
-- PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ
-- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix
-- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations
-- Some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc. for building optimal technical solutions
-- OSINT frameworks & tools to realize investigations for various resources
-- Selenium, Puppeteer and at different times a bunch of all sorts of exotics for parsing, scraping, crawling and data enrichment
-- Various protocols related to e-mail (POP3, IMAP, MTA logs, verification and validation of addresses through various services, mass mailings)
-
-## Non-core Technologies
-
-- C++ as a secret rarely used skill
-- Java, .NET - at the level of “I can, but without fanaticism”
-- PHP - at the level of “collect or fix something quickly”
-- Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)
-- Delphi, Embarcadero, VBScript as oldfag
-- UX, Figma, CSS, Styles - I can make it nice if needed
+I do not collaborate with Russian public-sector institutions, Russian banks, or import-substitution-related companies.
 
 ---
 
-## My Profile Notices
+## Contacts
 
-Unlike many people who are interested in OSINT and information security, I do not seek to be anonymous, and information about me is open to a reasonable extent. This is a principled position aimed at popularizing research activities and supporting democratic values ​​in the world.
-
-For quite a long time I was engaged in hiring specialists in IT and took about 260 families outside RF. With the beginning of war in Ukraine, I left Russia, and I do not consider offers from Russian corporations, state structures, and office work within Russia. Now I live in other countries.
-
-In parallel with development and investigations, I was involved of various communities, including non-core for IT, and met a lot of interesting and famous people: social activists, journalists, politically concerned citizens, HR, PR people, developers, security specialists, etc. At a certain point, this activity logically led me to become interested in OSINT.
-
----
-
-## My Contacts / Social Links
-
-![alt text](img/substack_logo.png)
-
-Substack: [@osintech](https://osintech.substack.com)
-
-![alt text](img/linkedin_logo.png)
-
-LinkedIn: [@osintech](https://www.linkedin.com/in/osintech/)
+- **LinkedIn:** [linkedin.com/in/osintech](https://www.linkedin.com/in/osintech/)
+- **Substack:** [osintech.substack.com](https://osintech.substack.com/)
+- **GitHub:** [github.com/bormaxi8080](https://github.com/bormaxi8080)
+- **Email:** `m.marshak@proton.me`
 
 ---
 
-## My Resume & Portfolio
-
-OSINT, Software Development & Journalistic redactions available on demand.
-
----
-
-## My OSINT Digests
-
-- [OSINT Anatomy Substack](https://osintech.substack.com/) a practitioner-focused OSINT publications. Investigative OSINT and applied research for journalists, analysts, and technical investigators.
-
-- [OSINTech's Timeline on GitHub](https://github.com/bormaxi8080/osint-timeline) weekly updated nesletter with collection of tools, services and investigations.
-
-- [OSINT Dashboard](https://github.com/bormaxi8080/osint-dashboard) for start.me service (available on demand).
-
-- Systematized [OSINT Repos List](https://github.com/bormaxi8080/osint-repos-list) of my GitHub starred repositories, same lists of stars by categories (full version available on demand).
-
----
-
-## My Projects Timeline
-
-Continued...
-
-**Sep 2026** [Martin](https://github.com/bormaxi8080/martin-codex-pet) is a custom animated pet for Codex Desktop. He is an original, stylized interpretation inspired by the stage persona of British musician Martyn Jacques, founder and frontman of The Tiger Lillies.
-
-![alt text](img/martin.gif)
-
-**Aug 2026** [fcc-model-check]() is a Bash health-check utility for validating model routing between Free Claude Code (FCC) and NVIDIA NIM.
-
-![alt text](img/fcc-model-check.png)
-
-**Jun 2026** Evidentia / Sourcely — software for journalists, fact-checkers, and OSINT researchers to verify sources, structure evidence, and turn open data into trustworthy investigations.
-
-**Jun 2026:** [just-ai](https://github.com/bormaxi8080/just-ai). This repository is a fork of just with additional just-ai functionality. The core just behavior stays the same: recipes from a justfile still run through the regular just binary, recipe syntax is unchanged, and existing projects do not need AI configuration. just-ai is shipped as an extension next to just, not as a replacement for it. It uses just --dump --dump-format json to read a structured description of the justfile, builds compact project context, scores command risk locally, and sends that context to a configured OpenAI-compatible provider only for AI commands.
-
-![alt text](img/just-ai.png)
-
-**Jun 2026:** [Source Credibility Overlay](https://github.com/bormaxi8080/sco-chrome-extension) Chrome Extension Prototype. Chrome extension plus backend API for transparent source credibility signals. The project does not claim that a site is fake or malicious. It collects technical and contextual signals, explains them, and recommends manual verification when risk is elevated.
-
-![alt text](img/sco.png)
-
-![alt text](img/sco2.png)
-
-![alt text](img/sco3.png)
-
-**Jun 2026:** Pravda New Prototype. A backend utility/service for capturing web pages as evidence: it opens a URL in real Chrome via Playwright, saves a snapshot of the page and metadata, so that it can later be provably shown: "This is what the page looked like at time X." Essentially, it's not a fact-checker per se, but an "evidence layer" for fact-checking/OSINT/archiving.
-
-![alt text](img/pravda.jpg)
-
-![alt text](img/pravda2.jpg)
-
-![alt text](img/pravda3.jpg)
-
-**Jun 2026:** [US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Structured Dataset. Parsed by Oriol Web Crawler System. 
-
-![alt text](img/uap_colorado.png)
-
-![alt text](img/uap_1.png)
-
-![alt text](img/uap_2.png)
-
-![alt text](img/uap_3.png)
-
-**Jun 2026:** The OA Human Resource Intelligence System Concept
-
-![alt text](img/oa.jpeg)
-
-![alt text](img/oa2.jpeg)
-
-![alt text](img/oa3.jpeg)
-
-**Jun 2026:** OpenRouter/Claude/NVIDIA Nemotron/CodeBase/Free Claude Code Experiments
-
-![alt text](img/codebase_500px.jpeg)
-
-![alt text](img/openrouter_500px.jpeg)
-
-![alt text](img/fcc_500px.jpeg)
-
-![alt text](img/claude_output_500px.jpeg)
-
-**May 2026:** Oriol Web Crawler
-
-A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
-
-- Multithreaded Python server with a management console.
-- Support for multiple automation engines: Puppeteer, Camoufox, Playwright, Requests, AdsPower, and others.
-- Dynamically enabled scenarios, including those generated and adapted by AI.
-- Probabilistic action model: transitions, views, clicks, scrolling, interactions with buttons, links, sliders, and other interface elements.
-- and other features...
-
-![alt text](img/oriol.jpg)
-
-- Oriol Fingerprint Collector. Standalone local diagnostic web server for browser and device fingerprint collection tests. This subproject is isolated from runtime.
-
-![alt text](img/fpc-1_500px.png)
-
-![alt text](img/fpc-2_500px.png)
-
-![alt text](img/fpc-3_500px.png)
-
-**Mar 2026 / Now:** [CyberYozh Academy](https://academy.cyberyozh.com)
-
-Act as Subject Matter Expert
-
-**Aug 2025 / May 2026:** [Tesari.AI](https://tesari.ai)
-
-Act as Subject Matter Expert & Library Curator:
-
-- Leveraged advanced methodologies to support investigative processes and align with organizational objectives.
-
-- Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
-
-Act as OSINT Engineer:
-
-- Contributed as an OSINT Engineer at Tesari AI, focusing on data collection and management.
-
-![alt text](img/tesari-1.png)
-
-![alt text](img/tesari-2.png)
-
-![alt text](img/tesari-3.png)
-
-![alt text](img/tesari-7.jpg)
-
-![alt text](img/tesari-8.png)
-
-![alt text](img/tesari-9.jpg)
-
-**Feb 2026** **CRPA Metadata Extractor**
-
-A service for checking images and videos for CR/CRPA tags, which identify an image or video as AI-generated content.
-
-CR stands for Content Credentials. It is a digital label of content origin that: serves as a visible and invisible mark of an image's origin, indicates the source, generation tool (e.g., ChatGPT with DALL·E 3), and the date of production,
-indicates that the image was generated, in whole or in part, by AI.
-
-Visible elements often include a small "cr" icon in the corner of the image. When clicked or hovered over, these elements can reveal details via metadata—the equivalent of a digital signature attached to the file.
-
-![alt text](img/cr-1.jpeg)
-
-![alt text](img/cr-2.png)
-
-![alt text](img/cr-3.png)
-
-**Feb 2026** [OSINTech Scam Surface Mapper](https://github.com/bormaxi8080/Scam-Surface-Mapper)
-
-Scam Surface Mapper is a browser service based on GitHub Pages designed for OSINT investigators, fact-checkers, and cybersecurity researchers. It analyzes web pages to identify and visualize potential scam infrastructure by mapping outgoing links, analyzing suspicious domains, tracking parameters, and presenting findings in an interactive graph interface. The tool was created with the assistance of Perplexity AI & OpenAI Codex.
-
-Modified version of [Pogoda Scam Surface Mapper](https://github.com/paulpogoda/Scam-Surface-Mapper)
-
-![alt text](img/ssm.png)
-
-**May 2026:** Locus
-
-Fork of Pavel Bannikov's repository **Locus** is an app for geolocating photos and video frames. It uses Google Maps by default and analyzes visual details to determine where and when an image was taken. Upload an image and let AI identify its location using landmarks, architecture, and environmental clues.
-
-![alt text](img/locus_500px.jpeg)
-
-**Jan 2026:** [Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
-
-![alt text](img/ea.png)
-
-![alt text](img/ea2.png)
-
-**Jan 2026** [IonaFlow](https://newsmonitor.app) News Monitor Integrations
-
-IonaFlow is a news intelligence platform
-combining comprehensive source
-coverage with AI-powered analysis. The
-platform consolidates thousands of
-sources into organised, searchable feeds
-with flexible filtering.
-
-![alt text](img/iona-1.png)
-
-![alt text](img/iona-2.png)
-
-![alt text](img/iona-3.png)
-
-![alt text](img/iona-4.png)
-
-**Jan 2026:** OSINT Repos Intelligence Pack on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
-
-![alt text](img/int-pack-638px.webp)
-
-![alt text](img/ipack_500px.jpeg)
-
-**Dec 2025:** Together with [@paulpogoda](https://github.com/paulpogoda), we authored the course "ABCs of Prompt Engineering" on the specifics of AI and prompt engineering. The course consisted of four lectures and was held on the [kislorod.io](https://kislorod.io) platform.
-
-Links: [1](https://youtu.be/ZjCBUa1SO14), [2](https://youtu.be/7bR25QI8zug), [3](https://youtu.be/PmQr18f-im0), [4](https://www.youtube.com/watch?v=TJfwld8qsRw)
-
-![alt text](img/pe.png)
-
-**Sep 2024 / Jun 2026:** Began studying at the OLSHA Open Literary School (several literary publications have been written).
-
-![alt text](img/olsha.png)
-
-**Sep 2024 / Jun 2026:** Began studying at Journalism speciality (several jounalistic publications have been written).
-
-![alt text](img/free.png)
-
-**Aug 2024, Sep 2025:** Completed [@paulpogoda](https://github.com/paulpogoda) Profiling OSINT Courses
-
-**Apr 2023 / Now:** OSINT Timelines and Collections activities on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline)
-
-![alt text](img/timelines.jpg)
-
-**Jun 2022 / Now:** OSINT & Investigative Journalistic Activities. Private projects about collecting social data
-
-![alt text](img/people.png)
-
-![alt text](img/people2.png)
-
-![alt text](img/recognize.jpg)
-
-**Nov 2022 / Sep 2025:** Private projects about AD processing (big conveyor)
-
-![alt text](img/ads-1.png)
-
-![alt text](img/ads-2.png)
-
-![alt text](img/ads-3.png)
-
-![alt text](img/ads-4.png)
-
-**Nov 2022 / Aug 2024:** Private OSINT projects for email Checking (Big Conveyors), Database loading, verification, etc
-
-![alt text](img/dprk-1.png)
-
-![alt text](img/dprk-2.png)
-
-**Jan 2023 / Apr 2023:** Private project about collecting companies data on LinkedIn
-
-![alt text](img/conv.jpg)
-
-**Sep 2022 / Aug 2023:** Help for those who fled from mobilization in Russia (non-disclosured)
-
-**Sep 2022:** Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. Transferring my data (about 50,000 people profiles) from proprietary formats to markdown
-
-![alt text](img/linkedin2md.png)
-
-**2022:** [Huginn](https://github.com/bormaxi8080/huginn) private fork/community commits
-
-![alt text](img/huginn.png)
-
-**2022:** [OSINT Framework fork](https://github.com/bormaxi8080/OSINT-Framework)
-
-![alt text](img/osint-framework.png)
-
-**2022:** [Telepathy](https://github.com/bormaxi8080/Telepathy) project updates & [components](https://telepathy.freedesktop.org/components/)
-
-![alt text](img/telepathy.png)
-
-**2022:** Start a [facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) project, the list of phrases in different languages for which you can get banned on Facebook
-
-**May / Jun 2022:** Leave Russian Federation
-
-**Mar / May 2022:** Prepare and change my server infrastructure and communities to the military situation in the world
-
-![alt text](img/blya.jpg)
-
-**Mar 2022 / Aug 2024:** War Crimes Documentation project help (non-disclosured)
-
-**Feb 2022:** Create [batu-poll-checker](https://github.com/bormaxi8080/batu-poll-checker) utility for monitoring the results of voting for orangutan Batu in the election of a New Year's mascot in Novosibirsk, Russia, february 2022, with all the world and Russian media wrote about this incident.
-
-![alt text](img/batu.png)
-
-**Jan 2022:** Create a [NMap packet domain list scanner](https://github.com/bormaxi8080/nmap-scanner) utility, some OSINT tools experiments
-
-![alt text](img/nmap.png)
-
-**Dec 2021:** Close my hiring agency and checkout into NDA place as software developer
-
-**Jun 2021 / Dec 2024:** A **RIP Leaks** community project,  publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic. Project closed.
-
-![alt text](img/500.jpg)
-
-**Jun 2020:** Start a Ebenya Rodiny (aka Fucking Motherland) project, one of the largest collections of graffiti and street art in the world.
-
-![alt text](img/ebenya.png)
-
-**Mar 2020 / Sep 2020:** Compelled Career Break by private reasons
-
-**Jun 2019:** Start hiring developers in Improve Group, the best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First I worked under a contract, then in the state. The company closed in 2021.
-
-**2018 / 2019:** Moderate one of largest HR communities in Russian facebook segment.
-
-**2015:** Start a Hiring Agency
-
-A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the RF to Europe (I took more than 260 families outside the Russian Federation).
-Hiring candidates in IT from the middle level.
-Automated candidate database of 30+ thousand people.
-I created my own community, for 6 years I gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.
-Worked with companies such as Exness, Intel, Plesk, DevExperts, Think-Cell and many others.
-
-A lot of different communications and activities.
-
-![alt text](img/hiring-ticket.png)
-
-**2013:** A [Pencil Test](https://habr.com/ru/articles/193902/) habr's publication with 1M+ views
-
-![alt text](img/pencil.png)
-
-**2000 / 2015:** Software Development in various projects.
-
-![alt text](img/tk.jpg)
-
----
-
-**Especially for my friends and opponents:**
-
-I publicly oppose war and Russian political system. I help projects aimed at exposing state and war crimes (non-disclosured).
-
-I provide consulting and hands-on support in open-source intelligence (OSINT), investigative research, and data-driven analysis.
-Expertise includes OSINT investigations, custom tooling and workflows, data collection and scraping, people and corporate intelligence (KYC, background research), and support for investigative journalism and research communities.
-I do not collaborate with the Russian public sector, Russian banks, or import substitution–related companies.
-
----
-
-## Donates
+## Support
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/osintech)
 
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+If you find my research, tools, or publications useful, you can support OSINTech through Buy Me a Coffee.
 
 ---
+
+> **Note:** The full chronological project history is intentionally omitted from this landing page to keep the profile focused. It can be maintained separately as `PROJECTS.md` or a dedicated portfolio page.
