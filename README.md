@@ -162,7 +162,7 @@ Focus:
 
 ![linkedin2md](img/linkedin2md.png)
 
-* For more project see [OSINTech Projects Change Log](CHANGELOG.md)
+For my full projects list see [OSINTech Projects Change Log](CHANGELOG.md)
 
 ---
 
