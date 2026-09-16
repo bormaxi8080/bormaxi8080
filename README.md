@@ -162,6 +162,8 @@ Focus:
 
 ![linkedin2md](img/linkedin2md.png)
 
+* For more project see [OSINTech Projects Change Log](CHANGELOG.md)
+
 ---
 
 ## Current / Recent Research Work
