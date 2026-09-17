@@ -162,7 +162,7 @@ Focus:
 
 ![linkedin2md](img/linkedin2md.png)
 
-For my full projects list see [OSINTech Projects Change Log](CHANGELOG.md)
+> For my full projects list see [OSINTech Projects Change Log](CHANGELOG.md)
 
 ---
 
@@ -349,4 +349,4 @@ If you find my research, tools, or publications useful, you can support OSINTech
 
 ---
 
-> **Note:** The full chronological project history is intentionally omitted from this landing page to keep the profile focused. It can be maintained separately as `PROJECTS.md` or a dedicated portfolio page.
+> **Note:** The full chronological project history is intentionally omitted from this landing page to keep the profile focused. It maintained separately as [CHANGELOG.md](CHANGELOG.md) portfolio page.
