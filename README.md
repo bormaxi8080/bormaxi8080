@@ -20,7 +20,7 @@ I use AI for extraction, classification, coding, and workflow automation, combin
 
 A modular Python-based platform for collecting heterogeneous web data with Playwright, Puppeteer, Camoufox, HTTP requests, and browser-profile environments. Collection scenarios are separated from individual sources to make workflows reusable and configurable.
 
-**Engineering focus:** parallel and distributed collection, browser automation, reusable processing logic, and AI-assisted scenario generation. **Example output:** the [UFO archive dataset](https://github.com/bormaxi8080/dow-ufo-archive) below. Technical walkthrough available on request.
+**Engineering focus:** parallel and distributed collection, browser automation, reusable processing logic, and AI-assisted scenario generation. **Public case study:** the [UFO archive collection workflow](https://github.com/bormaxi8080/dow-ufo-archive) below. Technical walkthrough available on request.
 
 ![Oriol Web Crawler](img/oriol_500w.jpeg)
 
@@ -30,7 +30,7 @@ A structured snapshot of the [U.S. Department of War UFO archive](https://www.wa
 
 **Input:** public web archive. **Work:** crawling, extraction, normalization, and organization. **Output:** a reusable machine-readable research snapshot.
 
-[Explore the archive dataset](https://github.com/bormaxi8080/dow-ufo-archive)
+[Read the archive collection case study](https://github.com/bormaxi8080/dow-ufo-archive) — public workflow documentation; downloadable JSON is not currently included.
 
 ### OSINT Repos Intelligence Dataset
 
