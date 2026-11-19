@@ -14,7 +14,7 @@ A chronological archive of selected projects, research activities, experiments, 
 
 ### Aug 2026 — fcc-model-check
 
-[fcc-model-check]() is a Bash health-check utility for validating model routing between Free Claude Code (FCC) and NVIDIA NIM.
+[fcc-model-check](https://github.com/bormaxi8080/fcc-model-check) is a Bash health-check utility for validating model routing between Free Claude Code (FCC) and NVIDIA NIM.
 
 ![alt text](img/fcc-model-check.png)
 
