@@ -1,328 +1,102 @@
 # Maxim Marshak / OSINTech
 
-**Research Data Analyst | OSINT Engineer | Investigative Data**  
-**Python · SQL · PostgreSQL · Data Collection · Parsing · Data Quality · AI-assisted Research**
+**Data & OSINT Engineer · Web Scraping · Backend Development**
 
-I work with complex, heterogeneous, and unstructured information - from raw-source acquisition and automated collection to parsing, normalization, validation, structured datasets, and investigative analysis.
+I build tools and workflows for collecting, processing, and verifying public information: web crawlers, data pipelines, backend APIs, and structured research datasets.
 
-My background combines **20+ years in software engineering and data-intensive systems** with **5+ years focused on OSINT, investigations, research, and technical knowledge curation**. I build tools and workflows that turn fragmented public information into reusable, queryable, and verifiable research data.
+My background combines **20+ years in software engineering** with **5+ years focused on OSINT and investigative research**.
 
-[LinkedIn](https://www.linkedin.com/in/osintech/) · [Substack / OSINTech](https://osintech.substack.com/) · [OSINTech Timeline](https://github.com/bormaxi8080/osint-timeline) · Email: `m.marshak@proton.me`
+**Core stack:** Python, SQL, PostgreSQL, JavaScript/TypeScript, Playwright, Docker, Linux.
 
----
+I use AI for extraction, classification, coding, and workflow automation, combined with deterministic checks and source-based verification.
 
-## From Raw Sources to Research Data
+[Selected projects](#selected-projects) · [Upwork](https://www.upwork.com/freelancers/~0193a24bbe412ac7d0) · [LinkedIn](https://www.linkedin.com/in/osintech/) · [Substack](https://osintech.substack.com/) · Email: m.marshak@proton.me
 
-```text
-Raw sources
-    ↓
-Collection / Crawling
-    ↓
-Parsing & Structured Extraction
-    ↓
-Normalization & Enrichment
-    ↓
-Validation / Deduplication / Provenance
-    ↓
-Structured Research Datasets
-    ↓
-Analysis & Investigative Research
-```
+**Workflow:** source collection → parsing and extraction → normalization and enrichment → validation and deduplication → structured data → research and analysis.
 
-I work across this entire pipeline, combining research methodology with hands-on engineering.
+## Selected projects
 
----
+### Oriol Web Crawler — Data Collection & Browser Automation
 
-## Selected Research & Data Projects
+A modular Python-based platform for collecting heterogeneous web data with Playwright, Puppeteer, Camoufox, HTTP requests, and browser-profile environments. Collection scenarios are separated from individual sources to make workflows reusable and configurable.
 
-### 1. Epstein Archive Parser - Large-Scale Investigative Data Processing
-
-[Repository](https://github.com/bormaxi8080/ea-parser)
-
-A research and data-processing toolkit for downloading, parsing, and analyzing documents from the U.S. DOJ Epstein Archives.
-
-**Scale:** approximately **89 GB of source data**; automated analysis identified **6,787 unmasked blocks**.
-
-Key areas:
-- large-scale archive and PDF processing;
-- automated downloading and parsing;
-- duplicate detection;
-- redaction and masked-block analysis;
-- structured extraction from raw source material;
-- investigation-oriented processing and validation.
-
-The project demonstrates a workflow from raw public archive acquisition to automated processing and structured investigative analysis.
-
-![Epstein Archive Parser](img/ea-350px.png)
-
----
-
-### 2. Oriol Web Crawler - Scalable Research Data Collection
-
-A scalable Python-based system for automated collection of heterogeneous web data, browser automation, and reproducible research workflows.
-
-Key areas:
-- automated crawling and data acquisition;
-- multi-engine collection using Playwright, Puppeteer, Camoufox, HTTP requests, AdsPower, and other tools;
-- scenario-based collection workflows;
-- parallel and distributed processing;
-- reusable processing logic for multiple source types;
-- AI-assisted scenario generation and adaptation.
-
-Oriol is designed to separate collection logic from individual sources and make complex acquisition workflows configurable, reproducible, and scalable.
+**Engineering focus:** parallel and distributed collection, browser automation, reusable processing logic, and AI-assisted scenario generation. **Example output:** the [UFO archive dataset](https://github.com/bormaxi8080/dow-ufo-archive) below. Technical walkthrough available on request.
 
 ![Oriol Web Crawler](img/oriol_500w.jpeg)
 
----
+### UFO Archive — Structured Research Dataset
 
-### 3. U.S. Department of War UFO Archive - Structured Research Dataset
+A structured snapshot of the [U.S. Department of War UFO archive](https://www.war.gov/UFO/), collected with Oriol. The workflow transforms heterogeneous public source material into JSON for querying, archival research, enrichment, and downstream processing.
 
-[Source archive](https://www.war.gov/UFO/)
+**Input:** public web archive. **Work:** crawling, extraction, normalization, and organization. **Output:** a reusable machine-readable research snapshot.
 
-Created a structured snapshot of the U.S. Department of War UFO archive using Oriol Web Crawler.
+[Explore the archive dataset](https://github.com/bormaxi8080/dow-ufo-archive)
 
-The workflow converts a heterogeneous public web archive into a reusable **JSON research dataset** suitable for querying, archival analysis, automated processing, and further enrichment.
+### OSINT Repos Intelligence Dataset
 
-**Pipeline:** public archive → automated crawling → extraction → normalization → structured JSON dataset.
+A repository-metadata collection covering OSINT, data collection, automation, infrastructure, and security research. The **14 November 2026 full snapshot contains 4,484 repositories**; the public repository provides a **100-record sample** and the Python generator.
 
-![UFO Archive Dataset](img/uap_colorado_350w.png)
+The generator collects GitHub metadata and produces JSON, Markdown, PDF, topic lists, and start.me bookmarks. Dated snapshots support comparison of newly added repositories.
 
----
+[Generator and public sample](https://github.com/bormaxi8080/osint-repos-list) · [Full release and access details](https://osintech.substack.com/p/osint-repos-intelligence-dataset-62b)
 
-### 4. OSINT Repositories Intelligence Pack - Curated Technology Dataset
+### Source Credibility Overlay — Extension & Backend API
 
-[Repository](https://github.com/bormaxi8080/osint-repos-list)
+A Chrome extension and TypeScript/Fastify backend that collect domain and page signals through RDAP, DNS, TLS, and metadata checks. The Docker Compose stack includes PostgreSQL-backed caching and shared TypeScript contracts.
 
-A curated research dataset covering **3,000+ OSINT-related GitHub repositories and creators/contributors**.
+This is an **MVP with explainable rules**, with limitations documented in the repository. Signals support manual source verification; they do not establish that a site is truthful, false, or malicious.
 
-Key areas:
-- large-scale resource discovery and curation;
-- repository and contributor data collection;
-- entity-centric organization;
-- classification and categorization;
-- metadata enrichment;
-- continuous maintenance of a changing technical ecosystem.
-
-The project is designed as a reusable research resource for discovering and analyzing OSINT tools, developers, and technologies.
-
-![OSINT Repositories Intelligence Pack](img/int-pack.webp)
-
----
-
-### 5. Source Credibility & Evidence Tooling
-
-#### Source Credibility Overlay
-
-[Repository](https://github.com/bormaxi8080/sco-chrome-extension)
-
-Chrome extension and backend API for transparent source-credibility signals. The system collects technical and contextual indicators, explains them, and recommends manual verification when risk is elevated rather than making unsupported binary claims about source reliability.
-
-Focus: **source quality, explainability, provenance, verification workflows, and reproducible evidence assessment**.
+[Source Credibility Overlay: code, setup, and limitations](https://github.com/bormaxi8080/sco-chrome-extension)
 
 ![Source Credibility Overlay](img/sco.png)
 
-#### Pravda Prototype
+### Epstein Archive Parser — Investigative Document Processing
 
-Backend utility for capturing web pages as evidence using real Chrome via Playwright. It stores page snapshots together with metadata so researchers can later demonstrate what a source looked like at a specific time.
+A toolkit for acquisition and processing of the U.S. DOJ Epstein Archives: automated downloading, PDF parsing, duplicate detection, redaction analysis, and extraction for investigative review. The project processed approximately **89 GB of source material**.
 
-Focus: **evidence preservation, metadata, provenance, reproducibility, and research archiving**.
+**Private repository · Technical walkthrough available on request.** Processing figures and interpretation of redaction-analysis outputs can be discussed with the relevant snapshot and methodology.
 
-![Pravda Prototype](img/pravda.jpg)
+### linkedin2md — Structured Profile Data Migration
 
----
+A workflow for transforming heterogeneous professional-profile data into portable Markdown, JSON, PDF, and related research records. It was used while reorganizing a collection that grew to approximately **50,000 profiles**.
 
-### 6. OSINTech Timeline - Continuous OSINT Research & Curation
+The project demonstrates format conversion, entity-centric organization, searchable records, and integration with Markdown/Obsidian workflows. It is an experimental workflow with documented limitations.
 
-[GitHub](https://github.com/bormaxi8080/osint-timeline) · [Substack](https://osintech.substack.com/)
+[linkedin2md: workflow and examples](https://github.com/bormaxi8080/linkedin2md)
 
-A long-running research and curation project tracking OSINT tools, investigations, datasets, AI technologies, cybersecurity resources, and research methods.
+## Technical stack
 
-Each edition combines continuous source monitoring, manual review, classification, curation, and publication for investigators, journalists, analysts, and technical researchers.
+| Area | Tools and methods |
+| --- | --- |
+| Collection | Python, Playwright, Puppeteer, Camoufox, HTTP APIs, scraping and crawling |
+| Data | SQL, PostgreSQL, ClickHouse, JSON/CSV, normalization, enrichment, deduplication |
+| Backend | TypeScript/JavaScript, Node.js, Django, REST APIs, Celery, RabbitMQ |
+| Automation | Bash, Ruby, Perl, Docker, Linux, AWS |
+| AI-assisted workflows | LLM extraction and classification, coding agents, source-based verification |
 
-The project has been maintained since 2023 and functions both as a practitioner-oriented publication and as a continuously evolving research collection.
+My broader engineering background includes legacy systems, integrations, databases, infrastructure, and software in C/C++, Java/.NET, PHP, and other stacks.
 
-![OSINTech Timeline](img/osint-timeline-350px.png)
+## Research, publications & current work
 
----
+**OSINTech’s Timeline** is a weekly collection of OSINT tools, services, datasets, investigations, and research methods, maintained since 2023. It combines source monitoring, manual review, classification, and publication.
 
-### 7. linkedin2md - Structured People Data Migration
+[Timeline archive on GitHub](https://github.com/bormaxi8080/osint-timeline) · [OSINTech’s OSINT Anatomy on Substack](https://osintech.substack.com/) · [Start Here](https://osintech.substack.com/p/start-here-a-guide-to-osintechs-osint)
 
-[Repository](https://github.com/bormaxi8080/linkedin2md)
+**Evidentia / Sourcely:** research and engineering around source verification, evidence organization, data processing, and AI-assisted investigative workflows.
 
-A data-migration and information-structuring project developed while reorganizing a large professional-profile database.
+**Tesari.AI:** OSINT engineering and research-data curation, including collection, source coverage, enrichment, data-quality assessment, and QA of generated investigative reports.
 
-It illustrates a minimalist approach to storing structured information about people in human-readable Markdown instead of proprietary formats and was used during migration of a dataset that grew to approximately **50,000 professional profiles**.
+## Additional tools & experiments
 
-Focus:
-- entity-centric people data;
-- data migration;
-- structured profile representation;
-- searchable and portable records;
-- long-term maintainability of research data.
+- [just-ai](https://github.com/bormaxi8080/just-ai): my extension of the upstream `just` command runner, adding project-context analysis, local command-risk checks, and optional AI assistance. Upstream attribution and fork details are documented in the repository.
+- [fcc-model-check](https://github.com/bormaxi8080/fcc-model-check): diagnostics for model availability and routing between FCC and NVIDIA NIM.
+- [Scam Surface Mapper](https://github.com/bormaxi8080/Scam-Surface-Mapper): a modified fork for mapping web infrastructure in OSINT research.
+- [IP & Location Widget](https://github.com/bormaxi8080/location-widget): a lightweight widget for start.me boards.
+- [Martin](https://github.com/bormaxi8080/martin-codex-pet): an experimental animated companion for Codex Desktop.
 
-![linkedin2md](img/linkedin2md.png)
+The [project history](CHANGELOG.md) includes further prototypes, evidence-capture work, publications, and earlier engineering projects.
 
-> For my full projects list see [OSINTech Projects Change Log](CHANGELOG.md)
-
----
-
-## Current / Recent Research Work
-
-### Evidentia / Sourcely
-
-Software for journalists, fact-checkers, and OSINT researchers to verify sources, structure evidence, and turn open data into trustworthy investigations.
-
-My work is focused on research, OSINT, data processing, automation, and AI-assisted workflows at the intersection of investigative research and software engineering.
-
-### Tesari.AI - OSINT Engineer & Research Data Curator
-
-[Tesari.AI](https://tesari.ai)
-
-Worked with heterogeneous investigative data, collection and curation, research-data quality, source coverage, report QA, and AI-assisted investigation workflows.
-
-Key areas included:
-- OSINT and investigative data collection;
-- data curation and organization;
-- completeness, accuracy, freshness, and consistency assessment;
-- source verification and enrichment;
-- review and QA of generated investigative/company reports;
-- collaboration on research logic and data-related tooling.
-
-![Tesari.AI](img/tesari_350px.jpg)
-
----
-
-## Core Expertise
-
-### Research & Data
-
-- Research data analysis
-- OSINT and investigative research
-- Structured and unstructured data processing
-- Data collection and enrichment
-- Data quality and validation
-- Source verification and provenance
-- Entity-centric research on people, companies, incidents, relationships, and artifacts
-- Research dataset design and curation
-
-### Data Engineering & Automation
-
-- Python and SQL
-- PostgreSQL and ClickHouse
-- APIs and backend services
-- Parsing, scraping, crawling, and structured extraction
-- Automated imports/exports and processing workflows
-- Data normalization, deduplication, and consistency checks
-- Docker/Linux-based research infrastructure
-
-### AI-assisted Research
-
-I use modern LLMs and agentic tools for:
-- structured extraction;
-- classification;
-- research assistance;
-- coding and prototyping;
-- source analysis;
-- data transformation;
-- workflow automation.
-
-**AI output is treated as an intermediate result, not as a source of truth:** model-assisted workflows are combined with deterministic checks, source-based verification, and human review where required.
-
-### Research Communication
-
-- Investigative journalism
-- Technical writing
-- Knowledge curation
-- Research methodology
-- Technical publications for OSINT and investigative communities
-
----
-
-## Technical Stack
-
-**Data & Analytics**  
-Python · SQL · PostgreSQL · ClickHouse · JSON · CSV · APIs
-
-**Collection & Processing**  
-Playwright · Puppeteer · Selenium · Camoufox · Crawling · Parsing · Scraping · Data Enrichment
-
-**AI & Research Tooling**  
-OpenAI / Codex · Claude · Perplexity · NotebookLM · LLM workflows · Structured Extraction · Agentic Tools
-
-**Backend & Automation**  
-Node.js · JavaScript · Ruby · Perl · Bash · Django · REST APIs · Celery · RabbitMQ
-
-**Infrastructure**  
-Docker · Linux · macOS · AWS · Git · Prometheus · Grafana · Zabbix
-
-**Additional engineering experience**  
-C/C++ · Java/.NET · PHP · frontend technologies · virtualization · legacy development stacks
-
----
-
-## Publications & Knowledge Curation
-
-### OSINTech / Substack
-
-[https://osintech.substack.com](https://osintech.substack.com/)
-
-Practitioner-focused technical publication covering:
-- OSINT and investigative methodologies;
-- data and research tooling;
-- AI-assisted investigations;
-- cybersecurity and verification;
-- automation and technical research infrastructure.
-
-### OSINTech Timeline
-
-[GitHub](https://github.com/bormaxi8080/osint-timeline)
-
-A regularly updated collection of tools, services, datasets, investigations, and research methods for the OSINT community.
-
-### LinkedIn
-
-[https://www.linkedin.com/in/osintech/](https://www.linkedin.com/in/osintech/)
-
-Technical articles, OSINT research, tooling notes, data-oriented case studies, and professional updates.
-
----
-
-## Selected Additional Projects & Experiments
-
-These projects are not part of the core Research Data Analyst portfolio but reflect broader engineering and OSINT experience:
-
-- [OSINTech Scam Surface Mapper](https://github.com/bormaxi8080/Scam-Surface-Mapper) - graph-based mapping of suspicious web infrastructure for OSINT and fact-checking.
-- **CRPA / Content Credentials Metadata Extractor** - extraction and analysis of content-origin metadata and AI-generation indicators.
-- **Oriol Fingerprint Collector** - diagnostic server for browser/device fingerprint collection tests.
-- [just-ai](https://github.com/bormaxi8080/just-ai) - AI extension for the `just` command runner with project-context analysis and local risk scoring.
-- [fcc-model-check](https://github.com/bormaxi8080/fcc-model-check) - health-check utility for model routing between Free Claude Code and NVIDIA NIM.
-- [IP & Location Widget](https://github.com/bormaxi8080/location-widget) - lightweight public-IP and location widget.
-- [Martin](https://github.com/bormaxi8080/martin-codex-pet) - experimental animated companion for Codex Desktop.
-
----
-
-## Professional Background
-
-My professional background combines:
-
-- **20+ years of software engineering**, backend development, databases, integrations, automation, and infrastructure;
-- **5+ years focused on OSINT, investigations, and research**;
-- experience building and maintaining an automated people-data system that grew to approximately **50,000 professional profiles**;
-- investigative and journalistic research;
-- technical knowledge curation and publishing;
-- collaboration with researchers, journalists, engineers, and technical communities.
-
-I studied programming/mathematics, history, psychology, literature, and journalism. This combination of engineering and humanities research strongly influences how I approach investigative data: technically rigorous, source-aware, and context-sensitive.
-
----
-
-## GitHub Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bormaxi8080&theme=github_dark)
-
----
-
-## Professional Principles
+## Professional principles
 
 I work openly under my real identity and support independent research, investigative journalism, human-rights work, and democratic civic initiatives.
 
@@ -330,23 +104,8 @@ I publicly oppose Russia's war against Ukraine and support projects documenting 
 
 I do not collaborate with Russian public-sector institutions, Russian banks, or import-substitution-related companies.
 
----
+## Contact & support
 
-## Contacts
+For data collection, backend development, OSINT tooling, and research projects: [Upwork](https://www.upwork.com/freelancers/~0193a24bbe412ac7d0), [LinkedIn](https://www.linkedin.com/in/osintech/), or m.marshak@proton.me.
 
-- **LinkedIn:** [linkedin.com/in/osintech](https://www.linkedin.com/in/osintech/)
-- **Substack:** [osintech.substack.com](https://osintech.substack.com/)
-- **GitHub:** [github.com/bormaxi8080](https://github.com/bormaxi8080)
-- **Email:** `m.marshak@proton.me`
-
----
-
-## Support
-
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/osintech)
-
-If you find my research, tools, or publications useful, you can support OSINTech through Buy Me a Coffee.
-
----
-
-> **Note:** The full chronological project history is intentionally omitted from this landing page to keep the profile focused. It maintained separately as [CHANGELOG.md](CHANGELOG.md) portfolio page.
+If my tools or publications help your work, you can [support OSINTech on Buy Me a Coffee](https://buymeacoffee.com/osintech).
