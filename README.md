@@ -84,18 +84,6 @@ A toolkit for acquisition and processing of the U.S. DOJ Epstein Archives: autom
 
 *Project overview — source archive, document examples, and processing output.*
 
-### linkedin2md — Structured Profile Data Migration
-
-A workflow for transforming heterogeneous professional-profile data into portable Markdown, JSON, PDF, and related research records. It was used while reorganizing a collection that grew to approximately **50,000 profiles**.
-
-The project demonstrates format conversion, entity-centric organization, searchable records, and integration with Markdown/Obsidian workflows. It is an experimental workflow with documented limitations.
-
-[linkedin2md: workflow and examples](https://github.com/bormaxi8080/linkedin2md)
-
-<a href="img/linkedin2md.png"><img src="img/linkedin2md.png" alt="linkedin2md example showing a profile converted into Markdown, PDF, JSON, VCF, and related research files" width="640"></a>
-
-*Documented conversion example — a profile organized into portable files and supporting artifacts.*
-
 ### theOA — Human Intelligence & Research Workspace
 
 An OSINT research-system concept for organizing people, organizations, source materials, and evidence-backed relationships in a shared knowledge base. Investigations reuse records while preserving data provenance, review states, and the separation between source access and project participation.
@@ -107,6 +95,18 @@ An OSINT research-system concept for organizing people, organizations, source ma
 <a href="img/theoa-ui-prototype.jpg"><img src="img/theoa-ui-prototype.jpg" alt="theOA UI prototype showing a shared knowledge base with fictional entities, source collections, review states, and research navigation" width="760"></a>
 
 *Knowledge-base screen captured in DuckDuckGo — UI Prototype 0.3.0, fictional demonstration data, no backend connection.*
+
+### linkedin2md — Structured Profile Data Migration
+
+A workflow for transforming heterogeneous professional-profile data into portable Markdown, JSON, PDF, and related research records. It was used while reorganizing a collection that grew to approximately **50,000 profiles**.
+
+The project demonstrates format conversion, entity-centric organization, searchable records, and integration with Markdown/Obsidian workflows. It is an experimental workflow with documented limitations.
+
+[linkedin2md: workflow and examples](https://github.com/bormaxi8080/linkedin2md)
+
+<a href="img/linkedin2md.png"><img src="img/linkedin2md.png" alt="linkedin2md example showing a profile converted into Markdown, PDF, JSON, VCF, and related research files" width="640"></a>
+
+*Documented conversion example — a profile organized into portable files and supporting artifacts.*
 
 ## Technical stack
 
