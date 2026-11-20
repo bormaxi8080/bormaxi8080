@@ -96,6 +96,18 @@ The project demonstrates format conversion, entity-centric organization, searcha
 
 *Documented conversion example — a profile organized into portable files and supporting artifacts.*
 
+### theOA — Human Intelligence & Research Workspace
+
+An OSINT research-system concept for organizing people, organizations, source materials, and evidence-backed relationships in a shared knowledge base. Investigations reuse records while preserving data provenance, review states, and the separation between source access and project participation.
+
+**Engineering and design focus:** entity and evidence modeling, relationship graphs, modular backend architecture, versioned data contracts, and planned provider-neutral AI analysis with versioned prompts and explicit processing permissions.
+
+**Status:** private, design-stage project with an interactive English/Russian UI prototype using fictional data, a preliminary OpenAPI contract, and a Python API scaffold. Business authentication, authorization, ingestion, and persistence are not implemented; no production release has been published. Concept and architecture walkthrough available on request.
+
+<a href="img/theoa-ui-prototype.jpg"><img src="img/theoa-ui-prototype.jpg" alt="theOA UI prototype showing a shared knowledge base with fictional entities, source collections, review states, and research navigation" width="760"></a>
+
+*Knowledge-base screen captured in DuckDuckGo — UI Prototype 0.3.0, fictional demonstration data, no backend connection.*
+
 ## Technical stack
 
 | Area | Tools and methods |
