@@ -16,21 +16,39 @@ I use AI for extraction, classification, coding, and workflow automation, combin
 
 ## Selected projects
 
-### Oriol Web Crawler — Data Collection & Browser Automation
+### Oriol v.2 / Kameleo — Browser Automation & Workflow Orchestration
+
+A Python-based platform for managing browser automation through a centralized web interface. It brings together task scheduling, browser profiles, proxy management, and execution monitoring.
+
+The architecture separates the control plane from task execution across runners and node agents, with PostgreSQL-backed operational state and versioned task revisions. **Engineering focus:** backend APIs, workflow orchestration, desktop and mobile browser execution, and operational observability.
+
+**Status:** private project · 2.0 alpha · technical walkthrough available on request.
+
+<a href="img/dashboard.jpg"><img src="img/dashboard.jpg" alt="Oriol v.2 Kameleo Web Admin dashboard showing operational readiness, workload, and browser automation resources" width="760"></a>
+
+*Web Admin dashboard — 3 October 2026 snapshot, showing the alpha interface and operational state.*
+
+### Oriol v.1 — Web Crawling & Data Collection
 
 A modular Python-based platform for collecting heterogeneous web data with Playwright, Puppeteer, Camoufox, HTTP requests, and browser-profile environments. Collection scenarios are separated from individual sources to make workflows reusable and configurable.
 
 **Engineering focus:** parallel and distributed collection, browser automation, reusable processing logic, and AI-assisted scenario generation. **Public case study:** the [UFO archive collection workflow](https://github.com/bormaxi8080/dow-ufo-archive) below. Technical walkthrough available on request.
 
-![Oriol Web Crawler](img/oriol_500w.jpeg)
+<a href="img/oriol_500w.jpeg"><img src="img/oriol_500w.jpeg" alt="Oriol v.1 console interface for web crawling and data collection" width="500"></a>
+
+*Oriol v.1 console — the predecessor to v.2 and the collection platform used for the UFO Archive case study.*
 
 ### UFO Archive — Structured Research Dataset
 
-A structured snapshot of the [U.S. Department of War UFO archive](https://www.war.gov/UFO/), collected with Oriol. The workflow transforms heterogeneous public source material into JSON for querying, archival research, enrichment, and downstream processing.
+A structured snapshot of the [U.S. Department of War UFO archive](https://www.war.gov/UFO/), collected with **Oriol v.1**. The workflow transforms heterogeneous public source material into JSON for querying, archival research, enrichment, and downstream processing.
 
 **Input:** public web archive. **Work:** crawling, extraction, normalization, and organization. **Output:** a reusable machine-readable research snapshot.
 
 [Read the archive collection case study](https://github.com/bormaxi8080/dow-ufo-archive) — public workflow documentation; downloadable JSON is not currently included.
+
+<a href="img/uap_1.png"><img src="img/uap_1.png" alt="UFO Archive JSON snapshot showing source metadata, record counts, and structured archive links" width="760"></a>
+
+*JSON output example — metadata from the 14 June 2026 snapshot, containing 294 records.*
 
 ### OSINT Repos Intelligence Dataset
 
@@ -40,6 +58,10 @@ The generator collects GitHub metadata and produces JSON, Markdown, PDF, topic l
 
 [Generator and public sample](https://github.com/bormaxi8080/osint-repos-list) · [Full release and access details](https://osintech.substack.com/p/osint-repos-intelligence-dataset-62b)
 
+<a href="img/repos-list.png"><img src="img/repos-list.png" alt="Generated OSINT repository report from 30 January 2026 with 3282 repositories" width="700"></a>
+
+*Historical report example — 30 January 2026, 3,282 repositories. The later full snapshot described above contains 4,484 repositories.*
+
 ### Source Credibility Overlay — Extension & Backend API
 
 A Chrome extension and TypeScript/Fastify backend that collect domain and page signals through RDAP, DNS, TLS, and metadata checks. The Docker Compose stack includes PostgreSQL-backed caching and shared TypeScript contracts.
@@ -48,13 +70,19 @@ This is an **MVP with explainable rules**, with limitations documented in the re
 
 [Source Credibility Overlay: code, setup, and limitations](https://github.com/bormaxi8080/sco-chrome-extension)
 
-![Source Credibility Overlay](img/sco.png)
+<a href="img/sco.png"><img src="img/sco.png" alt="Source Credibility Overlay interface example showing domain signals and a manual verification prompt on a demonstration news page" width="760"></a>
+
+*Interface example on a demonstration news page — domain signals and an explainable prompt for manual verification.*
 
 ### Epstein Archive Parser — Investigative Document Processing
 
 A toolkit for acquisition and processing of the U.S. DOJ Epstein Archives: automated downloading, PDF parsing, duplicate detection, redaction analysis, and extraction for investigative review. The project processed approximately **89 GB of source material**.
 
 **Private repository · Technical walkthrough available on request.** Processing figures and interpretation of redaction-analysis outputs can be discussed with the relevant snapshot and methodology.
+
+<a href="img/ea.png"><img src="img/ea.png" alt="Epstein Archive project overview with the DOJ source archive, document examples, and processing output" width="500"></a>
+
+*Project overview — source archive, document examples, and processing output.*
 
 ### linkedin2md — Structured Profile Data Migration
 
@@ -63,6 +91,10 @@ A workflow for transforming heterogeneous professional-profile data into portabl
 The project demonstrates format conversion, entity-centric organization, searchable records, and integration with Markdown/Obsidian workflows. It is an experimental workflow with documented limitations.
 
 [linkedin2md: workflow and examples](https://github.com/bormaxi8080/linkedin2md)
+
+<a href="img/linkedin2md.png"><img src="img/linkedin2md.png" alt="linkedin2md example showing a profile converted into Markdown, PDF, JSON, VCF, and related research files" width="640"></a>
+
+*Documented conversion example — a profile organized into portable files and supporting artifacts.*
 
 ## Technical stack
 
