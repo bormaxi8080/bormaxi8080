@@ -1,10 +1,56 @@
 # OSINTech Projects Change Log
 
-A chronological archive of selected projects, research activities, experiments, tools, and technical work previously listed in the OSINTech GitHub profile README.
+A chronological archive of selected projects, research activities, experiments, tools, and technical work featured in the [OSINTech GitHub profile](README.md). Historical entries retain their original dates; later status updates distinguish current scope, availability, and maturity from earlier concepts.
+
+Last reviewed against the profile README: **20 November 2026**.
 
 ---
 
 ## 2026
+
+### 20 Nov 2026 — Portfolio documentation update
+
+The profile now presents eight selected projects with screenshots: Oriol v.2, Oriol v.1, UFO Archive, OSINT Repos Intelligence Dataset, Source Credibility Overlay, Epstein Archive Parser, theOA, and linkedin2md. TheOA appears immediately before linkedin2md.
+
+The profile also lists the [IP & Location Widget](https://github.com/bormaxi8080/location-widget), a lightweight widget for start.me boards. Its inclusion here records current portfolio coverage, not an original release date.
+
+Descriptions distinguish private projects from public code and samples, design concepts from implemented functionality, and dated screenshots from current project status. This entry records a portfolio documentation update, not a software release.
+
+### Nov 2026 — theOA: Human Intelligence & Research Workspace
+
+An OSINT research-system concept for organizing people, organizations, source materials, and evidence-backed relationships in a shared knowledge base. Investigations reuse records while preserving data provenance, review states, and the separation between source access and project participation.
+
+**Engineering and design focus:** entity and evidence modeling, relationship graphs, modular backend architecture, versioned data contracts, and planned provider-neutral AI analysis with versioned prompts and explicit processing permissions.
+
+**Status at review:** private, design-stage project. Current materials include an interactive English/Russian UI prototype using fictional data, a preliminary OpenAPI contract, and a Python API scaffold. Business authentication, authorization, ingestion, and persistence are not implemented; no production release has been published. Concept and architecture walkthrough available on request.
+
+The documented design began on 28 October 2026; UI Prototype 0.3.0 was updated on 3 November 2026. The June entry below preserves earlier visual identity concepts.
+
+<a href="img/theoa-ui-prototype.jpg"><img src="img/theoa-ui-prototype.jpg" alt="theOA knowledge-base UI prototype with fictional demonstration data" width="760"></a>
+
+*Knowledge-base screen captured in DuckDuckGo — UI Prototype 0.3.0, fictional data, no backend connection.*
+
+### 14 Nov 2026 — OSINT Repos Intelligence Dataset
+
+The full dated snapshot contains **4,484 repositories** covering OSINT, data collection, automation, infrastructure, and security research. The [public repository](https://github.com/bormaxi8080/osint-repos-list) provides a **100-record sample** and the Python generator; [full release and access details](https://osintech.substack.com/p/osint-repos-intelligence-dataset-62b) are published separately.
+
+The generator collects GitHub metadata and produces JSON, Markdown, PDF, topic lists, and start.me bookmarks. Dated snapshots support comparison of newly added repositories.
+
+![OSINT repository report example](img/repos-list.png)
+
+*Historical report screenshot — 30 January 2026, 3,282 repositories; it illustrates an earlier output rather than the 14 November snapshot.*
+
+### Oct–Nov 2026 — Oriol v.2 / Kameleo: Browser Automation & Workflow Orchestration
+
+A Python-based platform for managing browser automation through a centralized web interface, bringing together task scheduling, browser profiles, proxy management, and execution monitoring.
+
+The architecture separates the control plane from task execution across runners and node agents, with PostgreSQL-backed operational state and versioned task revisions. Engineering focus: backend APIs, workflow orchestration, desktop and mobile browser execution, and operational observability.
+
+**Status at review:** private project, 2.0 alpha; technical walkthrough available on request. Oriol v.1 remains a separate predecessor and was the collection platform used for the UFO Archive case study. That v.1 result is not presented as a v.2 case study.
+
+<a href="img/dashboard.jpg"><img src="img/dashboard.jpg" alt="Oriol v.2 Kameleo Web Admin dashboard" width="760"></a>
+
+*Web Admin screenshot — 3 October 2026, showing the alpha interface and operational state; not a production performance benchmark.*
 
 ### Sep 2026 — Martin
 
@@ -20,7 +66,7 @@ A chronological archive of selected projects, research activities, experiments, 
 
 ### Jun 2026 — Evidentia / Sourcely
 
-Evidentia / Sourcely — software for journalists, fact-checkers, and OSINT researchers to verify sources, structure evidence, and turn open data into trustworthy investigations.
+Research and software engineering around source verification, evidence organization, data processing, and AI-assisted investigative workflows for journalists, fact-checkers, and OSINT researchers.
 
 ### Jun 2026 — just-ai
 
@@ -28,15 +74,17 @@ Evidentia / Sourcely — software for journalists, fact-checkers, and OSINT rese
 
 ![alt text](img/just-ai.png)
 
-### Jun 2026 — Source Credibility Overlay
+### Jun 2026 — Source Credibility Overlay: Extension & Backend API
 
-[Source Credibility Overlay](https://github.com/bormaxi8080/sco-chrome-extension) Chrome Extension Prototype. Chrome extension plus backend API for transparent source credibility signals. The project does not claim that a site is fake or malicious. It collects technical and contextual signals, explains them, and recommends manual verification when risk is elevated.
+[Source Credibility Overlay](https://github.com/bormaxi8080/sco-chrome-extension) is a Chrome extension and TypeScript/Fastify backend for collecting domain and page signals through RDAP, DNS, TLS, and metadata checks. The Docker Compose stack includes PostgreSQL-backed caching and shared TypeScript contracts.
 
-![alt text](img/sco.png)
+**Status:** MVP with explainable rules and documented limitations. Signals support manual source verification; they do not establish that a site is truthful, false, or malicious.
 
-![alt text](img/sco2.png)
+![Source Credibility Overlay interface example on a demonstration page](img/sco.png)
 
-![alt text](img/sco3.png)
+![Source Credibility Overlay additional interface example](img/sco2.png)
+
+![Source Credibility Overlay additional interface example](img/sco3.png)
 
 ### Jun 2026 — Pravda New Prototype
 
@@ -48,27 +96,31 @@ A backend utility/service for capturing web pages as evidence: it opens a URL in
 
 ![alt text](img/pravda3.jpg)
 
-### Jun 2026 — US Department of War UFO Archive Snapshot
+### Jun 2026 — UFO Archive: Structured Research Dataset
 
-[US Department of War UFO Archive Snapshot](https://www.war.gov/UFO/) with full JSON Structured Dataset. Parsed by Oriol Web Crawler System.
+A structured snapshot of the [U.S. Department of War UFO archive](https://www.war.gov/UFO/), collected with **Oriol v.1**. The workflow transforms heterogeneous public source material into JSON for querying, archival research, enrichment, and downstream processing.
 
-![alt text](img/uap_colorado.png)
+**Input:** public web archive. **Work:** crawling, extraction, normalization, and organization. **Output:** a reusable machine-readable research snapshot.
 
-![alt text](img/uap_1.png)
+[Public collection case study](https://github.com/bormaxi8080/dow-ufo-archive) — workflow documentation; downloadable JSON is not currently included. The JSON screenshot below shows metadata from the **14 June 2026 snapshot, containing 294 records**.
 
-![alt text](img/uap_2.png)
+![UFO archive source material example](img/uap_colorado.png)
 
-![alt text](img/uap_3.png)
+![UFO Archive JSON snapshot metadata](img/uap_1.png)
 
-### Jun 2026 — The OA Human Resource Intelligence System Concept
+![UFO Archive structured record example](img/uap_2.png)
 
-The OA Human Resource Intelligence System Concept
+![UFO Archive additional project screenshot](img/uap_3.png)
 
-![alt text](img/oa.jpeg)
+### Jun 2026 — theOA: Early Visual Identity Concepts
 
-![alt text](img/oa2.jpeg)
+Historical branding explorations using the earlier “Human Resource Intelligence” wording. These images are visual identity concepts. The current research-workspace scope, design-stage status, and actual UI prototype are described in the November 2026 entry above.
 
-![alt text](img/oa3.jpeg)
+![Early theOA logo concept](img/oa.jpeg)
+
+![Early theOA visual identity concept](img/oa2.jpeg)
+
+![Early theOA logo and application icon concept](img/oa3.jpeg)
 
 ### Jun 2026 — OpenRouter / Claude / NVIDIA Nemotron / CodeBase / Free Claude Code Experiments
 
@@ -82,17 +134,15 @@ OpenRouter/Claude/NVIDIA Nemotron/CodeBase/Free Claude Code Experiments
 
 ![alt text](img/claude_output_500px.jpeg)
 
-### May 2026 — Oriol Web Crawler
+### May 2026 — Oriol v.1: Web Crawling & Data Collection
 
-A scalable system for complex browser automation, data collection, web script testing, and distributed traffic management.
+A modular Python-based platform for collecting heterogeneous web data with Playwright, Puppeteer, Camoufox, HTTP requests, and browser-profile environments. Collection scenarios are separated from individual sources to make workflows reusable and configurable.
 
-- Multithreaded Python server with a management console.
-- Support for multiple automation engines: Puppeteer, Camoufox, Playwright, Requests, AdsPower, and others.
-- Dynamically enabled scenarios, including those generated and adapted by AI.
-- Probabilistic action model: transitions, views, clicks, scrolling, interactions with buttons, links, sliders, and other interface elements.
-- and other features...
+**Engineering focus:** parallel and distributed collection, browser automation, reusable processing logic, and AI-assisted scenario generation. The [UFO Archive collection workflow](https://github.com/bormaxi8080/dow-ufo-archive) is a public v.1 case study. Technical walkthrough available on request.
 
-![alt text](img/oriol.jpg)
+Oriol v.1 is the predecessor to the separate Oriol v.2 / Kameleo alpha project described above.
+
+![Oriol v.1 management console](img/oriol.jpg)
 
 #### Oriol Fingerprint Collector
 
@@ -114,14 +164,9 @@ Act as Subject Matter Expert
 
 [Tesari.AI](https://tesari.ai)
 
-Act as Subject Matter Expert & Library Curator:
+Contributed as a Subject Matter Expert, Library Curator, and OSINT Engineer, working on research-data curation, source coverage, collection, enrichment, data-quality assessment, and QA of AI-generated investigative reports.
 
-- Leveraged advanced methodologies to support investigative processes and align with organizational objectives.
-- Ensured the effective curation of data for actionable insights, enhancing overall operational efficiency.
-
-Act as OSINT Engineer:
-
-- Contributed as an OSINT Engineer at Tesari AI, focusing on data collection and management.
+The dates above describe this historical engagement.
 
 ![alt text](img/tesari-1.png)
 
@@ -165,13 +210,15 @@ Fork of Pavel Bannikov's repository **Locus** is an app for geolocating photos a
 
 ![alt text](img/locus_500px.jpeg)
 
-### Jan 2026 — Epshtein Archive Parser
+### Jan 2026 — Epstein Archive Parser: Investigative Document Processing
 
-[Epshtein Archive Parser](https://github.com/bormaxi8080/ea-parser) A small toolkit to download and analyze files from the DOJ Epstein Archives and to inspect PDF collections for duplicates and redactions, and decomposite masked blocks. 6787 unmasked blocks on 89Gb data. Private repository, available on demand.
+A private toolkit for acquisition and processing of the U.S. DOJ Epstein Archives: automated downloading, PDF parsing, duplicate detection, redaction analysis, and extraction for investigative review. The project processed approximately **89 GB of source material**.
 
-![alt text](img/ea.png)
+**Private repository · Technical walkthrough available on request.** Processing figures and interpretation of redaction-analysis outputs require the relevant snapshot and methodology. Redaction analysis is not presented as proof that hidden text was recovered.
 
-![alt text](img/ea2.png)
+![Epstein Archive source materials and processing overview](img/ea.png)
+
+![Historical archive folder-size comparison](img/ea2.png)
 
 ### Jan 2026 — IonaFlow
 
@@ -187,13 +234,15 @@ IonaFlow is a news intelligence platform combining comprehensive source coverage
 
 ![alt text](img/iona-4.png)
 
-### Jan 2026 — OSINT Repos Intelligence Pack
+### Jan 2026 — OSINT Repos Intelligence Pack: Early Release
 
-OSINT Repos Intelligence Pack on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-repos-list) of GitiHub Repositories and its creators (more than 3000 repositories and contributors). Private repository, available on demand.
+An earlier release of the repository-metadata collection, originally presented as the OSINT Repos Intelligence Pack, covering more than 3,000 GitHub repositories and their creators.
 
-![alt text](img/int-pack-638px.webp)
+The project is now presented as the **OSINT Repos Intelligence Dataset**. The [public repository](https://github.com/bormaxi8080/osint-repos-list) contains the generator and a 100-record sample; full snapshots have separate [release and access details](https://osintech.substack.com/p/osint-repos-intelligence-dataset-62b). See the 14 November 2026 entry above for the 4,484-repository snapshot.
 
-![alt text](img/ipack_500px.jpeg)
+![Early OSINT Repos Intelligence Pack cover](img/int-pack-638px.webp)
+
+![Historical OSINT Repos Intelligence Pack project screenshot](img/ipack_500px.jpeg)
 
 ---
 ## 2025
@@ -208,7 +257,9 @@ Links: [1](https://youtu.be/ZjCBUa1SO14), [2](https://youtu.be/7bR25QI8zug), [3]
 
 ### Apr 2023 / Now — OSINT Timelines and Collections
 
-OSINT Timelines and Collections activities on [Substack](https://osintech.substack.com/) and [GitHub](https://github.com/bormaxi8080/osint-timeline)
+**OSINTech’s Timeline** is a weekly collection of OSINT tools, services, datasets, investigations, and research methods, maintained since 2023. It combines source monitoring, manual review, classification, and publication.
+
+[Timeline archive on GitHub](https://github.com/bormaxi8080/osint-timeline) · [OSINTech’s OSINT Anatomy on Substack](https://osintech.substack.com/)
 
 ![alt text](img/timelines.jpg)
 
@@ -264,11 +315,13 @@ Private project about collecting companies data on LinkedIn.
 
 War Crimes Documentation project help (non-disclosured).
 
-### Sep 2022 — linkedin2md
+### Sep 2022 — linkedin2md: Structured Profile Data Migration
 
-Create [linkedin2md repository](https://github.com/bormaxi8080/linkedin2md) illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format. Transferring my data (about 50,000 people profiles) from proprietary formats to markdown.
+[linkedin2md](https://github.com/bormaxi8080/linkedin2md) is a workflow for transforming heterogeneous professional-profile data into portable Markdown, JSON, PDF, and related research records. It was used while reorganizing a collection that grew to approximately **50,000 profiles**.
 
-![alt text](img/linkedin2md.png)
+The project demonstrates format conversion, entity-centric organization, searchable records, and integration with Markdown/Obsidian workflows. It is an experimental workflow with documented limitations.
+
+![linkedin2md documented profile-conversion example](img/linkedin2md.png)
 
 ### 2022 — Huginn
 
