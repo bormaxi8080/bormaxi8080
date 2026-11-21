@@ -10,7 +10,7 @@ My background combines **20+ years in software engineering** with **5+ years foc
 
 I use AI for extraction, classification, coding, and workflow automation, combined with deterministic checks and source-based verification.
 
-[Selected projects](#selected-projects) · [Upwork](https://www.upwork.com/freelancers/~0193a24bbe412ac7d0) · [LinkedIn](https://www.linkedin.com/in/osintech/) · [Substack](https://osintech.substack.com/) · Email: m.marshak@proton.me
+[Selected projects](#selected-projects) · [Upwork](https://www.upwork.com/freelancers/~0193a24bbe412ac7d0) · [Freelancer.com](https://www.freelancer.com/u/maximm46) · [Apify](https://apify.com/marshak) · [LinkedIn](https://www.linkedin.com/in/osintech/) · [Substack](https://osintech.substack.com/) · Email: m.marshak@proton.me
 
 **Workflow:** source collection → parsing and extraction → normalization and enrichment → validation and deduplication → structured data → research and analysis.
 
@@ -150,6 +150,6 @@ I do not collaborate with Russian public-sector institutions, Russian banks, or 
 
 ## Contact & support
 
-For data collection, backend development, OSINT tooling, and research projects: [Upwork](https://www.upwork.com/freelancers/~0193a24bbe412ac7d0), [LinkedIn](https://www.linkedin.com/in/osintech/), or m.marshak@proton.me.
+For data collection, backend development, OSINT tooling, and research projects: [Upwork](https://www.upwork.com/freelancers/~0193a24bbe412ac7d0), [Freelancer.com](https://www.freelancer.com/u/maximm46), [Apify](https://apify.com/marshak), [LinkedIn](https://www.linkedin.com/in/osintech/), or m.marshak@proton.me.
 
 If my tools or publications help your work, you can [support OSINTech on Buy Me a Coffee](https://buymeacoffee.com/osintech).
